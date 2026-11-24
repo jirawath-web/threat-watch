@@ -1,5 +1,50 @@
 [
  {
+  "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+  "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+  "source": "The Hacker News",
+  "published": "2026-11-24T12:42:09+00:00",
+  "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg"
+ },
+ {
+  "title": "Jensen Huang กลับเข้าสำนักงานใหญ่ NVIDIA แล้ว พนักงานยืนปรบมือต้อนรับอย่างอบอุ่น",
+  "link": "https://www.blognone.com/node/152246",
+  "source": "Blognone News",
+  "published": "2026-11-24T12:09:17+00:00",
+  "summary": "Jensen Huang กลับเข้าสำนักงานใหญ่ NVIDIA แล้ว พนักงานยืนปรบมือต้อนรับอย่างอบอุ่น Body มีประเด็นเพิ่มเติมจากการที่ NVIDIA ประกาศให้ Jensen Huang กลับมาเป็นซีอีโอบริษัทอีกครั้ง ถึงแม้มุมมองต่อเรื่องนี้จะมีหลากหลาย แต่มันก็",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+  "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+  "source": "The Hacker News",
+  "published": "2026-11-24T12:02:00+00:00",
+  "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOJqhOn7t8wd3NeMCWVCg9xmusuRJmZuaePaCbKTif2XsPpPhu0fR1NwQncA4y-wAMmLOzylBZ3ebd9f4G8F6K54sUdnZ2cTn6yPq1RgAKrh4lSX3y1Ll8LIywXkDyVXItUuUGS4sy0BVUMhwXPvOZGdxhvwnd55_OvjOVnh2CfnAeURMVcmafuFgJlQ/s1600/windows.net.jpg"
+ },
+ {
+  "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+  "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+  "source": "The Hacker News",
+  "published": "2026-11-24T12:01:54+00:00",
+  "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through fast",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgNbpx-KISiy12Rp8KNb5ElWQADJtyC7fLFuLFCc7WzbOjCP5CmU2dPyuwhq5kRSQP5lOuwwFhvZovILCzeMgaSes8APbVabNVpJB71EC56WrojqqLU-tjIr2MFDPK8fMHnu-dx35G-p6btlQb1xU16c8IPrY4cs0k8t1pufSHgp74Y5HtqiAVk4A1QI/s1600/2027.jpg"
+ },
+ {
+  "title": "มีคนเล่น GTA 6 บน PS 5 วันแรกมากกว่า 39 ล้านคน สูงสุดในประวัติศาสตร์เกม PlayStation",
+  "link": "https://www.blognone.com/node/152245",
+  "source": "Blognone News",
+  "published": "2026-11-24T11:36:10+00:00",
+  "summary": "มีคนเล่น GTA 6 บน PS 5 วันแรกมากกว่า 39 ล้านคน สูงสุดในประวัติศาสตร์เกม PlayStation Body นอกจาก GTA 6 จะทำ เงินเฉพาะวันแรก เป็นประวัติศาสตร์แล้ว ยังทำสถิติใหม่ให้กับ Sony ด้วย โดยทาง Sony ประกาศว่า มีคนเล่น GTA 6 พร้อมกั",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
   "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
   "source": "The Hacker News",
@@ -1711,46 +1756,6 @@
   "source": "Google News: Security",
   "published": "2025-08-30T07:00:00+00:00",
   "summary": "UPDATE: วันแรก Thailand Security Dialogue 2025 ตีโจทย์ยุทธศาสตร์ความมั่นคง ชูความร่วมมือระดับภูมิภาค-ระดับโลก . วันแรกของเวทีสัมนาความมั่นคงระหว่างประเทศ Thailand Security Dialogue 2025 “Peace and Security in a Global Di",
-  "severity": "info"
- },
- {
-  "title": "เวที Thailand Security Dialogue 2025 รวมผู้นำความคิดด้านความมั่นคงจากทั่วโลก 🌏 . เตรียมพบกับผู้เชี่ยวชาญจากองค์กรชั้นนำระดับโลก อาทิ 👇 . 🌐 USINDOPACOM, USA 🌐 United Nations Office on Drugs and Crime (UNODC) 🌐 Daniel K. I",
-  "link": "https://news.google.com/rss/articles/CBMixgVBVV95cUxPLWc5bjlGYzlvVHRfeDRROTBZbGdFT2h4UVBSWkZFZFh2enNQOE15cFFGZHdiY1dZeXBGUVdEUzU2dExyQ0JjanBOZE9EV2lwQUc2U1duaENWeDlQbWdZQTlWbFFPaGNYbDN0SEpDa09BcG5iV3A0UEdpSFE5ZHhrMUlaR3hHRFVLaWRDMkNCSWR3eG5XVkszOFhCTy0zT3hOczA5ZTFla1kzOXpEdGdtMWtBdXVydEQtZFhoLUxGRUxpXzVJVHNjQlZnSnZzOUtxTHNWc0JiMU82OG95OXp1blk5cmF1RFJwcmROTjJXQ3JjTFRTYUtqX3JHa3pHWTJ2Q2RKTHpabGdJY0k1aDNqY2xRcjUtTTY4cF9Gc1Fxc3J3QkFSbHhKMkxYRHh3bjZBYWtNMkZOZnNRU1lXUEFNTVpPRzhPY3ZKMDZEMHBnQWJDVTU3bUxIeE9uN1VVWk5ueVFhRjBxdWZ4ZGN3dDQ0cFpXUTU2S1FNU3psMmZhSDdFYTM4a3ZlMEVZUEFBc3NMWkJJZ1hNMTRRU3VSY0pUbGtBdElrT0VwZXRGaVV6ZmRqZGZOelF5T1p1dVNGU0J2ZGRRT2Y4YWV1am5sNktmdkpSYjVXNU9rM2JBOHVaVXV0SVk4alhRb0g0REZNNHdoYUlYNmowWHQ1S1hmYkNxSVBxZXRuVzcxUDh4b1ZkVTNudmdxQXktOXF6R1JDVHp6SHAxRFlsT3l2d1FKSG9BTnYyaTgzNmhhaUstUXZXUXhtTU1keHFnLTBrS095U1M0TmdoXzgyVmRBS0ZtUzRwd0hJVThMcF9SbjN0T2c2UU5Gc2ZFRllrekszdmd5eUVaMExvRXBiY0IwVS15S1Nua1c2YTVRcklGZGJIVFQ3elozaG0wQ2xTVFE3bzd1ODh2R3ptYVpCdkF5eVVVMzlrM2E4Q3d2Zw?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-08-29T07:00:00+00:00",
-  "summary": "เวที Thailand Security Dialogue 2025 รวมผู้นำความคิดด้านความมั่นคงจากทั่วโลก 🌏 . เตรียมพบกับผู้เชี่ยวชาญจากองค์กรชั้นนำระดับโลก อาทิ 👇 . 🌐 USINDOPACOM, USA 🌐 United Nations Office on Drugs and Crime (UNODC) 🌐 Daniel K. I",
-  "severity": "info"
- },
- {
-  "title": "เสริมความแข็งแกร่งด้าน Security บน AWS ด้วย Amazon Q Developer (Part 2) - Amazon Web Services (AWS)",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIOFI1X1RsY3dTdjJrOTF2eHltSC1PTzdzZnFyZnMzZllVdWNydXNqMlF1Y3BvbEVmT0JWTW1rTExrc21mRkdheWh6X3FxMjk5OU9qdm5rMWZNZU9fWWpjemJRMVU0OV83LUZTRkUyT29SNE1Ieko2Y0Z2S21lSU0?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-08-15T07:00:00+00:00",
-  "summary": "เสริมความแข็งแกร่งด้าน Security บน AWS ด้วย Amazon Q Developer (Part 2) &nbsp;&nbsp; Amazon Web Services (AWS)",
-  "severity": "info"
- },
- {
-  "title": "รู้จักกับ Zscaler OT Security: 6 แนวทางปกป้องอุปกรณ์ OT และ IIoT ขององค์กรที่ตอบโจทย์ยิ่งกว่าเดิม - TechTalkThai",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcUZKMG5KT2VISHFMN1pkQjhrYXFMYkVicDlFYWtFRjdUODl0QVYtZ2cxUkE0N0V4SnJGd0JKMjZWcU5sakxFVDBjOUxrbWZFTlR3b21TYlY2WGdVc1hLTmxEcnhsMlpGZ2R5dkhnTUtyZ2dPMU83NnZoaVJVcXE5REdfZWZ5N0dnWVVkRkVaWWd0SU9XYVhtQWFIcE1faEI2SjdGbE5aWUZaYWNYOFlIek5PbFV3V3lUNk5JdUdva0JxRURCaHdlYm5tYy0?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-07-30T11:32:31+00:00",
-  "summary": "รู้จักกับ Zscaler OT Security: 6 แนวทางปกป้องอุปกรณ์ OT และ IIoT ขององค์กรที่ตอบโจทย์ยิ่งกว่าเดิม &nbsp;&nbsp; TechTalkThai",
-  "severity": "info"
- },
- {
-  "title": "Zscaler Data Security: เสริมเกราะองค์กรยุคใหม่ ใช้ AI ได้ปลอดภัย มั่นใจข้อมูลสำคัญองค์กรไม่รั่วไหล - TechTalkThai",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGNlaTFoVkpZOFZhdER0RXE1MFFLb2hrNFBQT1NFWTZ2aEc5eHFIQ3ZieXZxX2ZRUGM1TnJKOUtOVlJpc1ZWbjQ4LWxGVmNVZTI4T2pkUEpGMWU3MURLUmNYcEs0NVlDZ2J5amtpZndxWExEOXA2TkRSUHFBTGZGSU1VQXZqcmxLcHZmelJPY2d6S1dPZm92WVNOSXlxTkJhZUdOWm82Z2stUngzYlJtVkpvU0xHUQ?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-06-26T02:56:41+00:00",
-  "summary": "Zscaler Data Security: เสริมเกราะองค์กรยุคใหม่ ใช้ AI ได้ปลอดภัย มั่นใจข้อมูลสำคัญองค์กรไม่รั่วไหล &nbsp;&nbsp; TechTalkThai",
-  "severity": "info"
- },
- {
-  "title": "Exito ประกาศจัดงาน Cyber Security Summit Thailand 2025: การรวมตัวครั้งสำคัญเพื่อกำหนดอนาคตการป้องกันทางดิจิทัลของชาติ [PR] - TechTalkThai",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZFVDOUFjdUhBTmx1ODRoN3RTUTJRQ1g1cGhhOUxsVEpkUmFFaFZpLTRjeU0tS0IxWjh3VVE0eVlFR3diYnZfNXV6a2RoN2dzbFJxSDBvNHF2Q1NqTFFDdXpPX0hsejRKbVRheWZvYUQ3bWpVN3BMZUVUMVlvMHY3OC1rYjk5SmtPVGJYeVRYTmc1UnZfUVlXSXFPRlJTOGNmS0t0TzRKbXRQUk02UjRDUXJaTUJxdURLODVLVEFfNEkwd0oySndoYnE3WV9QUUg5ZEpwX2hjSWZ1VnM2S3FBTEpZMA?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-05-29T07:00:00+00:00",
-  "summary": "Exito ประกาศจัดงาน Cyber Security Summit Thailand 2025: การรวมตัวครั้งสำคัญเพื่อกำหนดอนาคตการป้องกันทางดิจิทัลของชาติ [PR] &nbsp;&nbsp; TechTalkThai",
   "severity": "info"
  }
 ]
