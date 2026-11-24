@@ -1,7 +1,15 @@
 {
   "feeds": [
-    { "name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/" },
-    { "name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews" }
+    {
+      "name": "Blognone News",
+      "url": "https://www.blognone.com/atom.xml"
+    }
   ],
-  "keywords": ["zero-day", "actively exploited", "critical", "ransomware", "thailand"]
+  "keywords": [
+    "zero-day",
+    "actively exploited",
+    "critical",
+    "ransomware",
+    "thailand"
+  ]
 }
