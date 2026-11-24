@@ -32,6 +32,17 @@
 3. กด **คัดลอก** หรือ **ดาวน์โหลด** ไฟล์ `feeds.json`
 4. นำไปวางทับ `feeds.json` ใน repo สคริปต์จะใช้ค่าใหม่ในรอบถัดไป
 
+## บันทึกฟีดขึ้น GitHub จากในแอปโดยตรง
+
+1. สร้าง token ที่ GitHub > Settings > Developer settings > Personal access tokens > **Fine-grained tokens**
+   - Repository access: เลือกเฉพาะ repo นี้
+   - Permissions: **Contents = Read and write**
+   - ตั้งวันหมดอายุ
+2. เปิดแอปจาก GitHub Pages ของคุณ ไปที่ **ตั้งค่า > เชื่อม GitHub** ใส่ `ชื่อผู้ใช้/ชื่อ repo`, พาธไฟล์ (`feeds.json` หรือ `threat-watch/feeds.json` ถ้าอยู่ในโฟลเดอร์ย่อย) และ token
+3. เพิ่มหรือลบฟีดตามต้องการ แล้วกด **บันทึกฟีดขึ้น GitHub** ระบบจะอัปเดต `feeds.json` และ workflow จะรันทันทีหลังไฟล์เปลี่ยน
+
+Token เก็บในเบราว์เซอร์ของเครื่องนั้นเท่านั้น ไม่ถูกเขียนลง repo ห้ามใช้ token ที่มีสิทธิ์กว้าง และควรเพิกถอนทันทีถ้าเครื่องหาย
+
 ## หมายเหตุ
 
 - การรันครั้งแรกจะไม่ส่ง Telegram เพื่อกันข้อความท่วม
