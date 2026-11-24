@@ -1,5 +1,32 @@
 [
  {
+  "title": "Amazon ซื้อเทคโนโลยีและทีมงานของสตาร์ทอัป Decart เพื่อเสริมการพัฒนาชิป AI Trainium",
+  "link": "https://www.blognone.com/node/152247",
+  "source": "Blognone News",
+  "published": "2026-11-24T13:38:45+00:00",
+  "summary": "Amazon ซื้อเทคโนโลยีและทีมงานของสตาร์ทอัป Decart เพื่อเสริมการพัฒนาชิป AI Trainium Body Amazon ประกาศเข้าซื้อเทคโนโลยี AI ของ Decart สตาร์ทอัปจากอิสราเอล โดยในข้อตกลงนี้ Amazon จะได้เทคโนโลยีทั้งหมดของ Decart Optimizatio",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+  "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+  "source": "The Hacker News",
+  "published": "2026-11-24T13:28:26+00:00",
+  "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical",
+  "severity": "critical",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zpQTclLnhVQHphFdBZZ_hrxhsZvA5G50sGBz5qq1iOg2B1YLu8rE5e_HM1GZOE24SNpwexwst80NTKP7_Wwexq7EzIl-I7ykIXCtTGQjeZhBGVVuAgzxac5JwaquTQuMNRstBFo8JzMDyqgsNbM_KtxGF3wHPBIM9GfaclNu0OTPlpF5YhNvqoKKytAY/s1600/vmware-exploit.jpg"
+ },
+ {
+  "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+  "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+  "source": "The Hacker News",
+  "published": "2026-11-24T13:28:21+00:00",
+  "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The ",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjete6dy8Fmd7sbjqKI5GKSySXkcnz4NF__irfVMBHzgRIDUnpGHtvRIbCywZYYsoKsnMdPhvanoXcnXbYvZpMjL2lL6d_F9a4ErEaI5rH_boPedH_ru2Ush9wonb8tYhGNVM6M_01DTue1THY7uGMbuKBJKNgMbrACkxHCGJiJylHWoxkkpCXNr2Z_CIdf/s1600/leaks.jpg"
+ },
+ {
   "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
   "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
   "source": "The Hacker News",
@@ -907,6 +934,15 @@
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj276QET-ma2-edrAgsOdbZltmoW58d_kJT8C-g8DXQfDQAzPlmCcQYv-tWcX-DXcSipQpu_oFY_pPunvn-eXoog3H0BYPLkb4uY3B4Ax9T7LmtVBgVDwZZInLbj5QgnjVMI5d1za8bgR1a2TvGaJzZUK2UuSAEk3gSY-erKiddYAYTkNE9kxEp0zcx5x8/s1600/intruder.jpg"
  },
  {
+  "title": "คึกคัก ! 400 แบรนด์ทั่วโลก ยกทัพนวัตกรรม Smart City-Security สู่ Thailand Smart City Expo & Secutech Thailand 2026 คาดสร้างมูลค่ากว่า 1,200 ล้านบาท - newswit",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uVnR3ZzFVQUkwNEdkdXp6TElWR2RoZ2NlaFA1QjZld2s4S1p2UTFHS0xvN082VGhOVjdWdEhDemxkVjJiMHJpZEpTMkNONFpmLVFuV0x2ajdqWVRGQV83ZTVJZFhveWFWX0hN?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-18T09:03:00+00:00",
+  "summary": "คึกคัก ! 400 แบรนด์ทั่วโลก ยกทัพนวัตกรรม Smart City-Security สู่ Thailand Smart City Expo & Secutech Thailand 2026 คาดสร้างมูลค่ากว่า 1,200 ล้านบาท &nbsp;&nbsp; newswit",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
   "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
   "source": "The Hacker News",
@@ -957,6 +993,15 @@
   "source": "Google News: Security",
   "published": "2026-11-16T10:57:00+00:00",
   "summary": "ไซเบอร์ป่วนตู้แช่ สะเทือนห่วงโซ่อาหารโลก สนค.ถอดบทเรียนถึงไทย Food Security &nbsp;&nbsp; posttoday",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "สนค. ประเมินภัยไซเบอร์สะเทือนห่วงโซ่อาหารยุโรป สะท้อนโจทย์ใหม่ Food Security แนะไทยยกระดับสู่แหล่งจัดหาอาหารที่เชื่อถือได้ - สยามรัฐ",
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kZGNacFdlaWc2R21yZEl0NE1Bcmo4Vk5nY0RTZm9Pel93b1ZueHRhcGlLcEtZSVBoSUdra0R1YnY2aEdpSFZwajV0T2JLZjA?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-15T11:16:00+00:00",
+  "summary": "สนค. ประเมินภัยไซเบอร์สะเทือนห่วงโซ่อาหารยุโรป สะท้อนโจทย์ใหม่ Food Security แนะไทยยกระดับสู่แหล่งจัดหาอาหารที่เชื่อถือได้ &nbsp;&nbsp; สยามรัฐ",
   "severity": "info",
   "image": ""
  },
@@ -1216,6 +1261,15 @@
   "image": ""
  },
  {
+  "title": "Noble Financial Maintains Kratos Defense & Security Solutions(KTOS.US) With Buy Rating, Cuts Target Price to $100 - Moomoo",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkVfQmVDYXotZWFxcjlwLUNKRVJUa0cwTU9aQWhqOE5oYnNCUkpPeExfNnBnak14MG8yMlVhb1lneHlnN1BqUGgtbE41cEJRbGlkbTNRdGxHZjN5UVpvdVNHNFk3dGE3RXdtTFNmeHFMVXJqbUJWTS1fN0dRMXBYZDE5ekgzblNxYkZLN2pkN2RRc1dNX1JDQUhOZFdRdEFrRHVWcFhpenB4VWFmR2gxdmRiODU1aWdZUEtCZnFOYw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-10-19T16:30:24+00:00",
+  "summary": "Noble Financial Maintains Kratos Defense & Security Solutions(KTOS.US) With Buy Rating, Cuts Target Price to $100 &nbsp;&nbsp; Moomoo",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "ก.ล.ต. ร่วมงาน Low Carbon Cities and Energy Security Building System at Scale - efinanceThai",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWkgycmdRUVBqTFVZWVBOS3R3MUxvaERvbVJfWWJNb1U5WmRxTF9XbEF5MDVuZ2ZTdk1BZjZxVWRFa1pSLXJ5Z2VRRjlTMFMwemd1YWRJLXVIVzRCRlJfLU1xdGp4UmttQ1JvYi05NHZxVDluaWJjN2UzakhkSEN5MXRsSGFZZEE?oc=5",
   "source": "Google News: Security",
@@ -1233,6 +1287,24 @@
   "severity": "info"
  },
  {
+  "title": "JARTON คว้างานระบบความปลอดภัย IMF–World Bank เร่งเครื่อง AI–Cyber Security ดันรายได้พันล้านปี 73 - ข่าวสด",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEdWg0OVdxZ3pyMzl1MldjZTh6d1FoYU5YS2ltQTB2OUVRemd0QWVrNm13dkNxTXNETy1LMjEtVHlvVHhfVjJLQzc0SjQ5MHJqSnZSenBWa0FlN0ZEb2c?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-10-15T07:00:00+00:00",
+  "summary": "JARTON คว้างานระบบความปลอดภัย IMF–World Bank เร่งเครื่อง AI–Cyber Security ดันรายได้พันล้านปี 73 &nbsp;&nbsp; ข่าวสด",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "JARTON คว้างานระบบความปลอดภัย IMF–World Bank เร่งเครื่อง AI–Cyber Security ดันรายได้พันล้านปี 73 | Khaosod - LINE TODAY",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14dFRqNjZOQkpycWZ3YWtMek9kY25HMm9jZ0liMUtTNGtvWnVrQlhhVHNaNHFKMzZpMHB0TW5KX3EzaF9rdkF1YmVGWllnLVJpN1FrVmxB?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-10-15T07:00:00+00:00",
+  "summary": "JARTON คว้างานระบบความปลอดภัย IMF–World Bank เร่งเครื่อง AI–Cyber Security ดันรายได้พันล้านปี 73 | Khaosod &nbsp;&nbsp; LINE TODAY",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "แรดแวร์ รุกตลาด Cybersecurity ไทย เปิดศูนย์ Cloud Security แห่งใหม่ รับการเติบโตเศรษฐกิจดิจิทัลและ AI - Brand Buffet",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0UEhGUVNjMGNRcXN5MFlJdHVidmh1UUtSdW5BSzVrOHFJbjZyb1UtSC1UMV9jOGpCWk5nVnVUZTBOUXItclZReWhYZWlQel85Y1Q4Q0dnM3AwOXk3OEtLX1d6UzJ4RXZ5NUlHRHVEYV9rb01oNXc?oc=5",
   "source": "Google News: Security",
@@ -1242,11 +1314,38 @@
   "image": ""
  },
  {
+  "title": "Radware ชี้ภัยไซเบอร์ยุค AI รุนแรงขึ้น Web DDoS พุ่ง 110.6% พร้อมเปิดศูนย์ Cloud Security ในไทย [ADVERTORIAL] - thestandard.co",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MSjl3ZHBlTzlZN1ZCaEN0bG9Mbk1BQm5ZVENyREtDTU5zaFNfbGlYYWpPZUNBYzFhMHk2cGlGVU1qbXZXOVpubXBSS2kxT1hEdllnOW5R?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-10-10T08:25:03+00:00",
+  "summary": "Radware ชี้ภัยไซเบอร์ยุค AI รุนแรงขึ้น Web DDoS พุ่ง 110.6% พร้อมเปิดศูนย์ Cloud Security ในไทย [ADVERTORIAL] &nbsp;&nbsp; thestandard.co",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "Radware เปิดศูนย์ Cloud Security แห่งใหม่ ไทยศูนย์กลางดาต้าเซ็นเตอร์ภูมิภาค รับมือการเติบโตเศรษฐกิจดิจิทัล และ AI - ผู้จัดการออนไลน์",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OTVuTmZ6ckNIYjl2a0lBeVpDVXdrTkhaS2NHRHlrWVRmaHJycjhCMUplaTNfWDE0SGZIWUwycThkQnlWRndVZThSczRkMmNTblB1MjlJbjhmQm8?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-10-09T07:00:00+00:00",
+  "summary": "Radware เปิดศูนย์ Cloud Security แห่งใหม่ ไทยศูนย์กลางดาต้าเซ็นเตอร์ภูมิภาค รับมือการเติบโตเศรษฐกิจดิจิทัล และ AI &nbsp;&nbsp; ผู้จัดการออนไลน์",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "อีซี่ เน็ต (ไทยแลนด์) ชี้ Data Security ไม่ใช่เรื่องของ IT อีกต่อไป ถอดบทเรียนข้อมูลรั่วไหล ยกระดับปราการไซเบอร์ผู้ประกอบการไทย - แนวหน้า",
   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBraTNhcUtVUFdWM3hvVEdKSmt3MTBaLTlIYkd2a1lxRUNoV3Y5b2s0alVVenFWSVFkRV9TcEdwbU1Pc3J1N3BDUEFoNXVQSGpCZ1E?oc=5",
   "source": "Google News: Security",
   "published": "2026-10-08T07:00:00+00:00",
   "summary": "อีซี่ เน็ต (ไทยแลนด์) ชี้ Data Security ไม่ใช่เรื่องของ IT อีกต่อไป ถอดบทเรียนข้อมูลรั่วไหล ยกระดับปราการไซเบอร์ผู้ประกอบการไทย &nbsp;&nbsp; แนวหน้า",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "ภัยไซเบอร์ระบาดหนัก เว็บแอปถูกโจมตีพุ่ง แรดแวร์ตั้ง Cloud Security ในไทย - Thansettakij",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxSFAzR1RHRTd6UEtHRUgtMnZET2dIYmpuTWN3TTVXeHdFZTdscFBuS2pLMS1ndmhhMW94bDJvTDNpeFdQYkloajVJaUMyVVJSeTcxcldQR1RHdw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-10-08T07:00:00+00:00",
+  "summary": "ภัยไซเบอร์ระบาดหนัก เว็บแอปถูกโจมตีพุ่ง แรดแวร์ตั้ง Cloud Security ในไทย &nbsp;&nbsp; Thansettakij",
   "severity": "info",
   "image": ""
  },
@@ -1304,6 +1403,15 @@
   "image": ""
  },
  {
+  "title": "CyberGenics เปิดตัวพอร์ตโฟลิโอ Managed Security Services เต็มรูปแบบ 14 บริการ ครอบคลุม Protect – Defense – Risk สำหรับองค์กรไทย [Guest Post] - TechTalkThai",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFVCZElVd1RCVG93bHMxT09UenJBQjVnNDVMZXBmWmNOQkQxU3EwT1o3U21yOTJpWlZRYWktRGZYT2NaeWpUUlpzY1lINklVSGswMjJPZ2tmNUdwQUhVNGVBczU2eVNad3A3cGJmd1o3Tm1DRzFtYlprUVUwNWVTNFNsUE9aa1VybzFyaW84bUg?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-09-29T05:50:07+00:00",
+  "summary": "CyberGenics เปิดตัวพอร์ตโฟลิโอ Managed Security Services เต็มรูปแบบ 14 บริการ ครอบคลุม Protect – Defense – Risk สำหรับองค์กรไทย [Guest Post] &nbsp;&nbsp; TechTalkThai",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "ไทยซีคอม เปิดตัว Smart Security Premium ปั้นสังคมปลอดภัยอัจฉริยะ - วารสารการเงินธนาคาร",
   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjRU1VQ2dQdThkbmF0NTlpeXR3MzRYS1hzeFpLZlk5M3BpVUFmX3UwSS1BTEdIUXZidFc3UGdBcWlZME1odGVrR0xYdDJUaHBqekZMVw?oc=5",
   "source": "Google News: Security",
@@ -1318,6 +1426,24 @@
   "source": "Google News: Security",
   "published": "2026-09-24T07:00:00+00:00",
   "summary": "NT ชู Cloud Security First เสริมเชื่อมั่นผู้ใช้-ยกระดับคลาวด์รัฐรับภัยไซเบอร์ &nbsp;&nbsp; ข่าวหุ้นธุรกิจออนไลน์",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "NT ย้ำมาตรฐาน Cloud Security ร่วมสร้างระบบนิเวศคลาวด์ที่เชื่อมั่นได้ - ThaiPR.NET",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1X25TUmdwd2dwU0cyXzR1bkw3X19wQmJzOXprZE1MMDRmaXlTRFRhcDNxV0FMQTJfZjR2bHZIbndQNFo5UlRNNQ?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-09-24T07:00:00+00:00",
+  "summary": "NT ย้ำมาตรฐาน Cloud Security ร่วมสร้างระบบนิเวศคลาวด์ที่เชื่อมั่นได้ &nbsp;&nbsp; ThaiPR.NET",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "Rethinking traditional markers of success: Why young Thais now prioritise financial security and health over marriage and moving out - ThaiPR.NET",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lMjBGazhEcm12bm9zT1NrSHNUNVFMcGM0RmluMWZwRF9MTkVlSy1WU2tWdDJLVDJmUHpXYnh5ZWVQNjN4N1YtLWx2N0ZBYUNReWNWdDRxdXVpZw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-09-22T07:00:00+00:00",
+  "summary": "Rethinking traditional markers of success: Why young Thais now prioritise financial security and health over marriage and moving out &nbsp;&nbsp; ThaiPR.NET",
   "severity": "info",
   "image": ""
  },
@@ -1358,6 +1484,15 @@
   "image": ""
  },
  {
+  "title": "สีหศักดิ์เสริมสร้างความร่วมมือกับมาเลเซียเพื่อความมั่นคงและการพัฒนาชายแดน 6-7 กันยายน 2569 กรุงกัวลาลัมเปอร์ มาเลเซีย DPM/FM Strengthened Cooperation with Malaysia on Border Security and Development 6-7 September 2026 Ku",
+  "link": "https://news.google.com/rss/articles/CBMi9AdBVV95cUxOeTV5RUNHMEdkUmhELWVmRjd6NUFqS3M1U0xLaVE2S0R6S1p4NHRUWmRsX3QzM09qbW1BdWNOWkVjeXJIekZIMlVFUkNpQzMweTdYVjQzWndWNUs4OVhHLVlLVTJrSEN4SlR0bGR0M0lWVmZDVzZPd3phdkIzV1NNZW1jQXZtV1BBNUk5X2JZR0xxRWZncTFKdWNpRzJQcmJjMjFITlFxSHpoS2VtR1ppNlpBUUVoZW5wWnhYT0dQNUw1QWNUMUVqSFhXUllCZEZKb21lVE93MnNQZ0NXT3FJdzNXd1cxWlRuMVNRQkJ1NjdnVW4xREh1WnFWY1VmV1RiZnBDbVJ3d0pobXA4MWs1TGZpcTFzd3Btb0FUM3g5aHo5eUp5eEpyWFRjRFFtNlFCRENFeU1yTGtIS0Z3b2IyT1paSkdQVVhCUXUwb2taWFNrV2lpVlZuMEVjcmtZbWZTaWRhel8zaV96ZDNia1loTk1uX2VpRWttVmV5dXU1M0VLdUQ0dzY3MnJkMTZ5SkVfSVlKS3FUamtwWnVib2FpTFA0NjVBemdkSjFDUEN2aG04UVhTSDJCZGstZ0FlZnZOYThaamZGLVFBcWNhWGFzb2RtVVJmYUp1eEhPalJjd2pyRUdyTzhRUlU4SlR2N0tqa2JjSkJ2Qnl2OUlvVG5tQ1RHZGZXcXFzYUpCd2czaVJXallHM1RYRnh0T0VrVWZlVU9CMzNsNGhoa0RKeWp4NUtkRXlOYl9NTHlwdE52MkhJeTdPNmt2a1E5MkdfWmJZSXFBQTh1VE9vbXM3djJvU2k1ZXh3M25EbU5yd2NjcEZuY0Raa0VNTDIzVGJkNjh2VHBhcHRndjB0Slh4aEUtelYxS3VrZERjaEdwZmZBN0JrZWdKMVEyVS1jTzhQY21ucS1jNTdnRmdXMG1aSEo4c2NIR0xXeXEtaElsQktkdjVTRU0wNkI3eGJtRUxPb0J2ek4xNlBWTUJ2ZFNQYnBBSUIzWV85NnplWElYdTRxanQyR3RtT3lrNFIyVG9iLTFKLW43UTF0YVBXUmlOWkhPSzFadHlua1VwR2Z4aUNzaHpyY045QjQtU1paZVdUTzIwaXY5MGQ2ajNvLXJQeUpMTkUyb1BGWUNmTXUxWWp2Vl9HOGswSkR5bFFYSGhfbUoyczRTd0RrNHFCWFhFQUxUUzJTNzBQUFlzQ1BFSzlhX2hSWWRNd2IzNlV0cm1PcFo5TURNbmdlaVRlNVh6UFZTLV9qZDF5NUdzTVRoSHRJN2dORjVZZWRjbF9mSks0S1ZCN0FVeWZIX2tmZEFSZ1BPM25yZXlJSlp6SERlcU1Mc2wzYU9J?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-09-07T07:00:00+00:00",
+  "summary": "สีหศักดิ์เสริมสร้างความร่วมมือกับมาเลเซียเพื่อความมั่นคงและการพัฒนาชายแดน 6-7 กันยายน 2569 กรุงกัวลาลัมเปอร์ มาเลเซีย DPM/FM Strengthened Cooperation with Malaysia on Border Security and Development 6-7 September 2026 Ku",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Noble Financial Maintains Kratos Defense & Security Solutions(KTOS.US) With Buy Rating, Maintains Target Price $145 - Moomoo",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdW9FbkM5NUVXVXZzOGxiWHp2SFNrdng0V1lUU3NCVGFHSTlMN1p4blNGeF9xNzdjSzM3d1NSNDZQc2hsM1dMeUxJRkoyR2RicFVRb2k2MGVYWFF5akhlWUxsY3A3VUxTTHdPVkdCNWhRWTJtUkdwbmFyMWoyT19CTG9kSUZBRFRnelNtWmVITWxNWmF2R2RIUlBSYWR5bDBfUzVxVkNMRndmYmhZc0I1R0JSQ3ZJbExlUUZnNg?oc=5",
   "source": "Google News: Security",
@@ -1376,12 +1511,39 @@
   "image": ""
  },
  {
+  "title": "AIR Security เปิดตัวพร้อมทุน 50 ล้านดอลลาร์ ดันไฟร์วอลล์สำหรับเอเจนต์ AI - TechTalkThai",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTR2Wk96eW4wQ1FrN29kQUgySk95b2NjdF9yLWFuMlpfcFdYVy1WdmlmRWlmbkJrMlBsSGVBWjl3Y2JnenlqNFc4V3U3UThfWnRXSVpRZ3paRVF5YWlpUzBOZDU0V250N2QyUnE4MjR0cTlqbjZ1NVNka0MtMmNHcnQzWTR2djI4dGkyYlp2UWszdVoyLTQ0eTF3?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-09-02T06:06:27+00:00",
+  "summary": "AIR Security เปิดตัวพร้อมทุน 50 ล้านดอลลาร์ ดันไฟร์วอลล์สำหรับเอเจนต์ AI &nbsp;&nbsp; TechTalkThai",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Cyber Security กลับมาคึกคัก เพราะขาดเธอไม่ได้ - Thunhoon",
   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vZVZUcnFjeE40R1RmcUFFbU1zVktLZWFDWVRrUk5aRmRFYUdyT2pDRFZrUFE0MlNhZUVGYXk5VXZCMmMwNFFvMFBB?oc=5",
   "source": "Google News: Security",
   "published": "2026-08-30T23:14:43+00:00",
   "summary": "Cyber Security กลับมาคึกคัก เพราะขาดเธอไม่ได้ &nbsp;&nbsp; Thunhoon",
   "severity": "info"
+ },
+ {
+  "title": "ทบ. ร่วมกับธนาคารทหารไทยธนชาต จำกัด (มหาชน) จัดสัมมนา \"Innovative AI for Sustainable Financial Security : นวัตกรรม AI เพื่อเสริมสร้างความมั่นคงทางการเงินอย่างยั่งยืน” วันนี้ (25 ส.ค. 69) เวลา 13.00 น. ณ หอประชุมกิตติขจร ",
+  "link": "https://news.google.com/rss/articles/CBMiygVBVV95cUxPS1BKZ2ltN2hyS1JZYnZpMlBfUlBRbzZ6SVV3WHdEeGVGbDVOWEphMm40RnNpVVZER2dESDUxS1hSRmlPdXI0UHNKSUpFX2ROeUtLT1p2aU0tNXhra095Ml81Smo2bHk5S0UtRE1HUUpSQlVSdXhZMEQ1MEh3N3o2dmtOT2UtbG5xZDU4SW1CRk41a2tEQWRKbXo1cXk2VlBnOUxBcEc5RXk3S2RUb2ZUVmdTSnJPMV83YkxVQXVzNnBiQkQtcTFtemJYQnQxVkNpUzN2QnNTQVh0dmVEOW1jZHU5UDdCczliTV9UcXU3Uk5TSnpma0F1M0o3TzBnM09pN21LLXBJVk5Sd0ZaMC1QVXlRQjFiaTg5bXFoQXRSMWVxRWNmOWNERmwxbTRfOUNhSmh6NUUyX2l2a3VaOTRzNVRuUC1Xa1JURWh2d3c2YVp6YndjdXR3UWd4ZjVfUzRJa0VTYWtuZTRCanpFb0JRN3FZMWF3Q2doMWVjU2Z4N1RIenZEMmxyRF9tYTd2ZzE0TUx0LXpPbXpneEE0bjZwXzdOaWhfV1M1U1E1aDNLLTEwMUt6cWlOcTZzc2Q4Ymhrc0x5a182N1FhN2hhcGVYaDZKOEJUQTFKYm9SXy1rTl9wc1QwLS02YktrTDQ4WkZ2TWY0dnBmZzNlcGVaZFVtQkZmZzV6ZjFyVWFvOXBYMW5KRnhsNVF1NlA2VUZSai1INTVnTVNwbVZmaERWNjQ3bEFDSEdwbU1LTGY5bHRsSGdwenFUNThraFpfZV8tblR2bnZ3cDBtbklfT3lZSG55V2FiWEU0bGp1aHBOYlpadFlRQU8tOUlZc3MzeWQzRlBiOS1XeEhfeTJDTTFhM0RrZzJ0ZUpTV1F3T2VRZGxPWnhxS2lBU29VRWVYbE5pYzdheVFqSjVJMEZ3eGxfelh3TnpLWGd0UUdTUUE?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-08-25T07:00:00+00:00",
+  "summary": "ทบ. ร่วมกับธนาคารทหารไทยธนชาต จำกัด (มหาชน) จัดสัมมนา \"Innovative AI for Sustainable Financial Security : นวัตกรรม AI เพื่อเสริมสร้างความมั่นคงทางการเงินอย่างยั่งยืน” วันนี้ (25 ส.ค. 69) เวลา 13.00 น. ณ หอประชุมกิตติขจร ",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "ถอดรหัส 'AI Security' เมื่อความปลอดภัยไม่ได้จบที่โมเดล - bangkokbiznews",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MdHljdzlUT0d0bjdJZzRfMXNtd0Z4bkdOZGhhanhBRzFGOEdadEV5emViMmNwUUl1Y194cHg3UXpDVkk3WEdRRHFCWGlya01FbEdiMEZsSUhqQQ?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-08-24T04:24:49+00:00",
+  "summary": "ถอดรหัส 'AI Security' เมื่อความปลอดภัยไม่ได้จบที่โมเดล &nbsp;&nbsp; bangkokbiznews",
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "หนุนด่านควบคุมโรคฯ นครพนม สู่ ‘Border Health Security’ เชื่อมข้อมูลไทย-ลาว ป้องกันขั้นสูง - thecoverage.info",
@@ -1474,6 +1636,15 @@
   "image": ""
  },
  {
+  "title": "ซีคอม ปักธงรุก Silver Economy ชู ‘Smart Security Care’ ขานรับสังคมผู้สูงอายุเต็มรูปแบบ - เดลินิวส์",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11UkQ1NnktdGlyazNhR090MC1Xcl96NkJBaWZYSVdrT1JDb1hYbnpUVmg1b014SmQ2a2VBR0RZMVpzMGpoUHk4U2VsMmdxRzA3TW5r?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-08-17T07:00:00+00:00",
+  "summary": "ซีคอม ปักธงรุก Silver Economy ชู ‘Smart Security Care’ ขานรับสังคมผู้สูงอายุเต็มรูปแบบ &nbsp;&nbsp; เดลินิวส์",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "SECOM รุก Silver Economy ส่ง AgeTech Smart Security Care ดูแลผู้สูงวัย 24 ชม. | การเงินธนาคาร - LINE TODAY",
   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PRTJsQllJSHVMNHZTTzg4UF9BaU1lQXVSZXBzaHlRYWtwSnVmZ3dLSmZMSVJhQXVfZ3FoYmxnM1JmQnA2VWlTWmZPTE5ZWEZDc0xhSnNR?oc=5",
   "source": "Google News: Security",
@@ -1488,6 +1659,15 @@
   "source": "Google News: Security",
   "published": "2026-08-05T05:39:36+00:00",
   "summary": "พบช่องโหว่ Authentication Bypass ใน Check Point ทำให้สามารถควบคุมระบบ Security Management ได้ &nbsp;&nbsp; i-secure Co, Ltd.",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "Above Security ประกาศรับการลงทุนเชิงกลยุทธ์จาก CrowdStrike Falcon Fund เพื่อเดินหน้าพันธกิจในการสร้างความเท่าเทียมในการเข้าถึงระบบการจัดการความเสี่ยงจากภัยคุกคามภายใน (Insider Risk Management) ระดับชั้นนำ - Moomoo",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHQwLTFZWEJkYUQzMmhoTzE1NkF1dWhtQ1RaSzNERWpaMWhYc1J3WmlQQnNxT05SNkJiRUVFWTVYTVFrVlJraG5ra2ZELU5FbWZScmhQQUppdk9SRmZ1MzJveXBXUEVDRjA1XzJKd0JxVWlvS0hXQ1F6X3AtVXV0aTBzSWJVa3ZNdXF3NGVSdjlYNV9fOG1GSERhYk9iUnhnT2Q4ZmFnWHd4a3pxS09SSWhiT2U2d1hLdVVSb1docUc?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-08-04T07:00:00+00:00",
+  "summary": "Above Security ประกาศรับการลงทุนเชิงกลยุทธ์จาก CrowdStrike Falcon Fund เพื่อเดินหน้าพันธกิจในการสร้างความเท่าเทียมในการเข้าถึงระบบการจัดการความเสี่ยงจากภัยคุกคามภายใน (Insider Risk Management) ระดับชั้นนำ &nbsp;&nbsp; Mo",
   "severity": "info",
   "image": ""
  },
@@ -1588,174 +1768,5 @@
   "summary": "มข. ส่งเสริมชุมชนน่าอยู่ จัดอบรม “Cyber Security for Smart Elderly” เสริมเกราะดิจิทัลผู้สูงวัยรู้เท่าทันมิจฉาชีพ &nbsp;&nbsp; มหาวิทยาลัยขอนแก่น (KKU)",
   "severity": "info",
   "image": ""
- },
- {
-  "title": "Cyber Security ในยุค Digital Supply Chain: ปกป้องข้อมูลโลจิสติกส์และระบบ Cloud Logistics จากภัยคุกคามดิจิทัล - วิทยาลัยโลจิสติกส์การบิน และสมาร์ทโมบิลิตี้ - Sripatum University",
-  "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOOEdQTEJieTVDUlA4S3ZvQkdwUTZRYXg5R1NwYmYyY2liakQ0TWxTNzh6VkFtWUpVUndfWDBhT0FDTzZFNExZaHlNWm5SRDVxaFlxb2FWQmdEQXduams0RC1VTGxlWFNQNTBtUHFVSEpwdkJtc0MzM1dsYVBsVklNaExxRS1meW91NDhHMWZWV01hZ3JEeS10SkNidHJMRnNkQUt6S3FsTmhIbzZUZVozejN4dEN5YXh4bDJzM1RhMWhEMHdybkduaWxjZVBINjVWMkthZ1NMLVNqa2dRd1BzS0dhaDljM2Roc1p1cThIZW1uUGxRR0w2SnJQUzBpVk5XdlFCTzYxQUo0QmVRbnpjLXVjSUU3TXB3cVNiSzU5YVp1SVdpWVFFQWxKXzR5dkh6QWs4b1NJcUZvdGw0Tk8xcDl4ZThiRW5BOWpPLWtsQ3owWFV4RnVR?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-05-26T09:44:39+00:00",
-  "summary": "Cyber Security ในยุค Digital Supply Chain: ปกป้องข้อมูลโลจิสติกส์และระบบ Cloud Logistics จากภัยคุกคามดิจิทัล - วิทยาลัยโลจิสติกส์การบิน และสมาร์ทโมบิลิตี้ &nbsp;&nbsp; Sripatum University",
-  "severity": "info"
- },
- {
-  "title": "อังกฤษปั้น ‘AI Security Institute’ ตรวจโมเดล AI ขั้นสูง หวังลดอันตรายจากการใช้ AI ผิดทาง สู่ต้นแบบระดับนานาชาติ - Marketing Oops!",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXhLS3BLY0k1d1hja0V3aVB5TEVxZzBzRGJ0WUR0dENPcmpTWTF5UTFNczBPUXNuMnV4VW1FNFRmM1l4YlgyUGpFckhoNnh4OEtTTkw3eVhkQkRMaFk2MmVZLTVUamw1MGRkd3kxb0Nrdk9XQU9mbllqM2x2WVFwcGJJRVFCc2ZCbFBmNW1vQjE3c3h0NG4w?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-05-26T06:41:05+00:00",
-  "summary": "อังกฤษปั้น ‘AI Security Institute’ ตรวจโมเดล AI ขั้นสูง หวังลดอันตรายจากการใช้ AI ผิดทาง สู่ต้นแบบระดับนานาชาติ &nbsp;&nbsp; Marketing Oops!",
-  "severity": "info"
- },
- {
-  "title": "Exito Media Concepts ประกาศจัดงาน Cyber Security Summit Thailand 2026 - bangkokbiznews",
-  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NMDU5U0syNW1BY1I5MjRCSFJWVXdsQWkyWDlVVmJPakkwREFJMnNTbHZMZnRYT196djZpZUV6YlVOMHZuUzVJR2xBQUVCXzlJMnc2YVFYYw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-05-14T10:03:40+00:00",
-  "summary": "Exito Media Concepts ประกาศจัดงาน Cyber Security Summit Thailand 2026 &nbsp;&nbsp; bangkokbiznews",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "OpenAI เปิดตัว ‘Daybreak’ ใช้ AI วิเคราะห์โค้ด ปิดช่องโหว่ และป้องกันก่อนถูกโจมตีจริง รุกเกม Cybersecurity เต็มรูปแบบ - Techsauce",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFT0lCanlUVEhuVk1tbEZtZGx6Zkk5U25tVWl6RHc3Qkp5WjlvYkkzdkY3eURyWUk1ZFZpcmdqYUtSMTAyeTBfdTFRZnpNZ0FQby1lZ3BkcEdGV3NTb0FjYnByX0x6czg?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-05-12T06:30:53+00:00",
-  "summary": "OpenAI เปิดตัว ‘Daybreak’ ใช้ AI วิเคราะห์โค้ด ปิดช่องโหว่ และป้องกันก่อนถูกโจมตีจริง รุกเกม Cybersecurity เต็มรูปแบบ &nbsp;&nbsp; Techsauce",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "พร้อมรับมือ Agentic Security - Thaipost.net",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hV3Vsd2hsNnlmMXNCbzBPRnFVNGVIUmJsa1BydXBZNzg4WkNGY1p1WExaekpNcTJlTE8zSVRlWXhSOWxTOHdWdHZ3TUJtZTV0RFgzWEFnVVpWZw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-05-06T07:00:00+00:00",
-  "summary": "พร้อมรับมือ Agentic Security &nbsp;&nbsp; Thaipost.net",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "SECOM ชู “Hybrid Security” ทางออกวิกฤตต้นทุนพุ่ง รับมือมาตรการปรับค่าล่วงเวลา (OT) - บ้านและสวน",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxVnB4MERfc2U2YUVhZlVvZzlUZjVfV2ZxX0djaG5mc2NyV2c1YW5lQ2ZZXy15NTRJNU15Q2VBdmMtNmwtZDc0Z25NN3EzN2hNU1FLQzE4OWNpNUZoa1YtV0o0dkZmdw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-04-02T07:00:00+00:00",
-  "summary": "SECOM ชู “Hybrid Security” ทางออกวิกฤตต้นทุนพุ่ง รับมือมาตรการปรับค่าล่วงเวลา (OT) &nbsp;&nbsp; บ้านและสวน",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "เมื่อโลกไม่เหมือนเดิม ทำไม ‘ความมั่นคง’ จึงกลายเป็นเศรษฐกิจใหม่ของทุกประเทศ - thestandard.co",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jRG5Fd19QVGtjNDZFUVNTRmNBdURST1AtTkxMVm04YUQtRjlQdnExY0RyOEt2TWFLTHltVUtGcmFac1lkbFY0amdOWWktTS1ualdXcnlkd1NUVDI2eHR1U1JPMEFlSWxo?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-03-26T10:22:23+00:00",
-  "summary": "เมื่อโลกไม่เหมือนเดิม ทำไม ‘ความมั่นคง’ จึงกลายเป็นเศรษฐกิจใหม่ของทุกประเทศ &nbsp;&nbsp; thestandard.co",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "เมื่อวันที่ 23 มีนาคม 2569 นางสาวสมฤดี พู่พรอเนก รองอธิบดี รักษาราชการแทนอธิบดีกรมยุโรป เป็นประธานการประชุมด้านความมั่นคงและยุทธศาสตร์ไทย - สหภาพยุโรป ร่วมกับนายคอสมิน โดบราน ผู้อำนวยการฝ่ายสันติภาพ ความเป็นหุ้นส่วน และก",
-  "link": "https://news.google.com/rss/articles/CBMingdBVV95cUxORUhOQzlPZVI0bmdZMEs1MXBqQnNpVWZIdFZvNVZXdVRvYzNZWDNyeXFtaVJWZndfWERaUkpGd2RyeHVtMnBuQnRvbGF1MHgzM1VGUjctdEU5ZFhsSGlFMG1GQWFOSXJDVXlIa2lwR29hYWFDUGZPekV2TUI1b0RPY1c3MUllWi1kNldHZXhoR0xSVVFDU0p2VEJhSE91LWdDZHRHNzlRWXllQk1qUGVid2s4RVVjSGxuQU5nd1N5MU42SnNmRmVXLWxqTW94NWcySkpBNmZBRldpeFRuT0dWTEJMR1F2dWJmdlJySU9CNVIyNGU0MlFIV0VRMXBTYS10WVdfXzhVd3k0MXhvMVVpYnBSbE8tWVFfMjVvaFp3V1VNUWh4aFZQYUJ6ZWh0SEVRUXN3ODhRQkJWeHBTNy1DNkxtdUNuQlp5ZGFQMUplMnNSNGd4bUxua1VfRE5fc0xMcHdEUUdtNjVsNUpzQjk5dUxhSzQzQklYdWRldEg4amFsMno3Y1RPZFBHejRVWTZlSEpscm13T1NFXzU3TDlwQmhVV2xYbE1KRTV2eTB4REUzbG5MdlhpWmR6N1JKVUd3SXFrMklwWWZsMnBsYlhmOTFpcnNRbnZQNHUybmZHYTQzSTBSRjh4dUVZY1k2RjExLWtvNlI5a1RITjdxWjJtd2JjdHZSaUR0VHpWbTVRN0xFOV9JZFlZaDRfQlhzXzRUdWtJQkxqaWhqSkhadjdtNFVBRzE3TjM4RkNnbTZvQllibTlYQ2hOMEdudGJvZkRLRGQtaXZ6ekl3cEdkcUJvdnlKbEstV3JfZmZFTDJ5MWZJVXRiU1JTVzU0NkN6TDJ5NkpJM1FUVGE1cFZ5Z3BRWDZqSWplb2Z5NGFUaThtQjRGejhpd0pGZW1tTkE1MFJOVlFIMWZmbWdCdzhKRjVhQUtxTzFEcUFQRFE3X0xhd05qcUVGdUU2V2t6S29vQ0VOZEw4UW5DWmFUQlFEZm1kT29qQ21kYzcyU0kxWmNkWG1DYkE0TFlwS3lfLWxxNUpBS2V6SDdncGpIWEpMU25PZFBkaF9lZUtoUGtsNXdSSTNrTVhIUklJWHFXTlV6VHFYS3NuTU8ycGFTeXRnSmNnVjBhTGVqbXkwdjBhT2xKZDd6bzBNVXloZzJnU2hqUkFnbGdPTE0yM0tUa082X1dNaTByRXduYjhPMFlzbmJKRWpjRUo2SDNYTmFtOWF3dw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-03-24T07:00:00+00:00",
-  "summary": "เมื่อวันที่ 23 มีนาคม 2569 นางสาวสมฤดี พู่พรอเนก รองอธิบดี รักษาราชการแทนอธิบดีกรมยุโรป เป็นประธานการประชุมด้านความมั่นคงและยุทธศาสตร์ไทย - สหภาพยุโรป ร่วมกับนายคอสมิน โดบราน ผู้อำนวยการฝ่ายสันติภาพ ความเป็นหุ้นส่วน และก",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "Apple ปล่อยอัปเดต Background Security Improvements ครั้งแรกเพื่อแก้ไขช่องโหว่ของ WebKit - i-secure Co, Ltd.",
-  "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQWkxJcWhLaElfQl9BTFFDQ2ZkLUxlQmdkeGdVNkxydTFtMkptSnpabE5abmRDaVg3LXRQbW5rWi1aYlVTVHZOZ0JJbmZSRVhNaTJBQlZIVUR6TmwtUkdzQ3RCQVNrM0Noa085V0xGaHpPblJhR2xDa0o3aHpFX3doUERIellrbUhxV0lwZS05UG9DallleFBER0VpUThJTUZwRjNkRS1kVG0tLTVtZXZLN2xoUWp4Z2dCN3B5MFVDU0hraGlOOWFRY1Fkcm1fLXdLNlFLUWNlSzRzOTNlMFY3dFZCNHh0VWhtOEUwd2I3bUo3SmZMQzBZMGZEanRTTTBuMDFTcDZKNDRNVlhLMXFpbk9HT2xrWmljTlFNbGtaY0ZsZ0xXNDJlRXM0Y2JmQllON1BfVURMZGxobkpDNGtGd1B6eTJyVVZGSVhXbTRB?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-03-20T03:11:10+00:00",
-  "summary": "Apple ปล่อยอัปเดต Background Security Improvements ครั้งแรกเพื่อแก้ไขช่องโหว่ของ WebKit &nbsp;&nbsp; i-secure Co, Ltd.",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "INFOSEC จับมือ Pentera ชู AI-Driven Security Validation ยกระดับความมั่นคงปลอดภัยไซเบอร์ในประเทศไทย [PR] - TechTalkThai",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3VoLUdJN2JBYkM5TnI3V0s2QzNTYWFIU3FXakVQS0ZDUVlIUVRVUEZnZkhReU8tN3BjbHNhMU1UY1duQURleGlGUE1HSlZfbkdCWThLdzJoRHZUdWxSLWY4aDVWYm9PaEpNU1VzMmlIOXhZX21la2pOWmVrdUJZeHYwVUUzNGEtSXlmeHROLU1aT1ZLZGF3aFlxX2tDMTdBOHQ1U0w1VGJQZG1yOEM5SHc0NmtJZG5sME5jOTNibUIyenNqVE1BcExYSUNGQzh1c0I3OQ?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-03-19T07:00:00+00:00",
-  "summary": "INFOSEC จับมือ Pentera ชู AI-Driven Security Validation ยกระดับความมั่นคงปลอดภัยไซเบอร์ในประเทศไทย [PR] &nbsp;&nbsp; TechTalkThai",
-  "severity": "info"
- },
- {
-  "title": "พี่ปิง IT Security Engineer บริษัทยักษ์ใหญ่ มาเล่าการทำงานสุดเจ๋งให้ฟังกัน! - Sripatum University",
-  "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOeWVZOTc1Yzl5WlY3QzViY05TcXN4RS1ucGhuNk9UdzdyaVBacTlwdlI1Ynh0VTN1WGhBZ0pSYm5yZVF5Wm5kV1VZU2pDTVo0STA5SGZqTjQ4T2xVUUNhMGN2cFFBamdTM0RHS2VpYkY4eFNmTXk2aWYyeGs4eWpXcDRkLUo0aDZyRWtKNTNpT2xRQTR5bWJQay05UC1MUUZUUTRvbERZWjZhMWZjTDNweDJYeDVma1hBUXo1SS1wR1FBQ1BPR0FVNDlBRV9hRlQ4TDZ5S00wLVE0Uk11N05ROUE3WlBYTjZwNVh6c1dCeDQ5akMtNVEtZTVRemJJY3hFU2EtdmJKTWRWcWxYaUtDR01oMzdNMXpBTHRqUkdTczJ3MWF3bzVrZHRnbG5VZ0xac3VoZGNmWE9NcVp6cDVoQnRibEVLX0t6cnIzV2t2VEJHZw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-03-16T12:50:02+00:00",
-  "summary": "พี่ปิง IT Security Engineer บริษัทยักษ์ใหญ่ มาเล่าการทำงานสุดเจ๋งให้ฟังกัน! &nbsp;&nbsp; Sripatum University",
-  "severity": "info"
- },
- {
-  "title": "Food Security เปลี่ยนวิกฤตโลก เป็นโอกาสประเทศไทย - salika.co",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MekxaUWphTlhIR2lWSGkxQ0lNUklueVU5NTZKUkVwbnF3aElUTk1QRXBUZ29NS2xFUzIwYmF5X3FxdVdLcTNGZ2p4Z1dRNTVrWU5BeWJSalNrTi10MHNCb1o1OUEwVUNMVi10YzhwTXV3Zw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-03-04T08:00:00+00:00",
-  "summary": "Food Security เปลี่ยนวิกฤตโลก เป็นโอกาสประเทศไทย &nbsp;&nbsp; salika.co",
-  "severity": "info"
- },
- {
-  "title": "ปตท.สผ. พร้อมรักษาความมั่นคงทางพลังงานของไทยจากสถานการณ์ตะวันออกกลาง - ThaiPublica",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVlwVlVjUE5GNXZ4Wlk3aWIzZ21vX1BSem40RS1kbzVUR2NIMktpcUNCS3A3YWJDQXVoYUdJZ3dtQkpFSVM3ZkdZUUJ3VEFlNXo0SHB3TEloR05wcDBDUjR4VU1sVVRwSUtYaFlGb1VYYU1EMlg5SURfRkxpWGk5dzlNeW1DeU1nSk1IdlQ5R2ZNNHBac2RDZzVlcnhJdTJmeDBQWG52V04wVTZDdUNGT2RxV01IZDRjY19Tbno1MHBDaXhvdTRaR1d6azJ1Q3UySkI0?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-03-02T08:00:00+00:00",
-  "summary": "ปตท.สผ. พร้อมรักษาความมั่นคงทางพลังงานของไทยจากสถานการณ์ตะวันออกกลาง &nbsp;&nbsp; ThaiPublica",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "Anthropic เปิดตัว Claude Code Security เครื่องมือ AI สแกนช่องโหว่ในโค้ดแบบเชิงลึก - TechTalkThai",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPak52UE5KWXVaeTlkMkJZc3J6ZGhoNkRLSFRwU2M0WHY3Rm5YR3ZjN01KS3c1N01fU1lvdDNmcHdZaFJyS2llZHZXS0NCVTZOVGRGS09rcHlGVjNMcUJwZW5nbFNqSHVhb056OWNLdEZKV3BuRE8zMzlBM0VWNjU2UVFCZW9WWGRvQ2g4b0xB?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-02-24T04:24:25+00:00",
-  "summary": "Anthropic เปิดตัว Claude Code Security เครื่องมือ AI สแกนช่องโหว่ในโค้ดแบบเชิงลึก &nbsp;&nbsp; TechTalkThai",
-  "severity": "info"
- },
- {
-  "title": "สรุป Munich Security Conference 2026 สหรัฐฯ ย้ำไม่ทิ้งยุโรป จีนเตือนปมไต้หวัน ยูเครนขอหลักประกัน - thestandard.co",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TeXZUNWJBYW5Ienl2Ul9nQWtfY2gtNFU3cjN1LUN2LV9OWi1RYmpIVkE3c2ZRZVotYVVhVkp6YWxlVS1aLUpwNE9pZGhVblR0LVgyOHFiNDVkdkNnNHBEOVJrRk9xdw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-02-15T06:24:30+00:00",
-  "summary": "สรุป Munich Security Conference 2026 สหรัฐฯ ย้ำไม่ทิ้งยุโรป จีนเตือนปมไต้หวัน ยูเครนขอหลักประกัน &nbsp;&nbsp; thestandard.co",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "รายงาน Munich Security Conference 2026 โดนัลด์ ทรัมป์คือ ‘ลูกตุ้มรื้อทำลาย’ ระเบียบโลก - ThaiPublica",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DUWlnTG83bmN4ZUZZY1BmNEttSUJpeGl1dndyeWl1Ym93Vk5Ndkh5Q0JJUjNBamZqUWc1aHR1VzEzOWRlNUFwRlpMLWZLcURaeXRUWlI0RHRRTzJzMnRSMDljSnVndEpsRkJ0QnV6MDNVblExNmFweFlrMC03dw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-02-13T08:00:00+00:00",
-  "summary": "รายงาน Munich Security Conference 2026 โดนัลด์ ทรัมป์คือ ‘ลูกตุ้มรื้อทำลาย’ ระเบียบโลก &nbsp;&nbsp; ThaiPublica",
-  "severity": "info"
- },
- {
-  "title": "National Security Strategy 2025 แผนยุทธศาสตร์ของทรัมป์ต่อเอเชีย - ThaiPublica",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41LVhvcEVIUE1TSTY3TWk1VUhPcG9yYlZlakxZX285Z3ByeDR2ekhadVRhLXlSaWV0X0poWTRVVmNlY096MnRsRWpvSzRsNG1LWUpGNVUyRnBKd0hvc0xCYTB1NEhINzAtR3JNeFFvTFE5WVJkMmROZUZoemhyUQ?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-12-08T08:00:00+00:00",
-  "summary": "National Security Strategy 2025 แผนยุทธศาสตร์ของทรัมป์ต่อเอเชีย &nbsp;&nbsp; ThaiPublica",
-  "severity": "info"
- },
- {
-  "title": "UPDATE: Defense & Security 2025 เปิดฉาก Saab โชว์ Gripen เปิดให้ขึ้นนั่ง ชัยเสรีเปิดตัวรถหุ้มเกราะใหม่ . งาน Defense & Security 2025 งานแสดงอาวุธยุทโธปกรณ์และเทคโนโลยีป้องกันประเทศที่ใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้ เป",
-  "link": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxQLWUxYzRMUXlvZkM1VGtUNDRlS01zclViYjNxeFBzZmRpWkllQmRZWU9fMVlLazRvbGQ0Rlp6YXU1ckVNbVExcHZhRkhoLTdpcEt6dDhXc1hVZWU0UngyZmVPY1FncVNnb2dURlJxdWc1QXA0LTl6TkVfVVI3LTIxdDZvdE55X2dwdlpvNjNKa01OMXVSRDNfeFdPWEl1RF9YRlhBMXRsU3p0QzI0MHlwLTJHdzBkMXVKSFZ4TEN0MjRjdEo5YjB4Wk9PX2FkbHJLb0dDV2ZtYkd6Y0hzdjJOQWlsVXlIX2YtX3pxaTdERDRJRUFwRmdKeHlHZXlBeHRBRXFHRUJNeDhRTkZQXzREVFFjdk1Qa09vY1B6QmhsdUVmNDBQQnNzcnZnMXhsSDRtS0FoOEVJbjBBWHY3UmZfVk5yUTVjVkJsUTNOV09fN3BuWVF5UEVsRkRrd2RRZTVBenpNajNaNHJTa3BjXzJzVnRfYjZoajJwR3pFOVp1TEhKYlJaNVFraDB3UEtYaG1xdk1zcWRXZDNfN1JaRmM1aU05eTdzUzZxSjlSaGJCRXh3VU1FeHFqeGRqZXhMb05qa3JOcHlMSDdWRVZ3MFBIREIweDBhS1NkeFBtcThkSEhZZ0xBZlBGbXZhcnRXaVlUUXBUNGxuUDB0djdlT0J6Rm8zOEdwQTVoUnFfWkRjYUY4b24zZzZqckpyMVVmWjdpSkR1eHNwVlJXaW5rWTY0UmExRTdIdzQ3ZG5yR0UyLW5vN2VudGZMSEZHcW5sTHNVZ1M0RXJxYWVvSms?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-11-10T08:00:00+00:00",
-  "summary": "UPDATE: Defense & Security 2025 เปิดฉาก Saab โชว์ Gripen เปิดให้ขึ้นนั่ง ชัยเสรีเปิดตัวรถหุ้มเกราะใหม่ . งาน Defense & Security 2025 งานแสดงอาวุธยุทโธปกรณ์และเทคโนโลยีป้องกันประเทศที่ใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้ เป",
-  "severity": "info"
- },
- {
-  "title": "การประชุม Coordinating Conference for the ASEAN Political - Security Community ครั้งที่ 17 - กระทรวงการต่างประเทศ",
-  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqRkpXQjlQQ0R0VUoyd3NUM19kUml0QVhFS2lfTlJiR1l6S0hubjZDN0F6OU4zWlQzOWx1MHBwbHRfckZvR3BqMTMyM1dWSElZSnZF?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-09-08T03:13:49+00:00",
-  "summary": "การประชุม Coordinating Conference for the ASEAN Political - Security Community ครั้งที่ 17 &nbsp;&nbsp; กระทรวงการต่างประเทศ",
-  "severity": "info"
- },
- {
-  "title": "UPDATE: วันแรก Thailand Security Dialogue 2025 ตีโจทย์ยุทธศาสตร์ความมั่นคง ชูความร่วมมือระดับภูมิภาค-ระดับโลก . วันแรกของเวทีสัมนาความมั่นคงระหว่างประเทศ Thailand Security Dialogue 2025 “Peace and Security in a Global Di",
-  "link": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxPQ0JaN1NFektqZFEtdGxMVEpfRWJkdkpNd0tCWWtmWHZ0RjhCNjNZV3NlTHZrUTlKRUZNeGMta1hyejloNWU2ZU1zZEduQjBud0pFcGxOVXlzZE1DUkdtRmxsbzEtbnVEa21jcTRlZGJSVFV1T0lSdkxSNWxwMkpINmRHNWV0cEFpN0ZqU1FtMzRqUE9ZT09JbnhwQ3lSd2V1U19ndGNpVGhnYkh1TDFfMHFsS3I4U09yMDBCalFPMjdkT2RldTJNT1JuZlNKNFBhaHhsTmxzWXBtMTBhMk1Qb2Rna1BpNUhFY2NPdXJzd1JYMmF5eGZiTkZ0dEdEcWQxMlR4Ml9jVVN6bWkycDRPSlJvYUdBX0t2OHZiak9pUWZWZDl0eFI0QXBqaEhXTFlYOC1ITkFDMTd5ODRaaDBMV2pWSlBINDlONXF5djNxQzg4YlhiSWsxRmFqOElsbWZKOUVHQ202U1dfTnVQUXJDZVhRTXpPS1dpbVQ2V1QySnljSDYycFZqNU56aGVMUUdfTUxySWlyUEFGc1JvQXBVR1BPcVJzZElBVVRlQlNEMUp0TFVTemxqN1JDWno2NUFldjJVSG9LTnFRa1NGZmNQVHM2NURnX2FQcVlfSWdibi1WYWVzSUl1aUdBdy1hZFA3X0p4blY3VVFCdjlJeWhQNFRQbkNCOEZTaWdIblJDLXJpd0FzQU5wOTZEVFZLVWJtczVWMW5tN1lPbVVSRXpnOHlsbUh0RllKZjZhNEs5VGswTWhING1iQzE0U3FiNVlycGxLYWdLeDcyeXFYQ3NmU2o2TldFd010QVVUUmJVM2Y4MlByTUFla083Yw?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-08-30T07:00:00+00:00",
-  "summary": "UPDATE: วันแรก Thailand Security Dialogue 2025 ตีโจทย์ยุทธศาสตร์ความมั่นคง ชูความร่วมมือระดับภูมิภาค-ระดับโลก . วันแรกของเวทีสัมนาความมั่นคงระหว่างประเทศ Thailand Security Dialogue 2025 “Peace and Security in a Global Di",
-  "severity": "info"
  }
 ]
