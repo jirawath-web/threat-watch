@@ -1,5 +1,50 @@
 [
  {
+  "title": "Ethereum เปลี่ยนลำดับความสำคัญใหม่ ยก AI เป็นภัยคุกคามที่เร่งด่วนกว่าควอนตัม - Siam Blockchain",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnFtOG8zVVozdWFTWUpuZVZVLWwxbGJDR3ZOTnlRZjZjb1U4YU1ieVNkc0xEdmY4bWlDczR2bkUyX21nTHVmdmNQaktTQXp6cGo0dHh4eVhVbnhjX0tlOFpZR0NoVTdyaTdfUThFa2I4V0pncG5VUjlSYmpZWVMzR0tBb3pxSVRvR2R3Q3pQb1lPbmlnZ3dValRDbEN0X290bnZNbnJlN3pfanZ6NjFuMFhtTHZLdzA?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-24T07:42:10+00:00",
+  "summary": "Ethereum เปลี่ยนลำดับความสำคัญใหม่ ยก AI เป็นภัยคุกคามที่เร่งด่วนกว่าควอนตัม &nbsp;&nbsp; Siam Blockchain",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "ภัยความมั่นคง AI เจอช่องโหว่ Java สหรัฐฯ สั่งอัปเดตระบบด่วน - Techhub",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkE4RmhEZjA3WC1LSzdhTzVyTWc5dXVGbmZWS0JaVmh4dzViaUdVVEJIVDBLT1ktQ2IycWE3NDNVTDZUZVJEbzhiX2JSWTRmOFVKXzlLeFJBWU9RcWxoZVJtdjQzeHdQLXZVcF9YcHktOXlUblVKRks2RFFvR3hMcTNKNXZFem5qNlcwTXREZjhVLUpqOUdHUnJBR2VFRlBOd1hZcUN5blBJV1h0VVRPZw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-24T07:03:02+00:00",
+  "summary": "ภัยความมั่นคง AI เจอช่องโหว่ Java สหรัฐฯ สั่งอัปเดตระบบด่วน &nbsp;&nbsp; Techhub",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "Cleverbridge แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลบัตรชำระเงินของผู้ใช้งาน",
+  "link": "https://www.thaicert.or.th/2026/11/24/cleverbridge-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-24T07:02:00+00:00",
+  "summary": "648/69 (IT) ประจำวันอังคารที่ 24 พฤศจิกายน 2569 Cleverb [&#8230;] The post Cleverbridge แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลบัตรชำระเงินของผู้ใช้งาน first appeared on Thailand Computer Emergency Response Team (ThaiCERT) .",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3_0-9-1024x768.png"
+ },
+ {
+  "title": "พบการโจมตีช่องโหว่ระดับ Critical ใน ASP.NET Anti-CSRF Library เสี่ยงถูกเข้าควบคุมเว็บเซิร์ฟเวอร์โดยไม่ต้องยืนยันตัวตน",
+  "link": "https://www.thaicert.or.th/2026/11/24/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-2/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-24T07:01:00+00:00",
+  "summary": "647/69 (IT) ประจำวันอังคารที่ 24 พฤศจิกายน 2569 ักวิจัย [&#8230;] The post พบการโจมตีช่องโหว่ระดับ Critical ใน ASP.NET Anti-CSRF Library เสี่ยงถูกเข้าควบคุมเว็บเซิร์ฟเวอร์โดยไม่ต้องยืนยันตัวตน first appeared on Thailand ",
+  "severity": "critical",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_0-9-1024x768.png"
+ },
+ {
+  "title": "พบแคมเปญ Badbox 3.0 แพร่กระจายบนอุปกรณ์ราคาประหยัด แอบสร้างยอดโฆษณาปลอมและใช้เป็นทางผ่านเครือข่าย",
+  "link": "https://www.thaicert.or.th/2026/11/24/%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-badbox-3-0-%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%99/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-24T07:00:00+00:00",
+  "summary": "646/69 (IT) ประจำวันอังคารที่ 24 พฤศจิกายน 2569 ทีมวิจั [&#8230;] The post พบแคมเปญ Badbox 3.0 แพร่กระจายบนอุปกรณ์ราคาประหยัด แอบสร้างยอดโฆษณาปลอมและใช้เป็นทางผ่านเครือข่าย first appeared on Thailand Computer Emergency R",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_0-9-1024x768.png"
+ },
+ {
   "title": "เมื่อวันที่ 17 - 18 พฤศจิกายน 2569 นายวิชาวัฒน์ อิศรภักดี ผู้ช่วยรัฐมนตรีประจำกระทรวงการต่างประเทศ เป็นหัวหน้าคณะผู้แทนไทยเข้าร่วมการประชุม Schumann Security and Defence Forum ครั้งที่ 3 ซึ่งจัดขึ้นโดยกระทรวงการต่างประเท",
   "link": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxNdHZfenc4a3J4ZGoxcnVmeWV4RnA5NlVFZzVES2VjNllaZVlleC1qM20wcGctdlFQV3V5MWZZa1R0S0gxVkN1RW1qMUhRdWlDOUZoRy1fd0dQTW1WTGhrUy1tYW55Z0tUckVXSlk3Q28tdVplMG1fSnhzckR3eDVBUnFYYlZWMXNvUVpZcmx3UTZrZG9TN2t6LV8xZnRtS3NSNE1NWjkwNE9UOFZVcG0xMDRVTk1WU3k4TUNIeE5uTGppbXFwdm5lWUdZUjF4bzI3cW5YTHNUSjh6QmUtR3AtWTlyZENlZDVITUhSUUxSZGwtMk9RV19jRllKcTRxVFdpWHF2NFBtRFBFdGxTQW9xVUpqT2VlZGlzdzdVdGlVU3VJWmpiX3V5dEV2VFRxZFMxWGdUSnJzZlR4OUc3a1BybHlSUW00WFB4cHJ3ejN5NVpmVDk5TVdlVmpRM0JTMVphRldwNkxNR1l1NDJ1M0xGY3dKWmZoZzluV3RHaFhWVlMwSmw4ZEJ1UjRLU2ZkWkhvOTNUWXN0OFl3MDBZVmFGbzliSTBPbklCTmt6aXNPUGlYMWtUa0NlZHp3V1lqeUhmd05SNHhSczJiZG9VMGVYZElzdGtybjZlTDRLNXB5R3puVUJuQVIyS2VkQUI1NHVJcHNpQ2daV1lIT1JvZEcwX2hPYVZlekxHeXc2RmdrcmMtX01xUnE1U0tXU3pGRlloN2U4TmZnd2JocnliakJLY0xQMDMyWnR6LXVHZ1VlWEVKX3k4YWlpOEVvUkgzUVlOMjZDWFpYQjVPX3A5eFRfa294MlNzQjF6OW9jRi1PeVRWY0F1NXhMbGxuU0VWVjVaTTdrVlRuYk5Rb3Y5WlQ5eHM4MTQ4azVCX1JLQlFCNmhfOUNJeGt0eEdzQnRYUzlqYmRQV2VmTWotb1hCcjJSNlIwSmlDQ2M0N1RmTk9zdnNlLTItb0xTbnBzVGxWcHotY2diVS1jaGd6OFhzcEFIY2dMTVBhd19KZ2hiMUVQWjlCd250cnA3WFh5SzhKOTlKNFpPSVFFRXBEeXhkajhxLVg1blZ1MmttbkNLNDF6emZDdl9QMS1TTThOOF9oN1JHRUZIMHZHUC1PbE1FWTNFdXR3eXNlMnVLaW90NmU5akFvLVRBSnJueU53b3UtTVp3dmNUY3VmOEEyQmVjZ244UFpoV0lhQUZl?oc=5",
   "source": "Google News: Security",
@@ -72,6 +117,15 @@
   "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง [&#8230;] The post เตือนภัย! ช่องโหว่ Linux KVM บน AMD เสี่ยงถูกเข้าถึงหน่วยความจำ Host ผ่าน VM first appeared on Thailand Computer Emergency Response Team (ThaiCER",
   "severity": "info",
   "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Linux-KVM-บน-AMD-1024x595.jpg"
+ },
+ {
+  "title": "One Identity เปิดตัว Active Roles 8.6 พร้อมความปลอดภัยและระบบการจัดการที่ดีขึ้น - HackerNoon",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVE8xRXB2NEtmTGwtME9tOWFkamNKMTZGTVBCT05DcTU3WXlwTzFmdkx6VVg3M0lCVGtkOEY2Q1VCODhrbXA2UE5mMS1GQXBPbml6SmZJd1ZiM3I4b0dYbDFmWS1DaFNaNGlVTlBMNjV1a3FDdU12ekY2dElPWmhLakVjajJ1c3F0dktiSFBXTGdmOERNbloyd3J4bzVzVTIwOFFwZlltaEZvN0FTNGc?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-23T13:41:09+00:00",
+  "summary": "One Identity เปิดตัว Active Roles 8.6 พร้อมความปลอดภัยและระบบการจัดการที่ดีขึ้น &nbsp;&nbsp; HackerNoon",
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "CrowdStrike ปิดดีลซื้อกิจการ Zscaler เพื่อสร้างแพลตฟอร์มความปลอดภัยไซเบอร์ยุค AI มูลค่าดีล 4.4 หมื่นล้านดอลลาร์",
@@ -534,6 +588,15 @@
   "image": ""
  },
  {
+  "title": "TMA จัด “FUTURE FORUM 2026” ผนึกผู้นำธุรกิจไทยและระดับโลก ชู Mitigation & Adaptation ยกระดับ AI และ Resource Security เพื่อสร้างขีดความสามารถทางการแข่งขันอย่างยั่งยืน - ThaiPR.NET",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uSE5GdDBfSnhiX3NHUk91S29QbUpUZkJSUVNSMERoNTdOS0xWNWNQMTh0YXR0dmtqSldvaklwSXhadVhBQVBSeFVRYmQwckZn?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-05T02:10:00+00:00",
+  "summary": "TMA จัด “FUTURE FORUM 2026” ผนึกผู้นำธุรกิจไทยและระดับโลก ชู Mitigation & Adaptation ยกระดับ AI และ Resource Security เพื่อสร้างขีดความสามารถทางการแข่งขันอย่างยั่งยืน &nbsp;&nbsp; ThaiPR.NET",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Influencer Marketing ยุคนี้ ต้องมี AI มาช่วยงาน Data ด้าน AnotherDot เลยเปิดตัวแพลตฟอร์มใหม่ ใช้ AI ช่วยแคมเปญต้ั้งแต่นัดหมาย ถึงสรุปผล",
   "link": "https://www.blognone.com/node/152095",
   "source": "Blognone News",
@@ -547,6 +610,15 @@
   "source": "Google News: Security",
   "published": "2026-11-04T07:11:01+00:00",
   "summary": "Cloud & AI Security Review ใช้ AI ให้ธุรกิจเดินหน้า พร้อมรู้จุดเสี่ยงก่อนเกิดความเสียหาย by eCloudvalley [Guest Post] &nbsp;&nbsp; TechTalkThai",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "TMA ผนึกผู้นำธุรกิจไทย-โลก ชู AI และ Resource Security ยกระดับการแข่งขันอย่างยั่งยืน - TNN Thailand",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsYkpIYUJfTHpjbUtoTlhFZXE3WVB1U3pwaEFjS2dWTEF0OGptQ1JNOG5XS25saDBSaGZyQm1vRTVydUMwS1NjUDRGVzNzcE1rNEJQZXBfald5eFZjLU5RZXhhZw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-04T05:40:04+00:00",
+  "summary": "TMA ผนึกผู้นำธุรกิจไทย-โลก ชู AI และ Resource Security ยกระดับการแข่งขันอย่างยั่งยืน &nbsp;&nbsp; TNN Thailand",
   "severity": "info",
   "image": ""
  },
