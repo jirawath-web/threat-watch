@@ -3,6 +3,10 @@
     {
       "name": "Blognone News",
       "url": "https://www.blognone.com/atom.xml"
+    },
+    {
+      "name": "Google News: Security",
+      "url": "https://news.google.com/rss/search?q=security&hl=th&gl=TH&ceid=TH%3Ath"
     }
   ],
   "keywords": [
