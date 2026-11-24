@@ -18,6 +18,15 @@
   "image": ""
  },
  {
+  "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+  "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+  "source": "The Hacker News",
+  "published": "2026-11-24T08:34:20+00:00",
+  "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hash",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK7wXAof6nH7PDC5-3qxXZJgJvZODTjQcrWFOjO8jeb9yGkK6bUkzm27MzMy5n0S_Xywsj0npu_F0FmQ4JcKxPXNEoezLrpKoSStaYK4Ww46QUuzySTeQnnzcIXs_NADunlqeyuMIl5Wm5PKWc3c0JyNmYPxfbInIWx2tfosieI_QS_e4PX-JILlLH-1U/s1600/hosting.jpg"
+ },
+ {
   "title": "Ethereum เปลี่ยนลำดับความสำคัญใหม่ ยก AI เป็นภัยคุกคามที่เร่งด่วนกว่าควอนตัม - Siam Blockchain",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnFtOG8zVVozdWFTWUpuZVZVLWwxbGJDR3ZOTnlRZjZjb1U4YU1ieVNkc0xEdmY4bWlDczR2bkUyX21nTHVmdmNQaktTQXp6cGo0dHh4eVhVbnhjX0tlOFpZR0NoVTdyaTdfUThFa2I4V0pncG5VUjlSYmpZWVMzR0tBb3pxSVRvR2R3Q3pQb1lPbmlnZ3dValRDbEN0X290bnZNbnJlN3pfanZ6NjFuMFhtTHZLdzA?oc=5",
   "source": "Google News: Security",
@@ -1740,14 +1749,6 @@
   "source": "Google News: Security",
   "published": "2025-03-24T07:00:00+00:00",
   "summary": "เชิญฟังบรรยาย Chula Lunch Talk : Cyber Security Insight รู้ก่อน รอดก่อน รับมือภัยไซเบอร์ &nbsp;&nbsp; จุฬาลงกรณ์มหาวิทยาลัย",
-  "severity": "info"
- },
- {
-  "title": "สกมช. ออกประกาศด้าน Cloud Security Framework สนับสนุนความพร้อมยกระดับ Ecosystem - TechTalkThai",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZY2tCenBOcHV5djRwYTVUc3EtbmZaMmZneXUzX1EwanNaajFXS2EwcTlFNE9fVjhINk5fcDQtbVJOU012S1pKbjlhUm5Fc1BGY2ozbEVrek9DRWM4WHNVSnRBUHpRN0tNbkx5N2t5WVVoUGQ2alRpcEFzVQ?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-03-12T05:40:07+00:00",
-  "summary": "สกมช. ออกประกาศด้าน Cloud Security Framework สนับสนุนความพร้อมยกระดับ Ecosystem &nbsp;&nbsp; TechTalkThai",
   "severity": "info"
  }
 ]
