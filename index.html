@@ -88,6 +88,7 @@ const SAMPLE=[
 const $=s=>document.querySelector(s);
 function ld(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}}
 function sv(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+let gh=Object.assign({repo:"",path:"feeds.json",token:""},ld("tw-gh",{}));
 const DEF={url:"news.json",theme:"auto",feeds:[{name:"BleepingComputer",url:"https://www.bleepingcomputer.com/feed/"},{name:"The Hacker News",url:"https://feeds.feedburner.com/TheHackersNews"}],keywords:["zero-day","actively exploited","critical","ransomware","thailand"]};
 let cfg=Object.assign({},DEF,ld("tw-cfg",{})),saved=ld("tw-saved",[]),items=[],live=false,tab="latest",q="",off=new Set();
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -118,11 +119,31 @@ function render(){
  let h="";
  if(tab==="settings"){h=`<div class="item"><h2>แหล่งข้อมูลข่าว</h2><p>ใส่ที่อยู่ไฟล์ news.json ที่สคริปต์ของคุณสร้างขึ้น (เช่น บน GitHub Pages)</p><div class="row"><input type="text" id="url" value="${esc(cfg.url)}"></div><div class="act"><button class="chip" id="saveurl">บันทึกและโหลดใหม่</button></div></div>
  <div class="item"><h2>ฟีดข่าว (RSS)</h2><p>เพิ่มหรือลบฟีดที่ต้องการติดตาม แล้วคัดลอกไฟล์ feeds.json ไปวางในโปรเจกต์ GitHub เพื่อให้สคริปต์ใช้ฟีดชุดนี้</p>${cfg.feeds.map((f,i)=>`<div class="row" style="align-items:center"><span style="flex:1;min-width:0;overflow-wrap:anywhere"><strong>${esc(f.name)}</strong><br><span class="meta">${esc(f.url)}</span></span><button class="chip" data-delfeed="${i}">ลบ</button></div>`).join("")||"<p>ยังไม่มีฟีด</p>"}<div class="row"><input type="text" id="newname" placeholder="ชื่อฟีด"><input type="text" id="newurl" placeholder="https://.../feed"></div><div class="act"><button class="chip" id="addfeed">เพิ่มฟีด</button></div><h2 style="margin-top:16px">คำสำคัญที่ใช้ส่งแจ้งเตือน</h2><div class="row"><input type="text" id="kw" value="${esc(cfg.keywords.join(", "))}"></div><div class="act"><button class="chip" id="savekw">บันทึกคำสำคัญ</button></div><h2 style="margin-top:16px">ไฟล์ feeds.json</h2><textarea id="out" readonly rows="9" style="width:100%;font:.8rem/1.4 ui-monospace,Menlo,monospace;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px">${esc(JSON.stringify({feeds:cfg.feeds,keywords:cfg.keywords},null,2))}</textarea><div class="act"><button class="chip" id="copyfeeds">คัดลอก</button><button class="chip" id="dlfeeds">ดาวน์โหลด</button></div></div>
+ <div class="item"><h2>เชื่อม GitHub (บันทึกฟีดอัตโนมัติ)</h2><p>ใช้ได้เมื่อเปิดแอปจาก GitHub Pages ของคุณ ใส่ token แบบ fine-grained ที่จำกัดเฉพาะ repo นี้และมีสิทธิ์ Contents: Read and write โทเค็นจะเก็บในเบราว์เซอร์เครื่องนี้เท่านั้น</p><div class="row"><input type="text" id="ghrepo" placeholder="ชื่อผู้ใช้/ชื่อ repo" value="${esc(gh.repo)}"><input type="text" id="ghpath" placeholder="พาธไฟล์" value="${esc(gh.path)}"></div><div class="row"><input type="password" id="ghtoken" placeholder="GitHub token" value="${esc(gh.token)}" autocomplete="off"></div><div class="act"><button class="chip" id="ghsave">บันทึกฟีดขึ้น GitHub</button><button class="chip" id="ghload">ดึงฟีดจาก GitHub</button></div><p id="ghmsg" role="status"></p></div>
  <div class="item"><h2>ธีม</h2><div class="row">${["auto","light","dark"].map(t=>`<button class="chip" data-theme="${t}" aria-pressed="${cfg.theme===t}">${{auto:"อัตโนมัติ",light:"สว่าง",dark:"มืด"}[t]}</button>`).join("")}</div></div>
  <div class="item"><h2>รูปแบบไฟล์ news.json</h2><p>รายการของ title, link, source, published, summary และ severity (critical, high, medium, info; ไม่ใส่ก็ได้ ระบบจะเดาจากคำในหัวข้อ)</p></div>`}
  else{if(!live)h+=`<div class="notice">กำลังแสดงข้อมูลตัวอย่าง ยังไม่ได้เชื่อมต่อไฟล์ข่าวจริง ไปที่ตั้งค่าเพื่อใส่ที่อยู่ news.json</div>`;
   const a=list();h+=a.length?a.map(card).join(""):`<div class="empty">${tab==="saved"?"ยังไม่มีข่าวที่บันทึก กดปุ่มบันทึกที่ข่าวที่ต้องการอ่านภายหลัง":"ไม่พบข่าวที่ตรงกับตัวกรอง"}</div>`}
  $("#view").innerHTML=h}
+function setMsg(t){const m=$("#ghmsg");if(m)m.textContent=t}
+function ghcfg(){gh={repo:$("#ghrepo").value.trim(),path:$("#ghpath").value.trim()||"feeds.json",token:$("#ghtoken").value.trim()};sv("tw-gh",gh);return /^[\w.-]+\/[\w.-]+$/.test(gh.repo)&&gh.token}
+async function ghapi(method,body){
+ const r=await fetch(`https://api.github.com/repos/${gh.repo}/contents/${gh.path.split("/").map(encodeURIComponent).join("/")}`,{method,headers:{Authorization:"Bearer "+gh.token,Accept:"application/vnd.github+json"},body:body?JSON.stringify(body):undefined});
+ if(!r.ok)throw new Error(r.status===401||r.status===403?"โทเค็นไม่ถูกต้องหรือไม่มีสิทธิ์":r.status===404?"ไม่พบ repo หรือไฟล์":"ผิดพลาด "+r.status);
+ return r.json()}
+async function ghSave(){
+ if(!ghcfg())return setMsg("กรอกชื่อ repo (ผู้ใช้/repo) และ token ให้ครบ");
+ setMsg("กำลังบันทึก...");
+ try{let sha;try{sha=(await ghapi("GET")).sha}catch(e){if(!/ไม่พบ/.test(e.message))throw e}
+  const txt=JSON.stringify({feeds:cfg.feeds,keywords:cfg.keywords},null,2)+"\n";
+  await ghapi("PUT",{message:"update feeds from app",content:btoa(unescape(encodeURIComponent(txt))),sha});
+  setMsg("บันทึกแล้ว สคริปต์จะใช้ฟีดชุดนี้ในรอบถัดไป")}
+ catch(e){setMsg("บันทึกไม่สำเร็จ: "+e.message)}}
+async function ghLoad(){
+ if(!ghcfg())return setMsg("กรอกชื่อ repo (ผู้ใช้/repo) และ token ให้ครบ");
+ try{const j=await ghapi("GET");const d=JSON.parse(decodeURIComponent(escape(atob(j.content.replace(/\s/g,"")))));
+  if(Array.isArray(d.feeds))cfg.feeds=d.feeds;if(Array.isArray(d.keywords))cfg.keywords=d.keywords;sv("tw-cfg",cfg);render();setMsg("ดึงฟีดจาก GitHub แล้ว")}
+ catch(e){setMsg("ดึงไม่สำเร็จ: "+e.message)}}
 document.addEventListener("click",e=>{const t=e.target.closest("button");if(!t)return;
  if(t.dataset.tab){tab=t.dataset.tab;render();$("main").scrollTop=0}
  else if(t.dataset.save){const l=t.dataset.save;saved=saved.includes(l)?saved.filter(x=>x!==l):[...saved,l];sv("tw-saved",saved);render()}
@@ -133,6 +154,8 @@ document.addEventListener("click",e=>{const t=e.target.closest("button");if(!t)r
  else if(t.id==="savekw"){cfg.keywords=$("#kw").value.split(",").map(s=>s.trim()).filter(Boolean);sv("tw-cfg",cfg);render()}
  else if(t.id==="copyfeeds"){const o=$("#out");o.select();try{navigator.clipboard.writeText(o.value)}catch(e){try{document.execCommand("copy")}catch(e2){}}}
  else if(t.id==="dlfeeds"){try{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([$("#out").value],{type:"application/json"}));a.download="feeds.json";a.click()}catch(e){}}
+ else if(t.id==="ghsave")ghSave();
+ else if(t.id==="ghload")ghLoad();
  else if(t.id==="menu")document.body.classList.add("open");
  else if(t.id==="close")document.body.classList.remove("open");
  else if(t.id==="refresh")load();
