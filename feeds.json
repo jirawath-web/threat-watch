@@ -11,6 +11,10 @@
     {
       "name": "Cyber News by thaicert.or.th",
       "url": "https://www.thaicert.or.th/category/cybernews/feed/"
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews"
     }
   ],
   "keywords": [
