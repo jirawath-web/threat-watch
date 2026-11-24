@@ -46,6 +46,24 @@ def clean(html):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html or "")).strip()[:220]
 
 
+def image(entry):
+    """หารูปประกอบข่าวจากฟีด (เก็บเฉพาะลิงก์ https ไม่ดาวน์โหลดรูปมาเก็บ)"""
+    urls = []
+    for key in ("media_thumbnail", "media_content"):
+        urls += [m.get("url", "") for m in entry.get(key, []) or []]
+    urls += [
+        enc.get("href", "")
+        for enc in entry.get("enclosures", []) or []
+        if enc.get("type", "").startswith("image")
+    ]
+    html = [entry.get("summary", "")] + [c.get("value", "") for c in entry.get("content", []) or []]
+    for h in html:
+        m = re.search(r"<img[^>]+src=[\"']([^\"']+)", h or "")
+        if m:
+            urls.append(m.group(1))
+    return next((u for u in urls if u.startswith("https://")), "")
+
+
 def notify(item):
     if not (TOKEN and CHAT_ID):
         return
@@ -80,6 +98,7 @@ for feed in cfg.get("feeds", []):
             "published": iso(e),
             "summary": summary,
             "severity": severity(title + " " + summary),
+            "image": image(e),
         }
         news[link] = item
         seen.add(link)
