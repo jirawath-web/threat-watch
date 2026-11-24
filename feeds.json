@@ -7,6 +7,10 @@
     {
       "name": "Google News: Security",
       "url": "https://news.google.com/rss/search?q=security&hl=th&gl=TH&ceid=TH%3Ath"
+    },
+    {
+      "name": "Cyber News by thaicert.or.th",
+      "url": "https://www.thaicert.or.th/category/cybernews/feed/"
     }
   ],
   "keywords": [
