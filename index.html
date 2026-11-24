@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ข่าวภัยไซเบอร์</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef2f6;--surface:#fff;--ink:#14202e;--mute:#5a6a7e;--line:#d5dde6;--accent:#1d4f91;--crit:#b42318;--high:#b54708;--med:#1d5fa8;--info:#5a6a7e;--bar:#fff}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1720;--surface:#18222e;--ink:#e6edf5;--mute:#93a3b6;--line:#2a3746;--accent:#7db0ee;--crit:#ff8a7a;--high:#f2b266;--med:#8cb9f0;--info:#93a3b6;--bar:#18222e}}
+:root[data-theme="dark"]{--bg:#0f1720;--surface:#18222e;--ink:#e6edf5;--mute:#93a3b6;--line:#2a3746;--accent:#7db0ee;--crit:#ff8a7a;--high:#f2b266;--med:#8cb9f0;--info:#93a3b6;--bar:#18222e}
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:inherit}
+html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--ink);font:400 16px/1.55 "IBM Plex Sans Thai",system-ui,-apple-system,"Segoe UI",sans-serif}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);background:var(--bar);z-index:10}
+#app{display:flex;flex-direction:column;height:100%}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+header{display:flex;align-items:center;gap:8px;padding:8px 12px;background:var(--bar);border-bottom:1px solid var(--line)}
+header h1{flex:1;margin:0;font-size:1.05rem;font-weight:600}
+.ib{width:44px;height:44px;border:0;background:none;border-radius:10px;display:grid;place-items:center}
+.ib:hover{background:var(--bg)}
+.ib svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+main{flex:1;overflow-y:auto;padding:16px 12px}
+.wrap{max-width:760px;margin:0 auto}
+.notice{border:1px solid var(--high);color:var(--high);border-radius:10px;padding:10px 12px;margin-bottom:14px;font-size:.9rem}
+.item{background:var(--surface);border:1px solid var(--line);border-left:5px solid var(--info);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.item.critical{border-left-color:var(--crit)}.item.high{border-left-color:var(--high)}.item.medium{border-left-color:var(--med)}
+.meta{display:flex;flex-wrap:wrap;gap:4px 10px;color:var(--mute);font-size:.82rem}
+.sev{font-weight:600}.critical .sev{color:var(--crit)}.high .sev{color:var(--high)}.medium .sev{color:var(--med)}
+.item h2{margin:4px 0;font-size:1.02rem;font-weight:600;line-height:1.4}
+.item h2 a{color:inherit;text-decoration:none}.item h2 a:hover{text-decoration:underline}
+.item p{margin:4px 0 0;color:var(--mute);font-size:.92rem;max-width:70ch}
+.act{margin-top:8px;display:flex;gap:6px}
+.chip{border:1px solid var(--line);background:none;border-radius:999px;padding:4px 12px;font-size:.85rem;min-height:36px}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.empty{text-align:center;color:var(--mute);padding:48px 12px}
+nav{display:flex;justify-content:center;background:var(--bar);border-top:1px solid var(--line)}
+nav .in{display:flex;width:100%;max-width:760px}
+nav button{flex:1;border:0;background:none;padding:8px 4px;min-height:58px;display:flex;flex-direction:column;align-items:center;gap:2px;font-size:.78rem;color:var(--mute)}
+nav button svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+nav button[aria-current="page"]{color:var(--accent);font-weight:600}
+#scrim{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:20;opacity:0;pointer-events:none;transition:opacity .2s}
+#drawer{position:fixed;top:0;bottom:0;left:0;width:min(320px,86vw);background:var(--surface);z-index:30;transform:translateX(-100%);transition:transform .22s;padding:calc(16px + env(safe-area-inset-top,0px)) 16px 16px;overflow-y:auto;border-right:1px solid var(--line)}
+body.open #scrim{opacity:1;pointer-events:auto}body.open #drawer{transform:none}
+#drawer h3{margin:18px 0 6px;font-size:.95rem}
+#drawer label{display:flex;align-items:center;gap:10px;min-height:40px}
+input[type=text],input[type=search]{width:100%;font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+.row{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}
+@media (prefers-reduced-motion:reduce){#scrim,#drawer{transition:none}}
+</style>
+</head>
+<body>
+<div id="scrim"></div>
+<aside id="drawer" aria-label="เมนู">
+  <strong>ตัวกรองข่าว</strong>
+  <h3>ค้นหาคำสำคัญ</h3>
+  <input type="search" id="q" placeholder="เช่น ransomware, Cisco">
+  <h3>แหล่งข่าว</h3>
+  <div id="sources"></div>
+  <div class="row"><button class="chip" id="clear">ล้างตัวกรอง</button><button class="chip" id="close">ปิดเมนู</button></div>
+</aside>
+<div id="app">
+  <header>
+    <button class="ib" id="menu" aria-label="เปิดเมนู"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+    <h1 id="title">ข่าวล่าสุด</h1>
+    <button class="ib" id="refresh" aria-label="โหลดข่าวใหม่"><svg viewBox="0 0 24 24"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 4v7h-7"/></svg></button>
+  </header>
+  <main><div class="wrap" id="view"></div></main>
+  <nav><div class="in">
+    <button data-tab="latest"><svg viewBox="0 0 24 24"><path d="M4 5h16M4 10h16M4 15h10"/></svg>ล่าสุด</button>
+    <button data-tab="urgent"><svg viewBox="0 0 24 24"><path d="M12 3 2 20h20L12 3zM12 10v4M12 17.5v.01"/></svg>ด่วน</button>
+    <button data-tab="saved"><svg viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4V3z"/></svg>บันทึก</button>
+    <button data-tab="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M5 5l2 2M17 17l2 2M19 5l-2 2M7 17l-2 2"/></svg>ตั้งค่า</button>
+  </div></nav>
+</div>
+<script>
+const TITLES={latest:"ข่าวล่าสุด",urgent:"ข่าวด่วน",saved:"ที่บันทึกไว้",settings:"ตั้งค่า"};
+const SEV={critical:"ร้ายแรง",high:"สูง",medium:"ปานกลาง",info:"ทั่วไป"};
+const SAMPLE=[
+ {title:"ตัวอย่าง: ช่องโหว่ zero-day ถูกโจมตีจริงในอุปกรณ์ VPN",source:"ตัวอย่าง",published:"2026-11-24T08:00:00+07:00",summary:"ข้อมูลตัวอย่างเพื่อแสดงหน้าตาแอป ไม่ใช่ข่าวจริง",link:"#"},
+ {title:"ตัวอย่าง: แคมเปญแรนซัมแวร์ใหม่มุ่งเป้าองค์กรในภูมิภาค",source:"ตัวอย่าง",published:"2026-11-23T17:30:00+07:00",summary:"ข้อมูลตัวอย่างเพื่อแสดงหน้าตาแอป ไม่ใช่ข่าวจริง",link:"#"},
+ {title:"ตัวอย่าง: อัปเดตความปลอดภัยประจำเดือนสำหรับเบราว์เซอร์",source:"ตัวอย่าง 2",published:"2026-11-23T09:00:00+07:00",summary:"ข้อมูลตัวอย่างเพื่อแสดงหน้าตาแอป ไม่ใช่ข่าวจริง",link:"#"}
+];
+const $=s=>document.querySelector(s);
+function ld(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}}
+function sv(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+const DEF={url:"news.json",theme:"auto",feeds:[{name:"BleepingComputer",url:"https://www.bleepingcomputer.com/feed/"},{name:"The Hacker News",url:"https://feeds.feedburner.com/TheHackersNews"}],keywords:["zero-day","actively exploited","critical","ransomware","thailand"]};
+let cfg=Object.assign({},DEF,ld("tw-cfg",{})),saved=ld("tw-saved",[]),items=[],live=false,tab="latest",q="",off=new Set();
+const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const safe=u=>/^https?:\/\//i.test(u)?u:"#";
+function sev(i){if(SEV[i.severity])return i.severity;const t=(i.title||"").toLowerCase();
+ if(/zero-day|actively exploited|critical/.test(t))return"critical";if(/ransomware|breach|exploit|vulnerab/.test(t))return"high";return"info"}
+function fmt(d){try{return new Date(d).toLocaleString("th-TH",{dateStyle:"medium",timeStyle:"short"})}catch(e){return""}}
+function applyTheme(){const r=document.documentElement;cfg.theme==="auto"?r.removeAttribute("data-theme"):r.setAttribute("data-theme",cfg.theme)}
+async function load(){
+ try{const r=await fetch(cfg.url,{cache:"no-store"});if(!r.ok)throw 0;const j=await r.json();if(!Array.isArray(j))throw 0;items=j;live=true}
+ catch(e){items=SAMPLE;live=false}
+ items.sort((a,b)=>new Date(b.published||0)-new Date(a.published||0));render()}
+function card(i){const s=sev(i),on=saved.includes(i.link);
+ return `<article class="item ${s}"><div class="meta"><span class="sev">${SEV[s]}</span><span>${esc(i.source)}</span><span>${esc(fmt(i.published))}</span></div>
+ <h2><a href="${esc(safe(i.link))}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>${i.summary?`<p>${esc(i.summary)}</p>`:""}
+ <div class="act"><button class="chip" data-save="${esc(i.link)}" aria-pressed="${on}">${on?"บันทึกแล้ว":"บันทึก"}</button></div></article>`}
+function list(){let a=items.filter(i=>!off.has(i.source));
+ if(q)a=a.filter(i=>((i.title||"")+(i.summary||"")).toLowerCase().includes(q));
+ if(tab==="urgent")a=a.filter(i=>["critical","high"].includes(sev(i)));
+ if(tab==="saved")a=a.filter(i=>saved.includes(i.link));return a}
+function render(){
+ $("#title").textContent=TITLES[tab];
+ document.querySelectorAll("nav button").forEach(b=>b.toggleAttribute("aria-current",b.dataset.tab===tab)||0);
+ document.querySelectorAll("nav button").forEach(b=>b.dataset.tab===tab?b.setAttribute("aria-current","page"):b.removeAttribute("aria-current"));
+ const srcs=[...new Set(items.map(i=>i.source))];
+ $("#sources").innerHTML=srcs.map(s=>`<label><input type="checkbox" data-src="${esc(s)}" ${off.has(s)?"":"checked"}>${esc(s)}</label>`).join("");
+ let h="";
+ if(tab==="settings"){h=`<div class="item"><h2>แหล่งข้อมูลข่าว</h2><p>ใส่ที่อยู่ไฟล์ news.json ที่สคริปต์ของคุณสร้างขึ้น (เช่น บน GitHub Pages)</p><div class="row"><input type="text" id="url" value="${esc(cfg.url)}"></div><div class="act"><button class="chip" id="saveurl">บันทึกและโหลดใหม่</button></div></div>
+ <div class="item"><h2>ฟีดข่าว (RSS)</h2><p>เพิ่มหรือลบฟีดที่ต้องการติดตาม แล้วคัดลอกไฟล์ feeds.json ไปวางในโปรเจกต์ GitHub เพื่อให้สคริปต์ใช้ฟีดชุดนี้</p>${cfg.feeds.map((f,i)=>`<div class="row" style="align-items:center"><span style="flex:1;min-width:0;overflow-wrap:anywhere"><strong>${esc(f.name)}</strong><br><span class="meta">${esc(f.url)}</span></span><button class="chip" data-delfeed="${i}">ลบ</button></div>`).join("")||"<p>ยังไม่มีฟีด</p>"}<div class="row"><input type="text" id="newname" placeholder="ชื่อฟีด"><input type="text" id="newurl" placeholder="https://.../feed"></div><div class="act"><button class="chip" id="addfeed">เพิ่มฟีด</button></div><h2 style="margin-top:16px">คำสำคัญที่ใช้ส่งแจ้งเตือน</h2><div class="row"><input type="text" id="kw" value="${esc(cfg.keywords.join(", "))}"></div><div class="act"><button class="chip" id="savekw">บันทึกคำสำคัญ</button></div><h2 style="margin-top:16px">ไฟล์ feeds.json</h2><textarea id="out" readonly rows="9" style="width:100%;font:.8rem/1.4 ui-monospace,Menlo,monospace;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px">${esc(JSON.stringify({feeds:cfg.feeds,keywords:cfg.keywords},null,2))}</textarea><div class="act"><button class="chip" id="copyfeeds">คัดลอก</button><button class="chip" id="dlfeeds">ดาวน์โหลด</button></div></div>
+ <div class="item"><h2>ธีม</h2><div class="row">${["auto","light","dark"].map(t=>`<button class="chip" data-theme="${t}" aria-pressed="${cfg.theme===t}">${{auto:"อัตโนมัติ",light:"สว่าง",dark:"มืด"}[t]}</button>`).join("")}</div></div>
+ <div class="item"><h2>รูปแบบไฟล์ news.json</h2><p>รายการของ title, link, source, published, summary และ severity (critical, high, medium, info; ไม่ใส่ก็ได้ ระบบจะเดาจากคำในหัวข้อ)</p></div>`}
+ else{if(!live)h+=`<div class="notice">กำลังแสดงข้อมูลตัวอย่าง ยังไม่ได้เชื่อมต่อไฟล์ข่าวจริง ไปที่ตั้งค่าเพื่อใส่ที่อยู่ news.json</div>`;
+  const a=list();h+=a.length?a.map(card).join(""):`<div class="empty">${tab==="saved"?"ยังไม่มีข่าวที่บันทึก กดปุ่มบันทึกที่ข่าวที่ต้องการอ่านภายหลัง":"ไม่พบข่าวที่ตรงกับตัวกรอง"}</div>`}
+ $("#view").innerHTML=h}
+document.addEventListener("click",e=>{const t=e.target.closest("button");if(!t)return;
+ if(t.dataset.tab){tab=t.dataset.tab;render();$("main").scrollTop=0}
+ else if(t.dataset.save){const l=t.dataset.save;saved=saved.includes(l)?saved.filter(x=>x!==l):[...saved,l];sv("tw-saved",saved);render()}
+ else if(t.dataset.theme){cfg.theme=t.dataset.theme;sv("tw-cfg",cfg);applyTheme();render()}
+ else if(t.id==="saveurl"){cfg.url=$("#url").value.trim()||"news.json";sv("tw-cfg",cfg);load()}
+ else if(t.dataset.delfeed!==undefined){cfg.feeds.splice(+t.dataset.delfeed,1);sv("tw-cfg",cfg);render()}
+ else if(t.id==="addfeed"){const el=$("#newurl"),u=el.value.trim();if(!/^https?:\/\//i.test(u)){el.value="";el.placeholder="ลิงก์ต้องขึ้นต้นด้วย https://";return}let n=$("#newname").value.trim();try{n=n||new URL(u).hostname}catch(e){n=n||u}cfg.feeds.push({name:n,url:u});sv("tw-cfg",cfg);render()}
+ else if(t.id==="savekw"){cfg.keywords=$("#kw").value.split(",").map(s=>s.trim()).filter(Boolean);sv("tw-cfg",cfg);render()}
+ else if(t.id==="copyfeeds"){const o=$("#out");o.select();try{navigator.clipboard.writeText(o.value)}catch(e){try{document.execCommand("copy")}catch(e2){}}}
+ else if(t.id==="dlfeeds"){try{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([$("#out").value],{type:"application/json"}));a.download="feeds.json";a.click()}catch(e){}}
+ else if(t.id==="menu")document.body.classList.add("open");
+ else if(t.id==="close")document.body.classList.remove("open");
+ else if(t.id==="refresh")load();
+ else if(t.id==="clear"){q="";off.clear();$("#q").value="";render()}});
+$("#scrim").addEventListener("click",()=>document.body.classList.remove("open"));
+document.addEventListener("keydown",e=>{if(e.key==="Escape")document.body.classList.remove("open")});
+$("#q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render()});
+$("#sources").addEventListener("change",e=>{const s=e.target.dataset.src;e.target.checked?off.delete(s):off.add(s);render()});
+applyTheme();load();
+</script>
+</body>
+</html>
