@@ -255,6 +255,15 @@
   "severity": "info"
  },
  {
+  "title": "Lava Security ทดสอบประสิทธิภาพโมเดล AI แบบเปิดสำหรับการวิเคราะห์ความปลอดภัย - Unite.AI",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Qd2tRaDlIbWd0T0JkLUdNdWoxN1N5VkpUYUtBOGtlby1zR245LTdqZkNrem53eUZNdUVQS2VXcDJzMXdrak01UE01MldqZmpydDFnbWF5WFkzUk5GXzFIdXQ3YldqdjQ0aXpJMlhR?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-23T14:01:00+00:00",
+  "summary": "Lava Security ทดสอบประสิทธิภาพโมเดล AI แบบเปิดสำหรับการวิเคราะห์ความปลอดภัย &nbsp;&nbsp; Unite.AI",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "BlackBerry เปิดตัวเว็บเบราว์เซอร์ปลอดภัย Access Secure Browser สำหรับพีซี",
   "link": "https://www.blognone.com/node/152242",
   "source": "Blognone News",
@@ -1757,15 +1766,6 @@
   "source": "Google News: Security",
   "published": "2026-06-11T07:00:00+00:00",
   "summary": "✨ เมื่อวันที่ 9-12 มิถุนายนที่ผ่านมา ในงานประชุม Global Health Security Conference ณ ประเทศมาเลเซีย มีความสำเร็จครั้งสำคัญของพวกเราชาวกองระบาดวิทยา กรมควบคุมโรคเกิดขึ้น . ขอเสียงปรบมือดัง ๆ ให้กับ นพ.พีริยะ วตะกูลสิน นาย",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "มข. ส่งเสริมชุมชนน่าอยู่ จัดอบรม “Cyber Security for Smart Elderly” เสริมเกราะดิจิทัลผู้สูงวัยรู้เท่าทันมิจฉาชีพ - มหาวิทยาลัยขอนแก่น (KKU)",
-  "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9iV3lwZ3hVeDVqbDMwUktKMkUzYVJzN0Z1SXIxallqWFhtdmVCb3F6YjlnWnBSaXI0Z3c3cmRaQkhaZUxfVjQ4?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-06-10T07:00:00+00:00",
-  "summary": "มข. ส่งเสริมชุมชนน่าอยู่ จัดอบรม “Cyber Security for Smart Elderly” เสริมเกราะดิจิทัลผู้สูงวัยรู้เท่าทันมิจฉาชีพ &nbsp;&nbsp; มหาวิทยาลัยขอนแก่น (KKU)",
   "severity": "info",
   "image": ""
  }
