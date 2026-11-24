@@ -1,5 +1,14 @@
 [
  {
+  "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+  "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+  "source": "The Hacker News",
+  "published": "2026-11-24T10:44:49+00:00",
+  "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy ",
+  "severity": "high",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSM2FAnf9UEb3Do4v-r8AEBpoI8byXOrHgng-eRjEyudSf0hiKMpymmDiK_NLTxYuzXdtrWvMrBzY9qmLqDo31r3JOpVefOQxLE77gdkoOAYMkCK__-Bc-AJoWg-8nEOEVjcY6SswkzLbCfYl6kK9clg6xXw3xginWqIwnMxBUaS6wgPKVVwXZNhZA5G85/s1600/azure-ms.jpg"
+ },
+ {
   "title": "แจ้งเตือนช่องโหว่ในไลบรารี ASP.NET Anti-CSRF ถูกใช้โจมตีจริง เสี่ยงถูกควบคุมเครื่องแม่ข่ายได้โดยไม่ต้องยืนยันตัวตน",
   "link": "https://www.thaicert.or.th/2026/11/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%9a-2/",
   "source": "Cyber News by thaicert.or.th",
@@ -268,6 +277,15 @@
   "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in ",
   "severity": "info",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDifo0ih-I06DQJbgdnt34Xg1qWdMibKByoJO-4vqa50M4yN0Lwu4fDe88GBtoiKHMJnRDYM0WXvYDEMyCWFHEbedl0wzwKI7juH9Q9xs3osQjZK0xPygeuGm0bm6jgpWPa7bca1EuZfTQiLxn-X3aNaAhbchhvemZrCqslieabzsGmz4ezqhrKuYhDyk/s1600/ai-india.jpg"
+ },
+ {
+  "title": "เตรียมพร้อมกับโลกใหม่ด้วย IBM Guardium Quantum Safe ความเสี่ยงที่ต้องปิดตั้งแต่วันนี้ - TechTalkThai",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSkdpTjFrSXlCZ1pjRUd4WjVTN01rTG9EcGRUX25zY1hmbEZFNG94MTl3MHJwYmtUWThMWTRRb1MwaW9SUGZfck1KbVdMQ3RqdjlqV2RILVlwaUZHQWM1Z1prWVJMSmZLekZ0WG85SVdDdw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-23T08:23:14+00:00",
+  "summary": "เตรียมพร้อมกับโลกใหม่ด้วย IBM Guardium Quantum Safe ความเสี่ยงที่ต้องปิดตั้งแต่วันนี้ &nbsp;&nbsp; TechTalkThai",
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "KuCoin เปิดตัวปฏิบัติการรักษาความปลอดภัยหลายชั้นตลอด 24/7 เพื่อปกป้องแพลตฟอร์ม - Traders Union",
@@ -1733,22 +1751,6 @@
   "source": "Google News: Security",
   "published": "2025-05-29T07:00:00+00:00",
   "summary": "Exito ประกาศจัดงาน Cyber Security Summit Thailand 2025: การรวมตัวครั้งสำคัญเพื่อกำหนดอนาคตการป้องกันทางดิจิทัลของชาติ [PR] &nbsp;&nbsp; TechTalkThai",
-  "severity": "info"
- },
- {
-  "title": "ไซเบอร์จีนิคส์ ชี้ AI Security และ Risk Management เสาหลักสำคัญสู่ความยั่งยืนแห่งอนาคตของเศรษฐกิจดิจิทัลไทย [PR] - TechTalkThai",
-  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3llT0U2Szk5bEVmcEZpVW1GQmVhZGdwdXMwOWtNS00yQ25XcE5qemJYUDVSRFpwMFRwdDRBb0tHV3BjcVRpSTNhemJjQUNLOXNMU3l5Ymt0VDdWdU9BMTJELVZrN2N2UmVuVi1HSHNtZ2hkbHFUcTdJcHNxa21uODQxQ1dnb2RfS3BNZWZ6Z2pKSGV3QnlueHpwOFI3VGhIYW82RHFXcUQyV2t3c3Y5Ym8wS0cyLWJDLTBkU2xaaG5kRERWMEFZSDFBbkhqNml0Um1YNW9kakpsRUR6ellPQ0lwVjQwbWNoenpZQ1c2NA?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-05-28T12:30:16+00:00",
-  "summary": "ไซเบอร์จีนิคส์ ชี้ AI Security และ Risk Management เสาหลักสำคัญสู่ความยั่งยืนแห่งอนาคตของเศรษฐกิจดิจิทัลไทย [PR] &nbsp;&nbsp; TechTalkThai",
-  "severity": "info"
- },
- {
-  "title": "เชิญฟังบรรยาย Chula Lunch Talk : Cyber Security Insight รู้ก่อน รอดก่อน รับมือภัยไซเบอร์ - จุฬาลงกรณ์มหาวิทยาลัย",
-  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGb0Y3NEdiV0pQbEotNHF3TjFVd1djZW1NWlFFWTNvX0VSMzNfOTVBODlMNlJFQVl0R2s4bWlNaVAyNHBnV051NUM4ZUc?oc=5",
-  "source": "Google News: Security",
-  "published": "2025-03-24T07:00:00+00:00",
-  "summary": "เชิญฟังบรรยาย Chula Lunch Talk : Cyber Security Insight รู้ก่อน รอดก่อน รับมือภัยไซเบอร์ &nbsp;&nbsp; จุฬาลงกรณ์มหาวิทยาลัย",
   "severity": "info"
  }
 ]
