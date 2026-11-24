@@ -3,6 +3,9 @@ name: fetch-news
 on:
   schedule:
     - cron: "*/30 * * * *"
+  push:
+    paths:
+      - feeds.json
   workflow_dispatch:
 
 permissions:
