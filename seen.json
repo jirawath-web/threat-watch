@@ -1,11 +1,4 @@
 [
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109468",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70056",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83518",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83654",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83708",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85377",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85790",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85806",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85822",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70170",
@@ -2998,5 +2991,12 @@
  "https://news.google.com/rss/articles/CBMingFBVV95cUxNQkg5eml2STdPX3VlZFc1ekQyV3pSd0FHQ1hpTEVwUzdFMDYzaFhZcHJMWWV2bWJDTUZIZm5XTEVUUENKS1N3NEdjSlFETWhuZW1pa0dvNGw2S0otajZJNVFRanBfNjQtaHMtR3NNbWVTVF9mYVN1M21NX2Y5cTBRbEV6dGg2YWh4cE1obDVTSk9XQU51UzAzckpvSnVydw?oc=5",
  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pX3kxc212Sy1CMjBZc1d6T0VESEdRZDA3aW9OTzI5MFBrZnAwWG1qXzB1Sl81aHBPZjdOd25qM1pCeHJPZWhZWVRoVDd6MzFaOGVxS0FyaTdDbjR1dDVYdG1KY0xxMHhsejVHaUNsREVPRUMxQlJjc0dkSQ?oc=5",
  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSQjdibERIR244a3dZcjBUb2o1cHNxOEtOYk1ONm9LOGZia29OaDRQY3FFZFR4clI5UEpZMGZPbzhyN0RLUDVhMmg1dl9TeGM5eFpWb1pDNA?oc=5",
- "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html"
+ "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FQzZVZWxLd2dMQS1yYUxUZGxxTEhENlItbHhDY1pGbElKTmR6RmRYOFNoV0dfMmNMUHE5ZDhvTHdRZ0xIVHJ1TFFnTkdfQ2duZGhINTZ3?oc=5",
+ "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSkdpTjFrSXlCZ1pjRUd4WjVTN01rTG9EcGRUX25zY1hmbEZFNG94MTl3MHJwYmtUWThMWTRRb1MwaW9SUGZfck1KbVdMQ3RqdjlqV2RILVlwaUZHQWM1Z1prWVJMSmZLekZ0WG85SVdDdw?oc=5",
+ "https://www.thaicert.or.th/2026/11/25/microsoft-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%ab%e0%b8%b2%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9b%e0%b8%a5%e0%b8%ad%e0%b8%94%e0%b8%a0%e0%b8%b1%e0%b8%a2-azure-api-manageme/",
+ "https://www.thaicert.or.th/2026/11/25/fbi-%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b8%aa%e0%b8%a7%e0%b8%99%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%9a%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%81%e0%b8%90/",
+ "https://www.thaicert.or.th/2026/11/25/broadcom-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7-2/",
+ "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+ "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html"
 ]
