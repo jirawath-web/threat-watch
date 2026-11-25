@@ -1,8 +1,4 @@
 [
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70186",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70181",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96222",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96044",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96237",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96202",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105008",
@@ -2998,5 +2994,9 @@
  "https://www.blognone.com/node/152250",
  "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2xGRmZHUWdIaUNiTFptNDh2VEZWWTVPSFlvZmpUWlBwaDZpX00xMUUtNEhlRS1BcUE0ZlYxcEZXcUhEWHRybGhVSVdUUEN4Tl9qSVFTcTd3LVNta1RIbEZxdC05dFZOakYxaGlOZ05XT3lNN2ZxV1VLWDBDUmh2d3pSemtnU3daTFVUb2tWVmlzckR3UTZGM3J0MzM?oc=5",
- "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html"
+ "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+ "https://www.blognone.com/node/152252",
+ "https://www.blognone.com/node/152251",
+ "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+ "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
 ]
