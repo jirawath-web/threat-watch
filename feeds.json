@@ -21,10 +21,6 @@
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"
     },
     {
-      "name": "CERT Vulnerability Notes (US-CERT)",
-      "url": "https://kb.cert.org/vuls/atomfeed/"
-    },
-    {
       "name": "Microsoft Security Response Center (MSRC)",
       "url": "https://api.msrc.microsoft.com/update-guide/rss"
     },
