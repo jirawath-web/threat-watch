@@ -90,7 +90,7 @@ function ld(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}ca
 function sv(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
 let gh=Object.assign({repo:"",path:"feeds.json",token:""},ld("tw-gh",{}));
 const DEF={url:"news.json",theme:"auto",feeds:[{name:"BleepingComputer",url:"https://www.bleepingcomputer.com/feed/"},{name:"The Hacker News",url:"https://feeds.feedburner.com/TheHackersNews"}],keywords:["zero-day","actively exploited","critical","ransomware","thailand"]};
-let cfg=Object.assign({},DEF,ld("tw-cfg",{})),saved=ld("tw-saved",[]),items=[],live=false,tab="latest",q="",off=new Set();
+let cfg=Object.assign({},DEF,ld("tw-cfg",{})),saved=ld("tw-saved",[]),items=[],live=false,tab="latest",q="",off=new Set(),shown=20,PAGE=20;
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const safe=u=>/^https?:\/\//i.test(u)?u:"#";
 function sev(i){if(SEV[i.severity])return i.severity;const t=(i.title||"").toLowerCase();
@@ -123,7 +123,7 @@ function render(){
  <div class="item"><h2>ธีม</h2><div class="row">${["auto","light","dark"].map(t=>`<button class="chip" data-theme="${t}" aria-pressed="${cfg.theme===t}">${{auto:"อัตโนมัติ",light:"สว่าง",dark:"มืด"}[t]}</button>`).join("")}</div></div>
  <div class="item"><h2>รูปแบบไฟล์ news.json</h2><p>รายการของ title, link, source, published, summary และ severity (critical, high, medium, info; ไม่ใส่ก็ได้ ระบบจะเดาจากคำในหัวข้อ)</p></div>`}
  else{if(!live)h+=`<div class="notice">กำลังแสดงข้อมูลตัวอย่าง ยังไม่ได้เชื่อมต่อไฟล์ข่าวจริง ไปที่ตั้งค่าเพื่อใส่ที่อยู่ news.json</div>`;
-  const a=list();h+=a.length?a.map(card).join(""):`<div class="empty">${tab==="saved"?"ยังไม่มีข่าวที่บันทึก กดปุ่มบันทึกที่ข่าวที่ต้องการอ่านภายหลัง":"ไม่พบข่าวที่ตรงกับตัวกรอง"}</div>`}
+  const a=list();h+=a.length?a.slice(0,shown).map(card).join("")+(a.length>shown?`<div class="act" style="justify-content:center"><button class="chip" id="more">โหลดเพิ่ม (เหลืออีก ${a.length-shown} ข่าว)</button></div>`:""):`<div class="empty">${tab==="saved"?"ยังไม่มีข่าวที่บันทึก กดปุ่มบันทึกที่ข่าวที่ต้องการอ่านภายหลัง":"ไม่พบข่าวที่ตรงกับตัวกรอง"}</div>`}
  $("#view").innerHTML=h}
 function setMsg(t){const m=$("#ghmsg");if(m)m.textContent=t}
 function ghcfg(){gh={repo:$("#ghrepo").value.trim(),path:$("#ghpath").value.trim()||"feeds.json",token:$("#ghtoken").value.trim()};sv("tw-gh",gh);return /^[\w.-]+\/[\w.-]+$/.test(gh.repo)&&gh.token}
@@ -145,7 +145,7 @@ async function ghLoad(){
   if(Array.isArray(d.feeds))cfg.feeds=d.feeds;if(Array.isArray(d.keywords))cfg.keywords=d.keywords;sv("tw-cfg",cfg);render();setMsg("ดึงฟีดจาก GitHub แล้ว")}
  catch(e){setMsg("ดึงไม่สำเร็จ: "+e.message)}}
 document.addEventListener("click",e=>{const t=e.target.closest("button");if(!t)return;
- if(t.dataset.tab){tab=t.dataset.tab;render();$("main").scrollTop=0}
+ if(t.dataset.tab){tab=t.dataset.tab;shown=PAGE;render();$("main").scrollTop=0}
  else if(t.dataset.save){const l=t.dataset.save;saved=saved.includes(l)?saved.filter(x=>x!==l):[...saved,l];sv("tw-saved",saved);render()}
  else if(t.dataset.theme){cfg.theme=t.dataset.theme;sv("tw-cfg",cfg);applyTheme();render()}
  else if(t.id==="saveurl"){cfg.url=$("#url").value.trim()||"news.json";sv("tw-cfg",cfg);load()}
@@ -156,15 +156,16 @@ document.addEventListener("click",e=>{const t=e.target.closest("button");if(!t)r
  else if(t.id==="dlfeeds"){try{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([$("#out").value],{type:"application/json"}));a.download="feeds.json";a.click()}catch(e){}}
  else if(t.id==="ghsave")ghSave();
  else if(t.id==="ghload")ghLoad();
+ else if(t.id==="more"){shown+=PAGE;render()}
  else if(t.id==="ghclear"){gh.token="";sv("tw-gh",gh);render();setMsg("ลบ token ออกจากเครื่องนี้แล้ว")}
  else if(t.id==="menu")document.body.classList.add("open");
  else if(t.id==="close")document.body.classList.remove("open");
  else if(t.id==="refresh")load();
- else if(t.id==="clear"){q="";off.clear();$("#q").value="";render()}});
+ else if(t.id==="clear"){q="";shown=PAGE;off.clear();$("#q").value="";render()}});
 $("#scrim").addEventListener("click",()=>document.body.classList.remove("open"));
 document.addEventListener("keydown",e=>{if(e.key==="Escape")document.body.classList.remove("open")});
-$("#q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render()});
-$("#sources").addEventListener("change",e=>{const s=e.target.dataset.src;e.target.checked?off.delete(s):off.add(s);render()});
+$("#q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();shown=PAGE;render()});
+$("#sources").addEventListener("change",e=>{const s=e.target.dataset.src;e.target.checked?off.delete(s):off.add(s);shown=PAGE;render()});
 document.addEventListener("error",e=>{if(e.target.classList&&e.target.classList.contains("th"))e.target.remove()},true);
 applyTheme();load();
 </script>
