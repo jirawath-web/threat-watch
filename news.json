@@ -207,6 +207,15 @@
   "image": ""
  },
  {
+  "title": "Brava Security เตือนว่า บันทึกเหตุการณ์ที่ไม่น่าเชื่อถืออาจบั่นทอนการตรวจจับภัยคุกคามด้วย AI - Unite.AI",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iTk94RFVNcC1BSS1xMmptdEplZHNzNFFUbkp3UjQyN3pCSGlXRktiZWZ2MURnYWVhOF9ENUcxbU1MWld2cTVKY3kzZk1TLV9yT1kwUHVHSjhlRjNNWVVCcUx2cTFOVUVnc19WdEVlcXRrVzlfejdYemNabkRYUDQ?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-24T14:00:00+00:00",
+  "summary": "Brava Security เตือนว่า บันทึกเหตุการณ์ที่ไม่น่าเชื่อถืออาจบั่นทอนการตรวจจับภัยคุกคามด้วย AI &nbsp;&nbsp; Unite.AI",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Amazon ซื้อเทคโนโลยีและทีมงานของสตาร์ทอัป Decart เพื่อเสริมการพัฒนาชิป AI Trainium",
   "link": "https://www.blognone.com/node/152247",
   "source": "Blognone News",
@@ -1781,14 +1790,5 @@
   "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-so",
   "severity": "info",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_qqPophooIauX16fMWm3KB24tzQ3Fd7rCuseCXfMkDPPGpIgmHqWvZjn_jffDqHwNWKu8Zf57QeKb4qsRFgdgisSAn0sMj59CscimR16RLXI1kspH0w7VYQgrsM_hPcePQOFL8QUyDC2p9W7AV0UjH3sW7oOvdWPWAZW6DITDvqIHaC_696e5kHTieY/s1600/nginx-rce.jpg"
- },
- {
-  "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-  "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-  "source": "The Hacker News",
-  "published": "2026-11-18T18:15:39+00:00",
-  "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual s",
-  "severity": "critical",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png"
  }
 ]
