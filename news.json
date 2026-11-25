@@ -1,5 +1,14 @@
 [
  {
+  "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+  "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+  "source": "The Hacker News",
+  "published": "2026-11-25T10:43:07+00:00",
+  "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tue",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaKaEIQ9XIhyphenhyphen7wjO1dtGE_h6MwLEEd4or1U6Ud39Ce7BbZfU817kR-mLr4bT5n_dMzAujT3VzKACvto1wsiHVfLjOLyGFnYPsf4PH_DHuog0NWylpF1RXoFIYhb84sb8T7RHCx4qnBCCJnNDKTkjoMQ-KPDaKgHaLW7fII7cOhPzc9XKC0OGGOjjE-ygf/s1600/openai.jpg"
+ },
+ {
   "title": "รู้จักกับ AINU โซลูชั่น AI ของไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากันรู้จักกับ AINU บริษัท AI ไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากัน",
   "link": "https://www.blognone.com/node/152250",
   "source": "Blognone News",
@@ -1781,14 +1790,5 @@
   "summary": "Vero Security ระดมทุนรอบ Seed ได้ 11 ล้านดอลลาร์ เพื่อบังคับใช้นโยบายกับเอเจนต์ AI &nbsp;&nbsp; Unite.AI",
   "severity": "info",
   "image": ""
- },
- {
-  "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-  "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-  "source": "The Hacker News",
-  "published": "2026-11-18T12:28:30+00:00",
-  "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to ",
-  "severity": "info",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg"
  }
 ]
