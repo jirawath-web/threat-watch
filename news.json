@@ -1,5 +1,14 @@
 [
  {
+  "title": "Tidal แบนเพลงที่สร้างด้วย AI ทั้งเพลงออกจากแพลตฟอร์ม",
+  "link": "https://www.blognone.com/node/152248",
+  "source": "Blognone News",
+  "published": "2026-11-24T23:47:37+00:00",
+  "summary": "Tidal แบนเพลงที่สร้างด้วย AI ทั้งเพลงออกจากแพลตฟอร์ม Body Tidal แพลตฟอร์มฟังเพลงออนไลน์ ( ถูก Block/Square ซื้อกิจการมาตั้งแต่ปี 2021 ) ประกาศนโยบายใหม่ แบนเพลงที่สร้างด้วย AI ทั้งเพลง100% บนแพลตฟอร์ม Tidal บอกว่าตอนแรกใ",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
   "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
   "source": "The Hacker News",
@@ -1759,14 +1768,5 @@
   "published": "2026-07-19T07:00:00+00:00",
   "summary": "เปิดแนวคิด Human Security 2.0 ปรับบทบาท พม. ยุคใหม่ เน้นป้องกันก่อนเกิดวิกฤต ดันสวัสดิการสังคม-ที่อยู่อาศัย &nbsp;&nbsp; Thaigov",
   "severity": "info"
- },
- {
-  "title": "Microsoft ปล่อยแพตซ์อัปเดตด้านความปลอดภัยแบบ Extended Security Update (ESU) KB5099539 สำหรับ Windows 10 - i-secure Co, Ltd.",
-  "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQaFI0WlZMRndLWVRwc3UtNVVMcUdmRnIwQk4zN3pLZ21HdFNTVzdzUVRZV1VLVnhJZTJGZkxkNk43d3lHRjNONzRRYi13RE54N2RlUnQ5R3RITkJTTnBhR2Y5b1NmbS1wakM1bFBGaFNTSUd5SVpfV0l3MFlSeEJia1Z4b1p3UlBmRzltZFRWRjQ2UWZDTkM1SVI1Qkx4czdOMDd5ejZkWUNlRkFtR1I3WnRfX3BfTFNEZ3RVUFN1Z3VFckNiUXBxdlgwd2M3Y2V2c2ZXRXhvWDJwUThCcWFjMW51aFYyZmxiX21fajBXeXQ2bWlCOXl0S19ZWllQNHdHQUxUSVF0SWJzSEtLQ0NBdTNCaE52RDUzdWZHOE11aE1oWlQydXhMc05kX0JncDFDZTd4ampmVENFTXpxV3k0Y3FEdDhZMHNhY3RIMWVza2VsSjNKcEE?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-07-18T06:34:05+00:00",
-  "summary": "Microsoft ปล่อยแพตซ์อัปเดตด้านความปลอดภัยแบบ Extended Security Update (ESU) KB5099539 สำหรับ Windows 10 &nbsp;&nbsp; i-secure Co, Ltd.",
-  "severity": "info",
-  "image": ""
  }
 ]
