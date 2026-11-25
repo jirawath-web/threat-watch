@@ -9,6 +9,15 @@
   "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/binary-parser-1024x574.png"
  },
  {
+  "title": "[ลือ] พนักงาน OpenAI และ Anthropic กังวล โมเดลรุ่นใช้ภายในเริ่มเก่งเกินจนน่ากลัว",
+  "link": "https://www.blognone.com/node/152249",
+  "source": "Blognone News",
+  "published": "2026-11-25T02:39:51+00:00",
+  "summary": "[ลือ] พนักงาน OpenAI และ Anthropic กังวล โมเดลรุ่นใช้ภายในเริ่มเก่งเกินจนน่ากลัว Body เว็บไซต์ Axios อ้างข้อมูลจากการสัมภาษณ์พนักงาน OpenAI และ Anthropic จำนวนรวมมากกว่า 24 คน ได้ข้อมูลตรงกันว่า โมเดล LLM ที่ใช้กันภายในม",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "อัปเดตด่วน! Google Chrome แก้ไขช่องโหว่ CVE-2026-134401 แนะนำผู้ใช้งานเร่งอัปเดตเว็บเบราว์เซอร์ทันที",
   "link": "https://www.thaicert.or.th/2026/11/25/%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b8%94%e0%b9%88%e0%b8%a7%e0%b8%99-google-chrome-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82/",
   "source": "Cyber News by thaicert.or.th",
@@ -45,6 +54,15 @@
   "image": ""
  },
  {
+  "title": "ภัยความมั่นคง AI เจอช่องโหว่ Java สหรัฐฯ สั่งอัปเดตระบบด่วน - Techhub",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkE4RmhEZjA3WC1LSzdhTzVyTWc5dXVGbmZWS0JaVmh4dzViaUdVVEJIVDBLT1ktQ2IycWE3NDNVTDZUZVJEbzhiX2JSWTRmOFVKXzlLeFJBWU9RcWxoZVJtdjQzeHdQLXZVcF9YcHktOXlUblVKRks2RFFvR3hMcTNKNXZFem5qNlcwTXREZjhVLUpqOUdHUnJBR2VFRlBOd1hZcUN5blBJV1h0VVRPZw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-24T14:02:09+00:00",
+  "summary": "ภัยความมั่นคง AI เจอช่องโหว่ Java สหรัฐฯ สั่งอัปเดตระบบด่วน &nbsp;&nbsp; Techhub",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Amazon ซื้อเทคโนโลยีและทีมงานของสตาร์ทอัป Decart เพื่อเสริมการพัฒนาชิป AI Trainium",
   "link": "https://www.blognone.com/node/152247",
   "source": "Blognone News",
@@ -70,6 +88,15 @@
   "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The ",
   "severity": "info",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjete6dy8Fmd7sbjqKI5GKSySXkcnz4NF__irfVMBHzgRIDUnpGHtvRIbCywZYYsoKsnMdPhvanoXcnXbYvZpMjL2lL6d_F9a4ErEaI5rH_boPedH_ru2Ush9wonb8tYhGNVM6M_01DTue1THY7uGMbuKBJKNgMbrACkxHCGJiJylHWoxkkpCXNr2Z_CIdf/s1600/leaks.jpg"
+ },
+ {
+  "title": "Dante Security ระดมทุน 10 ล้านดอลลาร์ เพื่อให้ AI Agent สำหรับองค์กรมีมนุษย์เป็นผู้รับผิดชอบ - Unite.AI",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalJ5bWJkMTNHQjRidlBadGVUS1BYdUlhNG9QZ1AwUzlpUXF3cDJ5SXZRZHQ4OFZ2WkVyZWVSS3lYY1U3amRZOXYtQ2dsc1l6N2QyWWNxWkUwRHdyV2EwMElUcF9CdjdabDFERVJzdEd3cmZEdVQyM2ZIdXdILU1nZVlXb0Vudw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-24T13:00:00+00:00",
+  "summary": "Dante Security ระดมทุน 10 ล้านดอลลาร์ เพื่อให้ AI Agent สำหรับองค์กรมีมนุษย์เป็นผู้รับผิดชอบ &nbsp;&nbsp; Unite.AI",
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -198,15 +225,6 @@
   "image": ""
  },
  {
-  "title": "ภัยความมั่นคง AI เจอช่องโหว่ Java สหรัฐฯ สั่งอัปเดตระบบด่วน - Techhub",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkE4RmhEZjA3WC1LSzdhTzVyTWc5dXVGbmZWS0JaVmh4dzViaUdVVEJIVDBLT1ktQ2IycWE3NDNVTDZUZVJEbzhiX2JSWTRmOFVKXzlLeFJBWU9RcWxoZVJtdjQzeHdQLXZVcF9YcHktOXlUblVKRks2RFFvR3hMcTNKNXZFem5qNlcwTXREZjhVLUpqOUdHUnJBR2VFRlBOd1hZcUN5blBJV1h0VVRPZw?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-11-24T07:03:02+00:00",
-  "summary": "ภัยความมั่นคง AI เจอช่องโหว่ Java สหรัฐฯ สั่งอัปเดตระบบด่วน &nbsp;&nbsp; Techhub",
-  "severity": "info",
-  "image": ""
- },
- {
   "title": "Cleverbridge แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลบัตรชำระเงินของผู้ใช้งาน",
   "link": "https://www.thaicert.or.th/2026/11/24/cleverbridge-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab/",
   "source": "Cyber News by thaicert.or.th",
@@ -266,7 +284,8 @@
   "source": "Google News: Security",
   "published": "2026-11-24T05:07:27+00:00",
   "summary": "Ethereum เดินหน้าวางรากฐานยุคหลังควอนตัม! เสริมความแกร่งโปรโตคอลเต็มพิกัด &nbsp;&nbsp; Thunhoon",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "CrowdStrike ซื้อ Zscaler ดีลยักษ์1.42 ล้านล้านบาท เขย่าวงการไซเบอร์ชิงผู้นำความปลอดภัยยุค AI Agent - thairath.co.th",
@@ -274,7 +293,8 @@
   "source": "Google News: Security",
   "published": "2026-11-24T04:36:33+00:00",
   "summary": "CrowdStrike ซื้อ Zscaler ดีลยักษ์1.42 ล้านล้านบาท เขย่าวงการไซเบอร์ชิงผู้นำความปลอดภัยยุค AI Agent &nbsp;&nbsp; thairath.co.th",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "เลือกได้ก็อยากอยู่บ้าน จุดยืนของ แม็กซ์ เวอร์สแตพเพ่น ต่อศึก F1 ในตะวันออกกลาง - Sporting News",
@@ -291,7 +311,8 @@
   "source": "Google News: Security",
   "published": "2026-11-24T03:57:37+00:00",
   "summary": "อันตรายกว่าแฮกเกอร์ สหรัฐฯ ออกเตือนภัย ‘Honey Trap’ &nbsp;&nbsp; Techsauce",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "Z.ai ปล่อย GLM-5.4 เปลี่ยนสถาปัตยกรรมเป็น Loop Transformer ลดต้นทุนการรัน",
@@ -299,7 +320,8 @@
   "source": "Blognone News",
   "published": "2026-11-24T01:01:51+00:00",
   "summary": "Z.ai ปล่อย GLM-5.4 เปลี่ยนสถาปัตยกรรมเป็น Loop Transformer ลดต้นทุนการรัน Body Z.ai ปล่อยโมเดลปัญญาประดิษฐ์ GLM-5.4 ที่จุดเปลี่ยนสำคัญคือการใช้สถาปัตยกรรม Loop Transformer ที่ช่วยให้โมเดลทำความฉลาดได้เทียบเท่าโมเดลขนาดให",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "CrowdStrike เข้าซื้อกิจการ Zscaler มูลค่า 4.39 หมื่นล้านดอลลาร์ เสริม Zero Trust SASE ให้ Falcon - TechTalkThai",
@@ -307,7 +329,8 @@
   "source": "Google News: Security",
   "published": "2026-11-23T22:40:47+00:00",
   "summary": "CrowdStrike เข้าซื้อกิจการ Zscaler มูลค่า 4.39 หมื่นล้านดอลลาร์ เสริม Zero Trust SASE ให้ Falcon &nbsp;&nbsp; TechTalkThai",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
@@ -423,7 +446,8 @@
   "source": "Blognone News",
   "published": "2026-11-23T14:21:13+00:00",
   "summary": "NVIDIA ประกาศให้ Jensen Huang กลับมาเป็นซีอีโอ หลังบอร์ดลงมติเป็นเอกฉันท์ Body NVIDIA ประกาศว่าบอร์ดของบริษัทได้ลงมติเป็นเอกฉันท์ให้ Jensen Huang กลับมารับตำแหน่งทั้งซีอีโอ, ประธานบริษัท และกรรมการบริษัทอีกครั้ง ซึ่งบอร์",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "Lava Security ทดสอบประสิทธิภาพโมเดล AI แบบเปิดสำหรับการวิเคราะห์ความปลอดภัย - Unite.AI",
@@ -598,7 +622,8 @@
   "source": "Google News: Security",
   "published": "2026-11-23T06:32:16+00:00",
   "summary": "พบข้อมูลใหม่! อลิซ หวง ‘ติดต่อ’ ข่าวกรองจีนนานกว่า 1 ปี พัวพันเครือข่ายลอบส่งชิป หวั่นจีนล้วงเทคโนโลยี AI . รักลับสะเทือนวงการ AI หน่วยข่าวกรองสหรัฐพบข้อมูลสำคัญว่า “อลิซ หวง” ได้ติดต่อกับ “เจ้าหน้าที่หน่วยข่าวกรองระดับส",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "นายกฯเปิดหลักสูตรความมั่นคง ชี้มลพิษแม่น้ำกก-แม่น้ำสายต้องใช้วิทยาศาสตร์และความร่วมมือข้ามแดน - thestandard.co",
@@ -606,7 +631,8 @@
   "source": "Google News: Security",
   "published": "2026-11-23T05:32:38+00:00",
   "summary": "นายกฯเปิดหลักสูตรความมั่นคง ชี้มลพิษแม่น้ำกก-แม่น้ำสายต้องใช้วิทยาศาสตร์และความร่วมมือข้ามแดน &nbsp;&nbsp; thestandard.co",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "เปิดโจทย์ใหญ่ Bitcoin ยุคควอนตัม! ลุยย้ายเหรียญนับล้านพร้อมอัพเกรดโครงสร้าง - Thunhoon",
@@ -614,7 +640,8 @@
   "source": "Google News: Security",
   "published": "2026-11-23T04:50:37+00:00",
   "summary": "เปิดโจทย์ใหญ่ Bitcoin ยุคควอนตัม! ลุยย้ายเหรียญนับล้านพร้อมอัพเกรดโครงสร้าง &nbsp;&nbsp; Thunhoon",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "Microsoft เผยสาเหตุ Outlook ล่มทั่วโลก ชี้ทดสอบบนเซิร์ฟเวอร์เก่าจนพลาดบั๊ก แถมระบบสลับทราฟฟิกพาล่มเป็นโดมิโน",
@@ -762,7 +789,8 @@
   "source": "Google News: Security",
   "published": "2026-11-21T01:55:50+00:00",
   "summary": "AI ช่วยเพิ่มประสิทธิภาพให้กับเครื่องมือสร้างเว็บไซต์ของเราอย่างไร &nbsp;&nbsp; Roblox",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
@@ -797,7 +825,8 @@
   "source": "Google News: Security",
   "published": "2026-11-20T14:28:52+00:00",
   "summary": "Windows 11 เปิดตัว Endpoint Security Platform แก้ปัญหา CrowdStrike ทำระบบล่ม &nbsp;&nbsp; Blognone",
-  "severity": "info"
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "ด้วยช่องโหว่ด้านความปลอดภัยใหม่กว่า 34,000 รายการ Viettel Cyber ​​​​Security จึงเน้นย้ำถึงบทบาทของการทดสอบเจาะระบบ - Vietnam.vn",
@@ -1480,7 +1509,8 @@
   "source": "Google News: Security",
   "published": "2026-11-19T15:44:44+00:00",
   "summary": "PHP Security Team แจ้งเตือนช่องโหว่ระดับ Critical และแนะนำผู้ใช้งานเตรียมรับการอัปเดต 19 พฤศจิกายนนี้ &nbsp;&nbsp; i-secure Co, Ltd.",
-  "severity": "critical"
+  "severity": "critical",
+  "image": ""
  },
  {
   "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
@@ -1760,23 +1790,5 @@
   "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-p",
   "severity": "high",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbxlzqi-uBPlDXGecxrfXQ8kZLpAKsDO5c7KmTTyYyNQQE6bdI0TqT7Rk_JrKRie2pMB_xrLRKy1Cksp1GYHfUGHXz7UGg5nWOAQmPmiRKoUJkMCHrMvW7A72W9x7_I7KESMQmJLQVrJth_Ozj7i1nF7IPB4W_WV-NQyy0afEMgGVbGdaSNfIjolqtC4-/s1600/cloud.jpg"
- },
- {
-  "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-  "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-  "source": "The Hacker News",
-  "published": "2026-11-17T19:34:20+00:00",
-  "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send in",
-  "severity": "high",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg"
- },
- {
-  "title": "CVE-2026-121680 Windows NTLM Spoofing Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-121680",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-17T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
  }
 ]
