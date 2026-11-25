@@ -1,5 +1,23 @@
 [
  {
+  "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+  "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+  "source": "The Hacker News",
+  "published": "2026-11-25T12:48:54+00:00",
+  "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-",
+  "severity": "high",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8jBS9UW1bUouUo2cLun5A5rtqPOFJoVQctV4ZsoX9uuMottAxM0HLjLZrvTVGU1GtrewszjOwVMBkvHgyFIBsOndc049nwMidNiVnnoKCOePOhy-XDsjiVjxFvubbxn-Z6ca8VJAxxgLmyQ9KGYBRMWV5GP2et02dmXzcG3jKJw1p_njPdaPuJAaxAz1/s1600/geoserver.png"
+ },
+ {
+  "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+  "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+  "source": "The Hacker News",
+  "published": "2026-11-25T12:30:08+00:00",
+  "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday.",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJn89Gr-RFxS6UFEzrbUZ5Ys11fK1OwvmMYUPl29eJudnlmmp7Q34p8O0DqV8SvGu4whZke8tiysvZNQWeE4Tm3zRhJSpojYAagBXGUEVM5w6lAw2Z5C-lfRaC2IwOYrnwQSWxwso31woM4CSoluNEjA3N0gFe0RQpsV0r3MCobiKFArLMa1or-QTIBcQ/s1600/fincern.jpg"
+ },
+ {
   "title": "HPE รายงานผลประกอบการ เติบโตสูงจากเซิร์ฟเวอร์ AI - ปรับเพิ่มคาดการณ์รายได้ปีการเงินถัดไป",
   "link": "https://www.blognone.com/node/152252",
   "source": "Blognone News",
@@ -1772,23 +1790,5 @@
   "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual s",
   "severity": "critical",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png"
- },
- {
-  "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-  "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-  "source": "The Hacker News",
-  "published": "2026-11-18T17:10:45+00:00",
-  "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE",
-  "severity": "critical",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg"
- },
- {
-  "title": "CVE-2026-118148 Active Directory Domain Services Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118148",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-18T16:00:00+00:00",
-  "summary": "Updated the CVSS score and corrected FAQs. This is an informational change only.",
-  "severity": "high",
-  "image": ""
  }
 ]

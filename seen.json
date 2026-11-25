@@ -1,8 +1,4 @@
 [
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96237",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96202",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105008",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70162",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108131",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108471",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106250",
@@ -2998,5 +2994,9 @@
  "https://www.blognone.com/node/152252",
  "https://www.blognone.com/node/152251",
  "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
- "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
+ "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yRllpZzdTR0lkMVRpX3dTMGRCbTBXR0NnSGpkdVVZb1RybnJCaldzc0ZkQlhNallleWVRRmtOcUU5T1FnaWhuY2RHclI4NXp5Q2tyX3Vn?oc=5",
+ "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0UjlFWGtWYnl2WDdKS21hbEwyTDIwNGt0NVlyQlRIcVJSZFFucTlkLXU4dXI5V19YcTVySnhNenkwbHN4bTdyZWE4WFlnUQ?oc=5",
+ "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+ "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
 ]
