@@ -15,6 +15,26 @@
     {
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    {
+      "name": "CISA Advisories & Alerts",
+      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+    },
+    {
+      "name": "CERT Vulnerability Notes (US-CERT)",
+      "url": "https://kb.cert.org/vuls/atomfeed/"
+    },
+    {
+      "name": "Microsoft Security Response Center (MSRC)",
+      "url": "https://api.msrc.microsoft.com/update-guide/rss"
+    },
+    {
+      "name": "Google Project Zero",
+      "url": "https://projectzero.google/feed.xml"
+    },
+    {
+      "name": "SEC Cyber Resilience (ก.ล.ต.)",
+      "url": "https://www.sec.or.th/TH/Pages/CYBERRESILIENCE-ALERT.aspx"
     }
   ],
   "keywords": [
