@@ -17,10 +17,6 @@
       "url": "https://feeds.feedburner.com/TheHackersNews"
     },
     {
-      "name": "CISA Advisories & Alerts",
-      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"
-    },
-    {
       "name": "Google Project Zero",
       "url": "https://projectzero.google/feed.xml"
     }
