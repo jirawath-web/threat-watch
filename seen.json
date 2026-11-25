@@ -1,6 +1,4 @@
 [
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70213",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87716",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70031",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70013",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70186",
@@ -2998,5 +2996,7 @@
  "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjB3YlI0c3o5RjhyOGx4QUhFcGpaYUhVV09VREx5ZER6cEI4UkpwVlRjbW53MkRuNjFTalRndU10RUJVZEdwZF9SY0hGMmhwWTktQTNrcEtWWmx2bUt0QmIzVjJVV09yLS0tVE4tMzljY1NFZUdSYXRFdXpZU09JWnVYUHdibHhfdm5EM1NKS2s0akxHZFRELXd0NXc5ZzZnelV0dFRRRlhZbnk2MURLLXNfVS1DQjg?oc=5",
  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KSWt1aEtxUHE1RHluS0RDS3Q5VUg2M004R3U4YlZWUDRpQWpXaTRrWGFqbUwwVXJjWmY5YW9Mckd4bVc3QmNyUUNLM0ZjX1FJeXZHV0JB?oc=5",
- "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQnQ4ZUF3QnpYWDF3WVFZWFE3LTRZVnV4TU1MYjhybFVvR1pudDJZNGYyMnFFbnlvMzJKNFJuZFN0TTlpRkNRSlI2WS1QejJqQjNfNnNn?oc=5"
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQnQ4ZUF3QnpYWDF3WVFZWFE3LTRZVnV4TU1MYjhybFVvR1pudDJZNGYyMnFFbnlvMzJKNFJuZFN0TTlpRkNRSlI2WS1QejJqQjNfNnNn?oc=5",
+ "https://www.blognone.com/node/152250",
+ "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html"
 ]

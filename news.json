@@ -1,5 +1,23 @@
 [
  {
+  "title": "รู้จักกับ AINU โซลูชั่น AI ของไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากันรู้จักกับ AINU บริษัท AI ไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากัน",
+  "link": "https://www.blognone.com/node/152250",
+  "source": "Blognone News",
+  "published": "2026-11-25T10:00:00+00:00",
+  "summary": "รู้จักกับ AINU โซลูชั่น AI ของไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากันรู้จักกับ AINU บริษัท AI ไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากัน Body นับตั้งแต",
+  "severity": "info",
+  "image": "https://www.blognone.com/sites/default/files/files-2026/2026-11/AINU/image2.jpg"
+ },
+ {
+  "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+  "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+  "source": "The Hacker News",
+  "published": "2026-11-25T09:06:59+00:00",
+  "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the r",
+  "severity": "high",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBxy4VIOekOumZfm8RElWJl6ZTKoIJ1QLc3U7ynLQ8p9PCqm_kYX1T-akwbZwbthTYcNwfVW-aWbRB4wIkvbUeM_gvQmnw8EH-hpY0542jCwFUAaI2mNEXGE3dct9K4JKFURV1smdERZlx4tV1zCy3AbS_NwF4o926_KSW-OKMPfDXT2gWbbZ4lKjFm6Y/s1600/hex-hack.jpg"
+ },
+ {
   "title": "เปิดมุมมอง “สุวัฒน์ สินสาฎก” ผ่าวิกฤตพลังงานไทย เตือนนโยบายคุมราคาพลังงานระยะสั้น ดาบสองคมกระทบความมั่นคงพลังงานระยะยาว | การเงินธนาคาร - LINE TODAY",
   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FQzZVZWxLd2dMQS1yYUxUZGxxTEhENlItbHhDY1pGbElKTmR6RmRYOFNoV0dfMmNMUHE5ZDhvTHdRZ0xIVHJ1TFFnTkdfQ2duZGhINTZ3?oc=5",
   "source": "Google News: Security",
@@ -1772,23 +1790,5 @@
   "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to ",
   "severity": "info",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg"
- },
- {
-  "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-  "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-  "source": "The Hacker News",
-  "published": "2026-11-18T12:15:00+00:00",
-  "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure da",
-  "severity": "high",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb3EyKCLHzaa6p3bzrF2EkkcJJQgshTsoaU6kzga1C8NGRBE1rDwlsHwhVKehkmGsOYpf0Dq-VCQpmFDPYLglxQIQjEiv3NrkFDRPTc3wUObe1Kc0km71lwUEXLTtWJGBQ3nO6wFbRqKoOJLcBv2lwpD-ZAYc1caohfkIFkCVlLQdS-YuwmbecgBf-sQ/s1600/reflectiz.jpg"
- },
- {
-  "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-  "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "source": "CISA Advisories & Alerts",
-  "published": "2026-11-18T12:00:00+00:00",
-  "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escapi",
-  "severity": "high",
-  "image": ""
  }
 ]
