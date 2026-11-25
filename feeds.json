@@ -21,10 +21,6 @@
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"
     },
     {
-      "name": "Microsoft Security Response Center (MSRC)",
-      "url": "https://api.msrc.microsoft.com/update-guide/rss"
-    },
-    {
       "name": "Google Project Zero",
       "url": "https://projectzero.google/feed.xml"
     }
