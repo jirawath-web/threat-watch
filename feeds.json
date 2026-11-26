@@ -19,6 +19,14 @@
     {
       "name": "Google Project Zero",
       "url": "https://projectzero.google/feed.xml"
+    },
+    {
+      "name": "Droidsans News",
+      "url": "https://droidsans.com/feed/"
+    },
+    {
+      "name": "IT 24HRS",
+      "url": "https://it24hrs.com/feed/"
     }
   ],
   "keywords": [
