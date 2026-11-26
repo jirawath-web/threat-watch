@@ -1,5 +1,32 @@
 [
  {
+  "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+  "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+  "source": "The Hacker News",
+  "published": "2026-11-26T15:13:41+00:00",
+  "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides ",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg"
+ },
+ {
+  "title": "Dell 14S วางขายในไทย ราคาเริ่มต้น 33,900 บาท คู่แข่ง MacBook Neo",
+  "link": "https://www.blognone.com/node/152263",
+  "source": "Blognone News",
+  "published": "2026-11-26T14:33:55+00:00",
+  "summary": "Dell 14S วางขายในไทย ราคาเริ่มต้น 33,900 บาท คู่แข่ง MacBook Neo Body Dell ประเทศไทย เปิดตัว โน้ตบุ๊กราคาถูก (ของยุคสมัยนี้) คือ Dell 14S ในราคาเริ่มต้น 33,900 บาท Dell 14S เป็นโน้ตบุ๊กที่ออกมาเพื่อสู้กับ MacBook Neo ตรง",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "CrowdStrike โลกยิ่งเสี่ยง ธุรกิจยิ่งโต | Digital Frontiers EP.83 - thairath.co.th",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OLTF6dWVuTjBZVzZ3UmFEWHAwZzh1bFI1QTRVV1oyTk9EM2hRaE5FNVhvMW1ORi1yLTdaZ2JiZWhFN0x6cktObk9DT05UdHZudnljaUQ0NFN2TlZ1czFlOUxmQ0hSaWQ1VlhFdWpUbEpXLTg?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-26T13:20:40+00:00",
+  "summary": "CrowdStrike โลกยิ่งเสี่ยง ธุรกิจยิ่งโต | Digital Frontiers EP.83 &nbsp;&nbsp; thairath.co.th",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
   "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
   "source": "The Hacker News",
@@ -1758,33 +1785,6 @@
  {
   "title": "CVE-2026-97763 Microsoft Office Excel Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97763",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97772 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97772",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97768 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97768",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97745 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97745",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
