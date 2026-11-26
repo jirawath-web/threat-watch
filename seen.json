@@ -1,12 +1,4 @@
 [
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108429",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108430",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108431",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108432",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108433",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108434",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108435",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108436",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108437",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108438",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108439",
@@ -2998,5 +2990,13 @@
  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVlwVlVjUE5GNXZ4Wlk3aWIzZ21vX1BSem40RS1kbzVUR2NIMktpcUNCS3A3YWJDQXVoYUdJZ3dtQkpFSVM3ZkdZUUJ3VEFlNXo0SHB3TEloR05wcDBDUjR4VU1sVVRwSUtYaFlGb1VYYU1EMlg5SURfRkxpWGk5dzlNeW1DeU1nSk1IdlQ5R2ZNNHBac2RDZzVlcnhJdTJmeDBQWG52V04wVTZDdUNGT2RxV01IZDRjY19Tbno1MHBDaXhvdTRaR1d6azJ1Q3UySkI0?oc=5",
  "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxVnB4MERfc2U2YUVhZlVvZzlUZjVfV2ZxX0djaG5mc2NyV2c1YW5lQ2ZZXy15NTRJNU15Q2VBdmMtNmwtZDc0Z25NN3EzN2hNU1FLQzE4OWNpNUZoa1YtV0o0dkZmdw?oc=5",
  "https://news.google.com/rss/articles/CBMihwVBVV95cUxQMzBFeEl0WW0yc2xtT2pGM2s4SkFyeThuRFo5YTFGM2FfSlUtMjNrNHpOWG5zWEIzVUdLT2Y5UEFqWE1GSnB1V1otVEZub0tib0ZGb2lrbUg4VW5Oc0liWUVWM3pZd0dTNTluYnM2Uzg5MWdiRG5aR0lEVEc0bVNrOGZYM0cyTGJORDhmRTNuWjZ4M25VLWVESFBXZVRqcTdVRFBackNpcnVIWDdQVG5MdVZ5bnhtX2ZuNEUwSUtnX2NJMDJuSW9SWUtVVVg2THc1SXpoX0NDbWJqV1lMWDV2NmoxNEtCQzVBM1VLbzNlMkhILVRRWjMyMTZlM2J1QXJaTDQzTV9VZ0tGcTd5MW5lZ2p0OXZfZS1kRkdvZmVnNkpHbUlyOURfT2t6U1lSbEpBVk1zaWR4d1IxdDBBeVMxblZrZTNjNWw4RjlUQlR4RHZ0U0pGcFJiWGtIdkh5TGRDcWhYLTBCS0lnbktRc1dVWHl1dmZrMzR0U0hLV0ZkRmlTS2liMFVOVlJQdFN6TEJBWkFNLUlBbU00ZXJoZzlXRDIxbjNsdk9sVUhLN3NGakdQdjUxVXZVWmhVc05hYVdqRU9RNTZBVGlpNzQtTTd0aDBlLTBIWnBiamljcTBaaE1GaFpNa1ZBSU1tbF9jdzBZSGFsLTB1LVNud2o5dXVKcnAxZGtkcm90S2NVRWtSSEhsTkVYZEptRWxid1RvaUJPdEJwRk8ybmUxS1pkWE9YWlZLMXJDX1lUZ0Z3bzBFQm1tTGFQVlFzbHB6Q2xHeXhuNWRyN08yLXMyWFk2RUI3a2VyeldlQVJhWjJwajNhRm03WGpvc0x0WFppSmt6S1ZaS3drNkRFbw?oc=5",
- "https://www.thaicert.or.th/2026/11/26/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-10/"
+ "https://www.thaicert.or.th/2026/11/26/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-10/",
+ "https://www.blognone.com/node/152260",
+ "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZFVDOUFjdUhBTmx1ODRoN3RTUTJRQ1g1cGhhOUxsVEpkUmFFaFZpLTRjeU0tS0IxWjh3VVE0eVlFR3diYnZfNXV6a2RoN2dzbFJxSDBvNHF2Q1NqTFFDdXpPX0hsejRKbVRheWZvYUQ3bWpVN3BMZUVUMVlvMHY3OC1rYjk5SmtPVGJYeVRYTmc1UnZfUVlXSXFPRlJTOGNmS0t0TzRKbXRQUk02UjRDUXJaTUJxdURLODVLVEFfNEkwd0oySndoYnE3WV9QUUg5ZEpwX2hjSWZ1VnM2S3FBTEpZMA?oc=5",
+ "https://www.thaicert.or.th/2026/11/26/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1-gt13-%e0%b9%83%e0%b8%8a%e0%b9%89-ai-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95/",
+ "https://www.thaicert.or.th/2026/11/26/palo-alto-networks-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-fragnesia-%e0%b9%83%e0%b8%99-pan-os-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%9e/",
+ "https://www.thaicert.or.th/2026/11/26/%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%b2%e0%b8%a1%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%99%e0%b8%ad/",
+ "https://www.thaicert.or.th/2026/11/26/1password-%e0%b9%80%e0%b8%9c%e0%b8%a2%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%84%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b8%b1/",
+ "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+ "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
 ]

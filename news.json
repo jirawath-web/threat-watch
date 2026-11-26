@@ -1,5 +1,68 @@
 [
  {
+  "title": "เตือนภัย! กลุ่ม GT13 ใช้ AI โจมตีเซิร์ฟเวอร์ Check Point ในหลายอุตสาหกรรมทั่วโลก",
+  "link": "https://www.thaicert.or.th/2026/11/26/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1-gt13-%e0%b9%83%e0%b8%8a%e0%b9%89-ai-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-26T07:30:00+00:00",
+  "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง [&#8230;] The post เตือนภัย! กลุ่ม GT13 ใช้ AI โจมตีเซิร์ฟเวอร์ Check Point ในหลายอุตสาหกรรมทั่วโลก first appeared on Thailand Computer Emergency Response Team (Tha",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Check-Point-Security-Management-1024x576.jpg"
+ },
+ {
+  "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+  "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+  "source": "The Hacker News",
+  "published": "2026-11-26T07:02:34+00:00",
+  "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case ",
+  "severity": "critical",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy2EcytpsKiKLhUfvQEADKBG6Ht2NprR2VIhIXPJcNQMIGqKT20l0afBPUVhehKFhRzpkHvl3Qu_qaPjFL3L4UsLYH3L4C1DM63zqskhJV1UAjaPqONaEbNkBFsxVDX2jpPZrMym52WvBx2pHktUiRfdXOcp_23xjTdUOxxjxJtI906XLMmw258Bjah1J2/s1600/drupal-rce.png"
+ },
+ {
+  "title": "Palo Alto Networks แก้ช่องโหว่ Fragnesia ใน PAN-OS หลังพบถูกใช้โจมตีเพื่อยกระดับสิทธิ์เป็น Root",
+  "link": "https://www.thaicert.or.th/2026/11/26/palo-alto-networks-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-fragnesia-%e0%b9%83%e0%b8%99-pan-os-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%9e/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-26T07:02:00+00:00",
+  "summary": "654/69 (IT) ประจำวันพฤหัสบดีที่ 26 พฤศจิกายน 2569 Palo [&#8230;] The post Palo Alto Networks แก้ช่องโหว่ Fragnesia ใน PAN-OS หลังพบถูกใช้โจมตีเพื่อยกระดับสิทธิ์เป็น Root first appeared on Thailand Computer Emergency Resp",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3_2-2-1024x768.png"
+ },
+ {
+  "title": "ภัยคุกคามทางไซเบอร์ในอุตสาหกรรมการเดินเรือเพิ่มสูงขึ้น คาดเรือพาณิชย์ตกเป็นเป้าหมายถึง 50 ลำ",
+  "link": "https://www.thaicert.or.th/2026/11/26/%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%b2%e0%b8%a1%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%99%e0%b8%ad/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-26T07:01:00+00:00",
+  "summary": "653/69 (IT) ประจำวันพฤหัสบดีที่ 26 พฤศจิกายน 2569 ทางกา [&#8230;] The post ภัยคุกคามทางไซเบอร์ในอุตสาหกรรมการเดินเรือเพิ่มสูงขึ้น คาดเรือพาณิชย์ตกเป็นเป้าหมายถึง 50 ลำ first appeared on Thailand Computer Emergency Respon",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_2-2-1024x768.png"
+ },
+ {
+  "title": "1Password เผยเหตุข้อมูลลูกค้ารั่วไหล หลังบัญชี GitHub ของพนักงานถูกเจาะ ยืนยันคลังรหัสผ่านยังปลอดภัย",
+  "link": "https://www.thaicert.or.th/2026/11/26/1password-%e0%b9%80%e0%b8%9c%e0%b8%a2%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%84%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b8%b1/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-26T07:00:00+00:00",
+  "summary": "652/69 (IT) ประจำวันพฤหัสบดีที่ 26 พฤศจิกายน 2569 1Pass [&#8230;] The post 1Password เผยเหตุข้อมูลลูกค้ารั่วไหล หลังบัญชี GitHub ของพนักงานถูกเจาะ ยืนยันคลังรหัสผ่านยังปลอดภัย first appeared on Thailand Computer Emergenc",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_2-2-1024x768.png"
+ },
+ {
+  "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+  "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+  "source": "The Hacker News",
+  "published": "2026-11-26T06:44:46+00:00",
+  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that wer",
+  "severity": "high",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht82Zul6A6D_rTYZuOr0QQWkA4p8kQXRI-4qAYhdGBdTR0ZNzlHkHCiz3eSv5wm9Gq1rADX0CIEBUu08HBUbWd4fVKtL6f7UrWcaa_nVetYt0DyPj2-f_yM80HEIUbuy57mpftPYHHp1FKCNXvkDnFtsj-V5PWGUvWiNL38OKY3EIKUwKHuoKsIc4oSXeC/s1600/mitel.jpg"
+ },
+ {
+  "title": "OpenAI พบ Big-O ใหม่ของการคูณเมตริกซ์ คือ O(n⁹⁄₄)",
+  "link": "https://www.blognone.com/node/152260",
+  "source": "Blognone News",
+  "published": "2026-11-26T06:37:54+00:00",
+  "summary": "OpenAI พบ Big-O ใหม่ของการคูณเมตริกซ์ คือ O(n⁹⁄₄) Body OpenAI เผยแพร่รายงานวิจัยคณิตศาสตร์ชุดใหม่ต่อเนื่อง จากที่เคยเปิดเผยก่อนหน้านี้ โดยหนึ่งในนั้นคือบทพิสูจน์ว่า Big-O ของการคูณเมตริกซ์คือ O(n⁹⁄₄) ซึ่งเล็กลงกว่า O(n 2",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "เตือนรัฐแทรกแซงโรงกลั่นบั่นทอนความมั่นคงพลังงาน ชี้ค่าการกลั่นจ่อขาลง - News1Live",
   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44eXZRUlh0bFVKdFlJQkxSMzR3UWl4ZVEtbHNHNDB5NHFXQzBtMkQxcWdrT2RIQjJQcUt4bmx0bXIzMjY0Sldyb21KYmJSODQySjIzXw?oc=5",
   "source": "Google News: Security",
@@ -1722,69 +1785,6 @@
  {
   "title": "CVE-2026-55007 Microsoft Exchange Server Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55007",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-69544 Windows SMB Client Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69544",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-78505 Microsoft Office Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78505",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-69360 Microsoft Office Word Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69360",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-58649 .NET Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58649",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-72973 Microsoft Office Word Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72973",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-77911 Microsoft Office Word Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77911",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-78455 Xbox Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78455",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
