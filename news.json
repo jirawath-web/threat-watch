@@ -1,5 +1,14 @@
 [
  {
+  "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+  "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+  "source": "The Hacker News",
+  "published": "2026-11-26T10:57:55+00:00",
+  "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to k",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYXUiExbrrmBGGBgTjOFcDJSrLYJuITQwZY-l1mOzzkes21-mR0My9ikeCM7cI6VDXuBIE9BZPnKazemiuZf7A4w_xeeMy_IUUlNVTKX3PmW-Xt7FA9UI8JoICZDPW4ZWSspztPv_Mo4Zf7G_fXEw_phMe4uc89O38ugIlQJJKmc6VD7QN3NzU0n0SQU/s1600/push-most.jpg"
+ },
+ {
   "title": "[ลือ] NVIDIA สั่งหยุดส่งชิปเข้าไทย มาเลเซีย สิงคโปร์ อินโดนีเซีย",
   "link": "https://www.blognone.com/node/152261",
   "source": "Blognone News",
@@ -1776,15 +1785,6 @@
  {
   "title": "CVE-2026-97745 Microsoft Office Excel Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97745",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-100211 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-100211",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
