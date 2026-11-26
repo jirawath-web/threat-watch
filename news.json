@@ -1,5 +1,14 @@
 [
  {
+  "title": "Nutanix ประกาศแผนสรรหาซีอีโอคนใหม่ต่อจาก Rajiv Ramaswami",
+  "link": "https://www.blognone.com/node/152254",
+  "source": "Blognone News",
+  "published": "2026-11-26T00:49:47+00:00",
+  "summary": "Nutanix ประกาศแผนสรรหาซีอีโอคนใหม่ต่อจาก Rajiv Ramaswami Body Nutanix ประกาศแผนสรรหาซีอีโอคนใหม่ ต่อจาก Rajiv Ramaswami ซีอีโอคนปัจจุบัน โดยบอร์ดของบริษัทบอกว่าจะร่วมมือกับ Ramaswami ในการคัดเลือกซีอีโอคนถัดไป และ Ramasw",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "1Password รายงานปัญหาถูกแฮ็ก ได้ข้อมูลผู้ใช้งานบางส่วน แต่ Vault และรหัสผ่าน ไม่ได้รับผลกระทบ",
   "link": "https://www.blognone.com/node/152253",
   "source": "Blognone News",
@@ -1781,14 +1790,5 @@
   "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can r",
   "severity": "critical",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg"
- },
- {
-  "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-  "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-  "source": "The Hacker News",
-  "published": "2026-11-19T08:14:00+00:00",
-  "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behin",
-  "severity": "high",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg"
  }
 ]
