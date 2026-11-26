@@ -1,5 +1,23 @@
 [
  {
+  "title": "1Password รายงานปัญหาถูกแฮ็ก ได้ข้อมูลผู้ใช้งานบางส่วน แต่ Vault และรหัสผ่าน ไม่ได้รับผลกระทบ",
+  "link": "https://www.blognone.com/node/152253",
+  "source": "Blognone News",
+  "published": "2026-11-26T00:26:13+00:00",
+  "summary": "1Password รายงานปัญหาถูกแฮ็ก ได้ข้อมูลผู้ใช้งานบางส่วน แต่ Vault และรหัสผ่าน ไม่ได้รับผลกระทบ Body 1Password รายงานเหตุการณ์ถูกเจาะข้อมูลระบบ โดยพบว่าผู้โจมตีใช้วิธีเข้าถึงข้อมูลผ่านบัญชี GitHub แบบองค์กรของพนักงานคนหนึ่",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "สหกิจศึกษาเปิดเส้นทางอาชีพ Cyber Security ‘ไพรัช ชมชื่น’ ศิษย์เก่า IT SPU นำประสบการณ์ทำงานจริงสู่โอกาสร่วมงานกับ MFEC หลังสำเร็จการศึกษา - news-update - Sripatum University",
+  "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQlJydE5aMUMwcjUzZXRQaG54UG5wX2Z0VkdocW44Tnhia3hxVUhhYmJEOFFZT2RDQ3BHbXFpSW9MdzRWRTF4aVB6NWtTZTdVekFoV2lhWjExOGR4VzFHUl9SVG96SHZXVk8xeEdnZG5ORzZLZTA2MWhNUGxwb19QbGhTUFBTby1UUHhUaFVWUlVPT0UtOVR5eUdBVlotWFFTQUhTdkpDY3BjR1pRVVFweFR4UlpiTU9YOTFhb0E2UEFCMXBpZUUtQ0dPUVVmLUVJVDROamF5SUdUMXZzc1hINXFDeFZPTmw1bldUWHNfQm1MN25RY3JHZ1o3eHFUMTJWaFdRaU5seklDYlJQOEZhaWltZmgxLWRtU3VyRHRoQ2hHQQ?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-25T21:07:06+00:00",
+  "summary": "สหกิจศึกษาเปิดเส้นทางอาชีพ Cyber Security ‘ไพรัช ชมชื่น’ ศิษย์เก่า IT SPU นำประสบการณ์ทำงานจริงสู่โอกาสร่วมงานกับ MFEC หลังสำเร็จการศึกษา - news-update &nbsp;&nbsp; Sripatum University",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
   "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
   "source": "The Hacker News",
@@ -1772,23 +1790,5 @@
   "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behin",
   "severity": "high",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg"
- },
- {
-  "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-  "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-  "source": "The Hacker News",
-  "published": "2026-11-19T08:00:00+00:00",
-  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Elec",
-  "severity": "high",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg"
- },
- {
-  "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-  "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-  "source": "The Hacker News",
-  "published": "2026-11-19T04:33:46+00:00",
-  "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.",
-  "severity": "critical",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg"
  }
 ]
