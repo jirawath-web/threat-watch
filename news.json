@@ -1,5 +1,23 @@
 [
  {
+  "title": "เตือนรัฐแทรกแซงโรงกลั่นบั่นทอนความมั่นคงพลังงาน ชี้ค่าการกลั่นจ่อขาลง - SondhiX",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBUWhnMVl2LU02NHhRWmtEaWx0VTA3bUUyV205UGNFRDBNOFdsbUI4SDZ2LUY4MWhNQmRZNlNYamxQcGs1XzR5bUxSc0Mxd19raWRGS2Z3?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-26T03:50:00+00:00",
+  "summary": "เตือนรัฐแทรกแซงโรงกลั่นบั่นทอนความมั่นคงพลังงาน ชี้ค่าการกลั่นจ่อขาลง &nbsp;&nbsp; SondhiX",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+  "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+  "source": "The Hacker News",
+  "published": "2026-11-26T03:48:52+00:00",
+  "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF ",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt0w3YJQrn6VoUVUTTj46NLfeL_JJE-sDoxKsuBe-_OxBtQ3iX8AZTZ1CEn39-N5TGKYd-0ZKdOT43UwAWUbpIXlFdDwhyphenhyphenEKpkQVVJYJVodQRHyz0pJeKEvJIJgUpAEQqXizajmrriq9Mj1aqioeK1Zug__X26Ra4HwzFg8ImTajGc6b7Ck9LW2OCIpPoa/s1600/dotnet.jpg"
+ },
+ {
   "title": "Google Cloud เผยภัยไซเบอร์ยุค AI พุ่งสูง ช่องโหว่เพิ่ม 3 เท่า เร่งองค์กรไทยรับมือ - ผู้จัดการออนไลน์",
   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYcUc3NU40VXJjOUhtQjVoYmZLb3BvVjFtcUVfMWw2Y01uMnYzcWtqYnI1d2p4ZWU4bEtfbk81bEVZSWszUzlFbnF6Ym9VN1FacFlzVVZpQnJINTNhR2VQdg?oc=5",
   "source": "Google News: Security",
@@ -563,6 +581,15 @@
   "source": "Blognone News",
   "published": "2026-11-24T01:01:51+00:00",
   "summary": "Z.ai ปล่อย GLM-5.4 เปลี่ยนสถาปัตยกรรมเป็น Loop Transformer ลดต้นทุนการรัน Body Z.ai ปล่อยโมเดลปัญญาประดิษฐ์ GLM-5.4 ที่จุดเปลี่ยนสำคัญคือการใช้สถาปัตยกรรม Loop Transformer ที่ช่วยให้โมเดลทำความฉลาดได้เทียบเท่าโมเดลขนาดให",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "Grand Theft Auto 6: วิธีผ่านภารกิจ Security Expert ค้นหา Nicole - games.gg",
+  "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbGladkxFa245eGZ3bWZsNl9JWFdZMEFnR2ZtNFVMYmhnMFFmZWZBSkFNV2ZTYlh1ZHNZQUt1WWpMbG4xS3hUOTZ1UldaUm93TGxKMnZfWWlkUnZWWjlqc1VYZEFRY1p4dFhQS1VVTHdmc2k0SWNMR0pMRW5WQ2Q1QjhqVG95MUdGOUtWSGhhVVJLbGVTMEZid0t0WjBsZjdNUGExTm55NVctMEdaTFRBODJEaFNPaE1JNXBWMm1wdmNJYnZYYThybkJNaERwOV93TkpyMXg1b3dyY2MxbGJSLXN1Ti1SVVVtLXBvaV82U1JCSTFUNXBreUdONVg5dm9sQUZZMnhhRE9jdkVORDJVaXFuR0hQRFVxNXZ2YXNHYUItUUhUV1BtcnhUOTQ1WnRMOXR0MHNjLUhqY3RTd1E?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-24T00:42:24+00:00",
+  "summary": "Grand Theft Auto 6: วิธีผ่านภารกิจ Security Expert ค้นหา Nicole &nbsp;&nbsp; games.gg",
   "severity": "info",
   "image": ""
  },
@@ -1758,33 +1785,6 @@
  {
   "title": "CVE-2026-81957 Microsoft Excel Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81957",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-69381 Windows Storage Port Driver Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69381",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-63516 Microsoft SharePoint Server Spoofing Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63516",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-55121 Microsoft Office Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55121",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
