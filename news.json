@@ -1,5 +1,23 @@
 [
  {
+  "title": "Google Cloud เผยภัยไซเบอร์ยุค AI พุ่งสูง ช่องโหว่เพิ่ม 3 เท่า เร่งองค์กรไทยรับมือ - ผู้จัดการออนไลน์",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYcUc3NU40VXJjOUhtQjVoYmZLb3BvVjFtcUVfMWw2Y01uMnYzcWtqYnI1d2p4ZWU4bEtfbk81bEVZSWszUzlFbnF6Ym9VN1FacFlzVVZpQnJINTNhR2VQdg?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-26T03:00:00+00:00",
+  "summary": "Google Cloud เผยภัยไซเบอร์ยุค AI พุ่งสูง ช่องโหว่เพิ่ม 3 เท่า เร่งองค์กรไทยรับมือ &nbsp;&nbsp; ผู้จัดการออนไลน์",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "Dell รายงานผลประกอบการ ทำสถิติใหม่อีกไตรมาส รายได้ Server AI เพิ่มขึ้นเกือบ 4 เท่า",
+  "link": "https://www.blognone.com/node/152258",
+  "source": "Blognone News",
+  "published": "2026-11-26T02:41:55+00:00",
+  "summary": "Dell รายงานผลประกอบการ ทำสถิติใหม่อีกไตรมาส รายได้ Server AI เพิ่มขึ้นเกือบ 4 เท่า Body Dell Technologies รายงานผลการดำเนินงานของไตรมาสที่ 3 ตามปีการเงินบริษัท 2027 สิ้นสุดเดือนตุลาคม รายได้รวมทำสถิติสูงสุดใหม่อีกไตรมาสโ",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "FC 27 นำเสียงนักพากย์ชื่อดัง John Motson กลับมาอีกครั้งด้วย AI",
   "link": "https://www.blognone.com/node/152257",
   "source": "Blognone News",
@@ -1772,23 +1790,5 @@
   "summary": "Updated an acknowledgement. This is an informational change only.",
   "severity": "high",
   "image": ""
- },
- {
-  "title": "PHP Security Team แจ้งเตือนช่องโหว่ระดับ Critical และแนะนำผู้ใช้งานเตรียมรับการอัปเดต 19 พฤศจิกายนนี้ - i-secure Co, Ltd.",
-  "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNREwxa3hJcTBJSVJjVS1Kajl6cnRBcEhZOEtXcG9oZFBJbF9LalhKZUhxalBROGVqS0w4aXNFQ0NURlBwOF9HTFpHSFZiaUprakdlbnBxX2lqcExMcVV2ZUVtWlItUEJqYVdQLXFRXzRWVVE1NkozM1lseUhLcnA0cTBDZVhMWGJacWpkckJ4Q21EMWJNeHV0WHNJRVdCWlAtVFJCdU93TnZHMlVjNjZSRmhURGNhTW5UaVE3ZWs3bUk3VkdOMERJOXBOZ0dwN0hHSGFuSDlsc05ZSXdtRWRlWEZIcnc5TWpXR2t0dkVKZG9vZXhHd0RXWmxuRFZHajFXUVZsNnVrczduX2o5Z2pnMks4VWpwdTA3WVY2YW1zWW8zTWxZbGhtMHBsWllLU0x5cDlzbUVqZERBeEY0NEM4WnByZHhvZjdxRjdwd1BxVVFlRndi?oc=5",
-  "source": "Google News: Security",
-  "published": "2026-11-19T15:44:44+00:00",
-  "summary": "PHP Security Team แจ้งเตือนช่องโหว่ระดับ Critical และแนะนำผู้ใช้งานเตรียมรับการอัปเดต 19 พฤศจิกายนนี้ &nbsp;&nbsp; i-secure Co, Ltd.",
-  "severity": "critical",
-  "image": ""
- },
- {
-  "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-  "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-  "source": "The Hacker News",
-  "published": "2026-11-19T15:18:07+00:00",
-  "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the",
-  "severity": "critical",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg"
  }
 ]
