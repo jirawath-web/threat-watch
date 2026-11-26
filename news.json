@@ -738,6 +738,15 @@
   "image": ""
  },
  {
+  "title": "Ethereum Foundation เพิ่มทีมความปลอดภัยของโปรโตคอลเป็นสองเท่า เร่งปรับระบบรับมือควอนตัมและ AI - efin.finance",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWVJSS0ExNk82R3BFSUZZY0pTSXd6NDlRRjVDeDZKVWIzM2V3aE9QT0daRVV6cEVfX1YxempfanZBWFdVX0ZmOFotY3lfM3ZKVHo5cUZGZWI0RFVKeUt3SGhxR2RiSXlEc0E2cHhjdVZuWlQwaXVkU1B3ZWNpWnIyQ0Z4QjRPRzlmN0hrRTAxMWNuVEFkSUxDSkQ3enBNUQ?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-24T03:44:50+00:00",
+  "summary": "Ethereum Foundation เพิ่มทีมความปลอดภัยของโปรโตคอลเป็นสองเท่า เร่งปรับระบบรับมือควอนตัมและ AI &nbsp;&nbsp; efin.finance",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Z.ai ปล่อย GLM-5.4 เปลี่ยนสถาปัตยกรรมเป็น Loop Transformer ลดต้นทุนการรัน",
   "link": "https://www.blognone.com/node/152244",
   "source": "Blognone News",
@@ -1776,15 +1785,6 @@
  {
   "title": "CVE-2026-97741 Microsoft Office Excel Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97741",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97763 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97763",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
