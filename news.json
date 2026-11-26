@@ -1,5 +1,14 @@
 [
  {
+  "title": "[ลือ] NVIDIA สั่งหยุดส่งชิปเข้าไทย มาเลเซีย สิงคโปร์ อินโดนีเซีย",
+  "link": "https://www.blognone.com/node/152261",
+  "source": "Blognone News",
+  "published": "2026-11-26T09:10:59+00:00",
+  "summary": "[ลือ] NVIDIA สั่งหยุดส่งชิปเข้าไทย มาเลเซีย สิงคโปร์ อินโดนีเซีย Body สำนักข่าว Financial Times อ้างแหล่งข่าวไม่เปิดเผยตัวตน 3 ราย ระบุว่า NVIDIA สั่งผู้ผลิตเซิร์ฟเวอร์ เช่น Dell, Supermicro ให้หยุดส่งมอบเซิร์ฟเวอร์ไปยัง",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "เตือนภัย! กลุ่ม GT13 ใช้ AI โจมตีเซิร์ฟเวอร์ Check Point ในหลายอุตสาหกรรมทั่วโลก",
   "link": "https://www.thaicert.or.th/2026/11/26/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1-gt13-%e0%b9%83%e0%b8%8a%e0%b9%89-ai-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95/",
   "source": "Cyber News by thaicert.or.th",
@@ -349,6 +358,15 @@
   "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise ",
   "severity": "info",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNbawIx8zYCfd7sCTbVfIzPFBtykkY65lf8EOswU62pIdZKTrx9ReB3mGnqYqujmW5eGzN_w8pEijAZMTpmOZ3fGB5zFyFaPo4ZhRQ8V0BkAmDCH3WoVqJ3kAfjDcw3_wRjhwphfyJxjF3_rDYiudb-cxt0pY3t8s-IRjNP1aEYHqtO5L1eZMkgBX6y2xD/s1600/wp.jpg"
+ },
+ {
+  "title": "กองทัพเรือเดินหน้าเสริมแกร่งไซเบอร์! นำคณะผู้บริหารศูนย์ไซเบอร์ ศึกษาดูงาน สกมช. แลกเปลี่ยนองค์ความรู้รับมือภัยคุกคาม - topnews.co.th",
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14NERhdHJhc0kxQ1VJSTBnaUx4YWxIUzRmaU0yM3dqUXFGOEw1TThFT2dYclNtMnlVWmVwcW9QWFY4b1JSSnRLcDAxU3R4V0k?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-25T05:27:39+00:00",
+  "summary": "กองทัพเรือเดินหน้าเสริมแกร่งไซเบอร์! นำคณะผู้บริหารศูนย์ไซเบอร์ ศึกษาดูงาน สกมช. แลกเปลี่ยนองค์ความรู้รับมือภัยคุกคาม &nbsp;&nbsp; topnews.co.th",
+  "severity": "info",
+  "image": ""
  },
  {
   "title": "แจ้งเตือน พบช่องโหว่ในไลบรารี binary-parser เสี่ยงถูกโจมตีผ่าน Code Injection และรัน JavaScript บนระบบ Node.js ในเวอร์ชันก่อน 2.3.1",
@@ -1767,24 +1785,6 @@
  {
   "title": "CVE-2026-100209 Microsoft Office Excel Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-100209",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-111497 Google: CVE-2026-111497 Buffer overflow vulnerability in the Brotli decoder",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-111497",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Information published.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-55007 Microsoft Exchange Server Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55007",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
