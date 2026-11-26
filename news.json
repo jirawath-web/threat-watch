@@ -1,5 +1,32 @@
 [
  {
+  "title": "เตือนรัฐแทรกแซงโรงกลั่นบั่นทอนความมั่นคงพลังงาน ชี้ค่าการกลั่นจ่อขาลง - News1Live",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44eXZRUlh0bFVKdFlJQkxSMzR3UWl4ZVEtbHNHNDB5NHFXQzBtMkQxcWdrT2RIQjJQcUt4bmx0bXIzMjY0Sldyb21KYmJSODQySjIzXw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-26T05:10:10+00:00",
+  "summary": "เตือนรัฐแทรกแซงโรงกลั่นบั่นทอนความมั่นคงพลังงาน ชี้ค่าการกลั่นจ่อขาลง &nbsp;&nbsp; News1Live",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "[ไม่ยืนยัน] Apple ทดสอบรัน macOS บน iPad แต่ยังไม่มีแผนนำออกมาใช้งานทั่วไป",
+  "link": "https://www.blognone.com/node/152259",
+  "source": "Blognone News",
+  "published": "2026-11-26T04:52:18+00:00",
+  "summary": "[ไม่ยืนยัน] Apple ทดสอบรัน macOS บน iPad แต่ยังไม่มีแผนนำออกมาใช้งานทั่วไป Body Mark Gurman แห่ง Bloomberg คนเดิม ให้ข้อมูลในรายการพอดคาสต์ของเขา ตอบคำถามเรื่องความเป็นไปได้ที่ iPad จะรันระบบปฏิบัติการ macOS ได้ เพราะตอน",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+  "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+  "source": "The Hacker News",
+  "published": "2026-11-26T04:20:22+00:00",
+  "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer passw",
+  "severity": "high",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg"
+ },
+ {
   "title": "เตือนรัฐแทรกแซงโรงกลั่นบั่นทอนความมั่นคงพลังงาน ชี้ค่าการกลั่นจ่อขาลง - SondhiX",
   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBUWhnMVl2LU02NHhRWmtEaWx0VTA3bUUyV205UGNFRDBNOFdsbUI4SDZ2LUY4MWhNQmRZNlNYamxQcGs1XzR5bUxSc0Mxd19raWRGS2Z3?oc=5",
   "source": "Google News: Security",
@@ -1758,33 +1785,6 @@
  {
   "title": "CVE-2026-78521 Microsoft Office Word Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78521",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-78524 Microsoft Office Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78524",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-78526 Microsoft Office Word Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78526",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-81957 Microsoft Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81957",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
