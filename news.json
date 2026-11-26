@@ -72,6 +72,15 @@
   "image": ""
  },
  {
+  "title": "Google รายงานภัยคุกคามไซเบอร์ด้วย AI ขยายตัว 3 เท่า เตรียมมาตรการรับมือปี 2025 - Head Topics",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IbTkzY180ckx2cDNTdHlFOUdrM19iV2VvQlJ2QVJmOENCWTlXYTRVeEdqa2FUMUNqcGpEYXhwdVZYUzVZdkg3cmNpLWVPZm5EUGZuUGJQSnFvXzlBdVI1Yy1jX1YxTFBpN3BXbThB?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-26T05:23:00+00:00",
+  "summary": "Google รายงานภัยคุกคามไซเบอร์ด้วย AI ขยายตัว 3 เท่า เตรียมมาตรการรับมือปี 2025 &nbsp;&nbsp; Head Topics",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "เตือนรัฐแทรกแซงโรงกลั่นบั่นทอนความมั่นคงพลังงาน ชี้ค่าการกลั่นจ่อขาลง - News1Live",
   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44eXZRUlh0bFVKdFlJQkxSMzR3UWl4ZVEtbHNHNDB5NHFXQzBtMkQxcWdrT2RIQjJQcUt4bmx0bXIzMjY0Sldyb21KYmJSODQySjIzXw?oc=5",
   "source": "Google News: Security",
@@ -1776,15 +1785,6 @@
  {
   "title": "CVE-2026-100211 Microsoft Office Excel Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-100211",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-100209 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-100209",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
