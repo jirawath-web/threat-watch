@@ -1,5 +1,14 @@
 [
  {
+  "title": "X เพิ่มระบบ Parental Control ผู้ปกครองควบคุมบัญชีเด็ก 13-17 ปี ได้แล้ว",
+  "link": "https://www.blognone.com/node/152264",
+  "source": "Blognone News",
+  "published": "2026-11-26T23:34:14+00:00",
+  "summary": "X เพิ่มระบบ Parental Control ผู้ปกครองควบคุมบัญชีเด็ก 13-17 ปี ได้แล้ว Body X เพิ่มระบบที่ผู้ปกครองสามารถควบคุมดูแลบัญชีผู้ใช้งานที่เป็นเยาวชนอายุ 13-17 ปี (Parental Control) ซึ่งเป็นฟีเจอร์ที่แพลตฟอร์มโซเชียลอื่นมีมานาน",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
   "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
   "source": "The Hacker News",
@@ -1776,15 +1785,6 @@
  {
   "title": "CVE-2026-97743 Microsoft Office Excel Information Disclosure Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97743",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97777 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97777",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
