@@ -1,5 +1,14 @@
 [
  {
+  "title": "แจ้งเตือน พบช่องโหว่ใน Hex.pm เสี่ยงถูกสั่งประมวลผลคำสั่งและเข้าถึงข้อมูลบัญชีผู้ใช้งาน",
+  "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-hex-pm/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-27T14:35:00+00:00",
+  "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง [&#8230;] The post แจ้งเตือน พบช่องโหว่ใน Hex.pm เสี่ยงถูกสั่งประมวลผลคำสั่งและเข้าถึงข้อมูลบัญชีผู้ใช้งาน first appeared on Thailand Computer Emergency Response Te",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Hex.pm_-1024x576.jpg"
+ },
+ {
   "title": "เสริมเกราะความปลอดภัยคนเจียงฮาย เชียงรายผนึก 3 คณะความมั่นคง คุมเข้มยาเสพติด-ลักลอบเข้าเมือง-สารเคมีอันตราย ดูแลค้าชายแดนและ 4 ลุ่มน้ำ - nakornchiangrainews.com",
   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hN1Z6cVprTUROMDNFeFRKSVNnODYtYWY2N0pfOVBPZU5VNTNldkNqNzR2aldEOVBZRGRnWXl5LXFUeUdiazJlRTN6RVFzWk1ydEZRUVJVMmk5N0hCNDFBalhuOFc0YjVwWFFjcVBWeU1SMm5ycnVNNjFB?oc=5",
   "source": "Google News: Security",
@@ -7,6 +16,15 @@
   "summary": "เสริมเกราะความปลอดภัยคนเจียงฮาย เชียงรายผนึก 3 คณะความมั่นคง คุมเข้มยาเสพติด-ลักลอบเข้าเมือง-สารเคมีอันตราย ดูแลค้าชายแดนและ 4 ลุ่มน้ำ &nbsp;&nbsp; nakornchiangrainews.com",
   "severity": "info",
   "image": ""
+ },
+ {
+  "title": "แจ้งเตือนช่องโหว่ใน MONAI Label (CVE-2026-133968 ) เสี่ยงถูกเข้าถึงและแก้ไขไฟล์ภายในระบบโดยไม่ได้รับอนุญาต",
+  "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-monai-label-cve-2026-133968/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-27T12:30:00+00:00",
+  "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง [&#8230;] The post แจ้งเตือนช่องโหว่ใน MONAI Label (CVE-2026-133968 ) เสี่ยงถูกเข้าถึงและแก้ไขไฟล์ภายในระบบโดยไม่ได้รับอนุญาต first appeared on Thailand Computer Em",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/MONAI-Label-1024x576.jpg"
  },
  {
   "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
@@ -25,6 +43,15 @@
   "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells alm",
   "severity": "info",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg"
+ },
+ {
+  "title": "แจ้งเตือน พบช่องโหว่ใน Drupal เสี่ยงถูกควบคุมเว็บไซต์และสั่งประมวลผลคำสั่งโดยไม่ต้องยืนยันตัวตน",
+  "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-drupal/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-27T09:30:00+00:00",
+  "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง [&#8230;] The post แจ้งเตือน พบช่องโหว่ใน Drupal เสี่ยงถูกควบคุมเว็บไซต์และสั่งประมวลผลคำสั่งโดยไม่ต้องยืนยันตัวตน first appeared on Thailand Computer Emergency Res",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Drupal-1024x576.jpg"
  },
  {
   "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
@@ -1758,33 +1785,6 @@
  {
   "title": "CVE-2026-84016 Windows EAPHost Service Elevation of Privilege Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84016",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-84020 Windows Routing and Remote Access Service (RRAS) Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84020",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-85794 Windows Routing and Remote Access Service (RRAS) Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85794",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-85846 Web Account Manager Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85846",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
