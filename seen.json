@@ -1,7 +1,4 @@
 [
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96995",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97005",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97001",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97744",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96997",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97750",
@@ -2998,5 +2995,8 @@
  "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-drupal/",
  "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
  "https://news.google.com/rss/articles/CBMiekFVX3lxTE0taDBnVjNzTFhZSVhaNS1IeGwxbHFCYmdfNmsyN2J0SEs1S2puWmJHdEx2WlFCTHBVUjhJV1dxdHB5YlFiLVkzWTBpdWxuVzA0MWpWdHRYaGE2MUh5cmxmVFZJMEtwZE9xZ2pMbmQ3VnZsU2g4Unc0S0x3?oc=5",
- "https://news.google.com/rss/articles/CBMibkFVX3lxTE94OEdFM052LVdYTGF1QVBDWGJGanpVeV9nbXo0OHZGMnBXc2VqMFFacUVnYjlJNXBkTmV5dHVMa0pBOUxUUkl6VmhOSEhuQVBKUnE2Z2xJUDNuUkoxcVRMa1FlMGNkVXpsV1FtN0ZR?oc=5"
+ "https://news.google.com/rss/articles/CBMibkFVX3lxTE94OEdFM052LVdYTGF1QVBDWGJGanpVeV9nbXo0OHZGMnBXc2VqMFFacUVnYjlJNXBkTmV5dHVMa0pBOUxUUkl6VmhOSEhuQVBKUnE2Z2xJUDNuUkoxcVRMa1FlMGNkVXpsV1FtN0ZR?oc=5",
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zeTlhYXhqbEpJMjBCT1BSb0Rydlgwc0ZJUWpOOFJoTThkSjNGU2lPVjk2dDVYX2U3MENzMlF6Q3AwUk5zZG5LRlRZdHpHWlozNmR4TGt3LXliQQ?oc=5",
+ "https://news.google.com/rss/articles/CBMi1AVBVV95cUxNdUx5aHdCRnVhSTZNWjluTm1uS0hWVTRrR2dBR0t3cHgtd1VwZVBWSzBOb0o5OWswRkExekJqdXNSVDVKaEs2V3Z3VU9XLTBuTE9BVm5VNHNUeTNZaWtsU0I5bGMwQTFxaDllZ0w0Z3FkR2FiLVotZGJjX2c4SWEweVYwcE9aQlotb2ZjeGJBbTZydjZ1NVJ0ek94eG5Kc0dkS1BqbDlmSjVkUXhmZEJGWWtTM3Q3dVdScTB6ZzVZVHRSQ3ZkT0VXdjJfQm9mMGtmaGIwNndPdnkxRlJVMUI2TTdfMGRjbVlVNmp6LTRwenlGU25SZ1h2dmNCdlVjR1hySzlGZTVGdjBvOERiM25JcjZmYnhSYVl4OUhaOUpkTmM3cWRQaHVjWkVPOVU1ei1WblA5ektVUmswWk1iY2VhckNOZ1ZkUjk5eWxuVFRJbzVMQWFMcjctZU1JWHhCMkt5d2FwNTRoM0Q0Zl85NkhtelMwbEdlcE1zTnZsdlNHWDZFbldtdDU1ZUEzNHhYaHo0ZnI5QkdVSTdlbHdNcjlDQzNxN1Y3WW9oMzk2ai1lVTk2d3Z5czRHUWZ2dW9JczRCZWliWC0yLXE0VUNscGpjelFKejhrVEVtYTk1UzJINWhqRi10eXhhbE5sMXpuclBBSDRCWlZrRmc1SVRxcTdsdnRNSHRKQ0VnaU1Wc1pMNW11LU1vc0hMUjFoQ0NoV2ZhdzRIbUpyZnJBT2M3VzdLOXowQklQYzgtUHdnYnZFeTB5cGJ0VEdac3ZnSmhLaDk3SmI3eUphLXVLOEZoTGJfc3NsbEE3SUFXWjlmd2RNM0hJTUFZeldHZ2pyWFJxcjBfYjVRTXJtZHVUNnQ0WlF6UldtbW9ENTZGM3hRNXl4WUVLWXROVWdhb3c2N214VVJSc2s4YjFzQzZLSjd0TEpBamRHcENxRVdSQWJYNmlhLVdVT0ZR?oc=5",
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTR2Wk96eW4wQ1FrN29kQUgySk95b2NjdF9yLWFuMlpfcFdYVy1WdmlmRWlmbkJrMlBsSGVBWjl3Y2JnenlqNFc4V3U3UThfWnRXSVpRZ3paRVF5YWlpUzBOZDU0V250N2QyUnE4MjR0cTlqbjZ1NVNka0MtMmNHcnQzWTR2djI4dGkyYlp2UWszdVoyLTQ0eTF3?oc=5"
 ]
