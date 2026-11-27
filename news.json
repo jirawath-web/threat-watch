@@ -1,5 +1,14 @@
 [
  {
+  "title": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก",
+  "link": "https://www.blognone.com/node/152266",
+  "source": "Blognone News",
+  "published": "2026-11-27T01:43:50+00:00",
+  "summary": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก Body Shinji Mikami บิดาผู้ให้กำเนิดซีรีส์ Resident Evil (ลาออกจาก Capcom ปี 2006, ปัจจุบัน เปิดสตูดิโอ Unbound ซึ่งถูกซื้อโดย Shift Up ) ไปขึ้นเวที",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "X เพิ่มระบบ Parental Control ผู้ปกครองควบคุมบัญชีเด็ก 13-17 ปี ได้แล้ว",
   "link": "https://www.blognone.com/node/152264",
   "source": "Blognone News",
@@ -1776,15 +1785,6 @@
  {
   "title": "CVE-2026-97773 Microsoft Office Excel Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97773",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97743 Microsoft Office Excel Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97743",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
