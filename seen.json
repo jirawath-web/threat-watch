@@ -1,7 +1,4 @@
 [
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70096",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66822",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69651",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70159",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70165",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70179",
@@ -2998,5 +2995,8 @@
  "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uSE5GdDBfSnhiX3NHUk91S29QbUpUZkJSUVNSMERoNTdOS0xWNWNQMTh0YXR0dmtqSldvaklwSXhadVhBQVBSeFVRYmQwckZn?oc=5",
  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tcHg5WVg1cE1EMTNMMEJwTldvTTl6YVNKdmZTWnhMaV9TNGpsNUJnSldhNmlVTjd2RUN3S1ZvalNOWk1jRmQ2b21aQ3o1cVVxVktMQU1VbFZKcnFmc0JHbQ?oc=5",
- "https://www.blognone.com/node/152264"
+ "https://www.blognone.com/node/152264",
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfc3JMcTJEUC12bEJxTUhTTV9xT09wOUhWUnA4M1FaZE1ZM25EMFEzeVZIVThWN2NQT0Fqa2ZjOG52ekp1VUV1eThSbkIzdEExZERybzJn?oc=5",
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MdHljdzlUT0d0bjdJZzRfMXNtd0Z4bkdOZGhhanhBRzFGOEdadEV5emViMmNwUUl1Y194cHg3UXpDVkk3WEdRRHFCWGlya01FbEdiMEZsSUhqQQ?oc=5",
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wWUVUX3pXVjcwOUtRNjJ2Tkl1bUdhUzF0TmJyTXVsRHhGVlBPTGZMRXQ2VU5QdTdUbEVGRVZNS19LZGZzc3hSUE9WcFdFTTVTUDZzWmtn?oc=5"
 ]
