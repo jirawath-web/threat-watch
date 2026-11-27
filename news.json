@@ -1,5 +1,23 @@
 [
  {
+  "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+  "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+  "source": "The Hacker News",
+  "published": "2026-11-27T10:32:18+00:00",
+  "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells alm",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg"
+ },
+ {
+  "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+  "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+  "source": "The Hacker News",
+  "published": "2026-11-27T09:29:30+00:00",
+  "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that m",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg"
+ },
+ {
   "title": "เตือนภัยมัลแวร์ SYS010 แพร่ผ่านโฆษณาปลอม เสี่ยงถูกขโมยบัญชีและข้อมูลอีเมล",
   "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-sys010-%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88%e0%b8%9c%e0%b9%88/",
   "source": "Cyber News by thaicert.or.th",
@@ -1767,24 +1785,6 @@
  {
   "title": "CVE-2026-97749 Microsoft Office Outlook Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97749",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97761 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97761",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97780 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97780",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
