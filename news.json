@@ -1,5 +1,41 @@
 [
  {
+  "title": "เตือนภัยมัลแวร์ SYS010 แพร่ผ่านโฆษณาปลอม เสี่ยงถูกขโมยบัญชีและข้อมูลอีเมล",
+  "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-sys010-%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88%e0%b8%9c%e0%b9%88/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-27T07:12:00+00:00",
+  "summary": "657/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 นักวิจัย [&#8230;] The post เตือนภัยมัลแวร์ SYS010 แพร่ผ่านโฆษณาปลอม เสี่ยงถูกขโมยบัญชีและข้อมูลอีเมล first appeared on Thailand Computer Emergency Response Team (ThaiCERT) ",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3_0-11-1024x768.png"
+ },
+ {
+  "title": "พบแคมเปญ Phishing แอบอ้างบริษัทชั้นนำ หลอกสัมภาษณ์ผู้เชี่ยวชาญพร้อมเสนอค่าตอบแทน เพื่อขโมยข้อมูลบัญชี Google และ Okta",
+  "link": "https://www.thaicert.or.th/2026/11/27/%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-phishing-%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%ad%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-27T07:11:00+00:00",
+  "summary": "656/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 บริษัทด้ [&#8230;] The post พบแคมเปญ Phishing แอบอ้างบริษัทชั้นนำ หลอกสัมภาษณ์ผู้เชี่ยวชาญพร้อมเสนอค่าตอบแทน เพื่อขโมยข้อมูลบัญชี Google และ Okta first appeared on Thailand ",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_0-11-1024x768.png"
+ },
+ {
+  "title": "ราคา Microsoft Security Copilot: SCU ซื้ออะไรได้บ้าง - OrcaRouter",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NY3JiWFhqTGFIcE54VmZNNTJ5QW5jbDV1d1o0NjluLVA2Nk1aMTl1clBCNjhlTkNwX1dmY3k5R3JPY1RwV2pNYTlGNTlwRFoxQkM5NXZxeGowMkJRVmw4UnF1S3B1RTlfeEFzTjZac2tTSERRQVR5MjJn?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-27T07:10:48+00:00",
+  "summary": "ราคา Microsoft Security Copilot: SCU ซื้ออะไรได้บ้าง &nbsp;&nbsp; OrcaRouter",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "ระวังมัลแวร์ขโมยข้อมูล Remus แฝงตัวเป็นส่วนขยาย Google Sheets ปลอมบนเบราว์เซอร์ Chrome",
+  "link": "https://www.thaicert.or.th/2026/11/27/%e0%b8%a3%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%87%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b8%82%e0%b9%82%e0%b8%a1%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5-r/",
+  "source": "Cyber News by thaicert.or.th",
+  "published": "2026-11-27T07:10:00+00:00",
+  "summary": "655/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 นักวิจัย [&#8230;] The post ระวังมัลแวร์ขโมยข้อมูล Remus แฝงตัวเป็นส่วนขยาย Google Sheets ปลอมบนเบราว์เซอร์ Chrome first appeared on Thailand Computer Emergency Response Tea",
+  "severity": "info",
+  "image": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_0-11-1024x768.png"
+ },
+ {
   "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
   "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
   "source": "The Hacker News",
@@ -1749,42 +1785,6 @@
  {
   "title": "CVE-2026-97780 Microsoft Office Excel Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97780",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97767 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97767",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-85910 Windows StateRepository API Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85910",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-87698 Windows Remote Access Service Infrastructure Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87698",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-88130 Role: DNS Server Denial of Service Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88130",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
