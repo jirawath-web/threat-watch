@@ -1468,6 +1468,15 @@
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg"
  },
  {
+  "title": "คต.ดัน AI จัดระบบ มุ่ง Food Security สร้างมูลค่าเพิ่ม - Head Topics",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94OEdFM052LVdYTGF1QVBDWGJGanpVeV9nbXo0OHZGMnBXc2VqMFFacUVnYjlJNXBkTmV5dHVMa0pBOUxUUkl6VmhOSEhuQVBKUnE2Z2xJUDNuUkoxcVRMa1FlMGNkVXpsV1FtN0ZR?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-20T16:12:00+00:00",
+  "summary": "คต.ดัน AI จัดระบบ มุ่ง Food Security สร้างมูลค่าเพิ่ม &nbsp;&nbsp; Head Topics",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "คต.ดัน AI จัดระบบ มุ่ง Food Security สร้างมูลค่าเพิ่ม - ประชาชาติธุรกิจ",
   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZY1hieHVqWG8zdWxOYXpEUW1qWDVsakFHVDZnV2trOTF2SU00WHBRNndwdjRmc2VpQmZYQVZvM0Y0VXNQbkhLMUVyRVA4bnVleGh5endvZ1djUzNv?oc=5",
   "source": "Google News: Security",
@@ -1776,15 +1785,6 @@
  {
   "title": "CVE-2026-83760 Microsoft Bluetooth Driver Information Disclosure Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83760",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-84015 Remote Access Point-to-Point Protocol (PPP) EAP-TLS Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84015",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
