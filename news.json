@@ -1,5 +1,14 @@
 [
  {
+  "title": "\"วรศิษฎ์\" นำทีมขึ้นเหนือจับมือ \"ปกครอง-ตำรวจ\" kick off ติดอาวุธ \"ทีมต่อต้านภัยความมั่นคงทางทะเบียนแบบบูรณาการ\" - banmuang.co.th",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BQTNJejIyOGpsRDhFYlppNGUwRHV6b0xWN25GU2ptX1FsRVVkZnltLWJ3UXpOZ3RMS19SSnN3NHNLaUxaYXVNZ2lEaExvOUd4dlFtRGxnR1lmOVpJcVNKVTBlbw?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-27T05:15:00+00:00",
+  "summary": "\"วรศิษฎ์\" นำทีมขึ้นเหนือจับมือ \"ปกครอง-ตำรวจ\" kick off ติดอาวุธ \"ทีมต่อต้านภัยความมั่นคงทางทะเบียนแบบบูรณาการ\" &nbsp;&nbsp; banmuang.co.th",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Satya Nadella ยอมรับไมโครซอฟท์มองพลาด ไม่เห็นว่า Claude Code จะมาฆ่า IDE",
   "link": "https://www.blognone.com/node/152267",
   "source": "Blognone News",
@@ -1776,15 +1785,6 @@
  {
   "title": "CVE-2026-70035 .NET Framework Remote Code Execution Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70035",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97756 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97756",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
