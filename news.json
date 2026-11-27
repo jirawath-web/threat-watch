@@ -1,5 +1,23 @@
 [
  {
+  "title": "เสริมเกราะความปลอดภัยคนเจียงฮาย เชียงรายผนึก 3 คณะความมั่นคง คุมเข้มยาเสพติด-ลักลอบเข้าเมือง-สารเคมีอันตราย ดูแลค้าชายแดนและ 4 ลุ่มน้ำ - nakornchiangrainews.com",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hN1Z6cVprTUROMDNFeFRKSVNnODYtYWY2N0pfOVBPZU5VNTNldkNqNzR2aldEOVBZRGRnWXl5LXFUeUdiazJlRTN6RVFzWk1ydEZRUVJVMmk5N0hCNDFBalhuOFc0YjVwWFFjcVBWeU1SMm5ycnVNNjFB?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-27T13:48:15+00:00",
+  "summary": "เสริมเกราะความปลอดภัยคนเจียงฮาย เชียงรายผนึก 3 คณะความมั่นคง คุมเข้มยาเสพติด-ลักลอบเข้าเมือง-สารเคมีอันตราย ดูแลค้าชายแดนและ 4 ลุ่มน้ำ &nbsp;&nbsp; nakornchiangrainews.com",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+  "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+  "source": "The Hacker News",
+  "published": "2026-11-27T11:49:34+00:00",
+  "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSe",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpD815FTK1v-12AKbFYOz3fplAY5EWVRrb1mh5LOUSmUmG7u7mdgGnppCpL9-ZaG-3CyWm_2KP4icW3UY1Q3AYG6lEe03ezqY9Jx49mW9SC4D0JqiUhT-Rmet7lin7u1bHdyppzeay-bTKDty53IDUI_P9md3iUp5xaY-ko1U2uBRTkNdPhAVTYuW9hDmO/s1600/ms-store.png"
+ },
+ {
   "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
   "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
   "source": "The Hacker News",
@@ -104,6 +122,15 @@
   "source": "Blognone News",
   "published": "2026-11-27T01:43:50+00:00",
   "summary": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก Body Shinji Mikami บิดาผู้ให้กำเนิดซีรีส์ Resident Evil (ลาออกจาก Capcom ปี 2006, ปัจจุบัน เปิดสตูดิโอ Unbound ซึ่งถูกซื้อโดย Shift Up ) ไปขึ้นเวที",
+  "severity": "info",
+  "image": ""
+ },
+ {
+  "title": "MiniMax เผยตรวจความปลอดภัยการใช้งานแม้จะซื้อ API จากผู้ให้บริการรายอื่น",
+  "link": "https://www.blognone.com/node/152265",
+  "source": "Blognone News",
+  "published": "2026-11-27T01:21:28+00:00",
+  "summary": "MiniMax เผยตรวจความปลอดภัยการใช้งานแม้จะซื้อ API จากผู้ให้บริการรายอื่น Body ต่อเนื่องจากข่าว ผู้ให้บริการ LLM บน OpenRouter ถูกแฮก อีกกรณีหนึ่งที่เกี่ยวข้องกันคือนักวิจัยพบว่าพรอมต์ที่ส่งไปยังโมเดล MiniMax หลายรายถูกอ่า",
   "severity": "info",
   "image": ""
  },
@@ -1758,33 +1785,6 @@
  {
   "title": "CVE-2026-85846 Web Account Manager Elevation of Privilege Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85846",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-70174 .NET Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70174",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-88151 Microsoft Office Excel Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88151",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-97749 Microsoft Office Outlook Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97749",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
