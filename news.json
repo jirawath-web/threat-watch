@@ -1,5 +1,14 @@
 [
  {
+  "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+  "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+  "source": "The Hacker News",
+  "published": "2026-11-28T08:08:11+00:00",
+  "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, w",
+  "severity": "info",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizySCkvtf5mXH_3zoxzuk-QyEdUnYmspglEsVYdqRITloUFrUDZCQJcwtQG09teFmXo2IJOknOQb7CXhUpjKjGnadD6TuOIvVWIoWmKcaxb8-1uwf-3AiXZPYCFf2RzDkHNZ06d2Q5OS6AcCV7JHjTACCJH2f5aipC8vllpOwj1dSBYQJtqJ_wDc5nXQwU/s1600/pcloud.jpg"
+ },
+ {
   "title": "Exodus Wallet ปลอดภัยหรือไม่ จากการโจมตี npm ปี 2025 - FinanceFeeds",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Mld2SDF1aWFLSzN6RmstNmRmMUozQTlSZzVxUnVYR1Zkdng5aGpSelhidFFmclM3NEtNZlAyeEN2RzBacmt5X0dIczZ2OEV2VERSRUZWMVB6ZmFRbUdOM21TSTQ3X2c4bXNPSExCREE0NnR0WE5V?oc=5",
   "source": "Google News: Security",
@@ -657,15 +666,6 @@
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg"
  },
  {
-  "title": "CVE-2026-112732 Microsoft Office Visio Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-112732",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-24T16:00:00+00:00",
-  "summary": "Information published. This CVE was addressed by updates that were released in November 2026, but the CVE was inadvertently omitted from the November 2026 Security Updates. This is an informational change only. Customers",
-  "severity": "high",
-  "image": ""
- },
- {
   "title": "ภัยความมั่นคง AI เจอช่องโหว่ Java สหรัฐฯ สั่งอัปเดตระบบด่วน - Techhub",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkE4RmhEZjA3WC1LSzdhTzVyTWc5dXVGbmZWS0JaVmh4dzViaUdVVEJIVDBLT1ktQ2IycWE3NDNVTDZUZVJEbzhiX2JSWTRmOFVKXzlLeFJBWU9RcWxoZVJtdjQzeHdQLXZVcF9YcHktOXlUblVKRks2RFFvR3hMcTNKNXZFem5qNlcwTXREZjhVLUpqOUdHUnJBR2VFRlBOd1hZcUN5blBJV1h0VVRPZw?oc=5",
   "source": "Google News: Security",
@@ -754,42 +754,6 @@
   "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through fast",
   "severity": "info",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgNbpx-KISiy12Rp8KNb5ElWQADJtyC7fLFuLFCc7WzbOjCP5CmU2dPyuwhq5kRSQP5lOuwwFhvZovILCzeMgaSes8APbVabNVpJB71EC56WrojqqLU-tjIr2MFDPK8fMHnu-dx35G-p6btlQb1xU16c8IPrY4cs0k8t1pufSHgp74Y5HtqiAVk4A1QI/s1600/2027.jpg"
- },
- {
-  "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-  "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-  "source": "CISA Advisories & Alerts",
-  "published": "2026-11-24T12:00:00+00:00",
-  "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability&nb",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "Danfoss AK-SM 8xxA Series",
-  "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
-  "source": "CISA Advisories & Alerts",
-  "published": "2026-11-24T12:00:00+00:00",
-  "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
-  "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
-  "source": "CISA Advisories & Alerts",
-  "published": "2026-11-24T12:00:00+00:00",
-  "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extens",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "AutomationDirect C-More EA9 Programming Software",
-  "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
-  "source": "CISA Advisories & Alerts",
-  "published": "2026-11-24T12:00:00+00:00",
-  "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convince",
-  "severity": "high",
-  "image": ""
  },
  {
   "title": "มีคนเล่น GTA 6 บน PS 5 วันแรกมากกว่า 39 ล้านคน สูงสุดในประวัติศาสตร์เกม PlayStation",
@@ -981,96 +945,6 @@
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg"
  },
  {
-  "title": "CVE-2026-69291 Windows Volume Manager Extension Driver Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69291",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-78462 Visual Studio Code Security Feature Bypass Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78462",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-72965 Windows WebClient Service Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72965",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-87697 .NET Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87697",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-70175 ASP.NET Core Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70175",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-70197 .NET and Visual Studio Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-96225 .NET Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96225",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-96233 ASP.NET Core Denial of Service Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96233",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-109481 ASP.NET Core Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109481",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-119848 Windows Message Queuing Denial of Service Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119848",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-23T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
   "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
   "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
   "source": "The Hacker News",
@@ -1157,15 +1031,6 @@
   "published": "2026-11-23T12:00:56+00:00",
   "summary": "CrowdStrike ปิดดีลซื้อกิจการ Zscaler เพื่อสร้างแพลตฟอร์มความปลอดภัยไซเบอร์ยุค AI มูลค่าดีล 4.4 หมื่นล้านดอลลาร์ Body CrowdStrike ประกาศซื้อกิจการ Zscaler บริษัทความปลอดภัยบนคลาวด์อย่างเป็นทางการ ตามที่ มีข่าวออกมาวันก่อน",
   "severity": "info"
- },
- {
-  "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-  "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "source": "CISA Advisories & Alerts",
-  "published": "2026-11-23T12:00:00+00:00",
-  "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability &nbsp; CVE-20",
-  "severity": "high",
-  "image": ""
  },
  {
   "title": "[ลือ] MacBook Neo 2 จะเปิดตัวต้นปีหน้า ชิป A19 Pro, แรม 12GB และมีสีสันใหม่ ๆ",
@@ -1540,15 +1405,6 @@
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png"
  },
  {
-  "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-  "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "source": "CISA Advisories & Alerts",
-  "published": "2026-11-20T12:00:00+00:00",
-  "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Qu",
-  "severity": "high",
-  "image": ""
- },
- {
   "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
   "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
   "source": "The Hacker News",
@@ -1574,24 +1430,6 @@
   "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The",
   "severity": "critical",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSAI-N-DRII1YA3I98ZVnKnG0SMgm97oEAqyiSXZB23DPwzvTk3figFLsTCKsMJRxRhjKEPFblxfcOuB_UXc_OAXJRiVI07Jxjn-CebJVHiRQ5sc43AifBpUPNfU5-LRD6QEGbX7Vnt_HAmJZiLojS32PtNWwIWeideJZnIpgjrstJ0Iy84lYd47bePk/s1600/chinese-vmware.jpg"
- },
- {
-  "title": "Chromium: CVE-2024-7533 Use after free in Sharing",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-7532",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-20T09:06:50+00:00",
-  "summary": "Information published.",
-  "severity": "info",
-  "image": ""
- },
- {
-  "title": "Chromium: CVE-2023-1531 Use after free in ANGLE",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1531",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-20T09:05:37+00:00",
-  "summary": "Information published.",
-  "severity": "info",
-  "image": ""
  },
  {
   "title": "แว่น AI ทำอะไรได้บ้าง? เรื่องที่ต้องรู้ก่อนเปลี่ยนมาใช้แว่นอัจฉริยะ",
@@ -1682,113 +1520,5 @@
   "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the a",
   "severity": "info",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg"
- },
- {
-  "title": "CVE-2026-105584 Windows Inventory Backup Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105584",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-95874 Xbox Gaming Services Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-95874",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-95989 vhdmp.sys Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-95989",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-96082 Windows Kerberos Denial of Service Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96082",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-113817 Windows Devices Human Interface Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-113817",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-121669 PowerShell Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-121669",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-118302 Microsoft Office Excel Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118302",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-69370 Visual Studio Code Remote Code Execution Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69370",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-69918 Windows Core Messaging Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69918",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-70223 Windows Console Driver Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70223",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-83722 Microsoft Local Security Authority (LSA) Server Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83722",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-83753 Windows Camera Frame Server Monitor Elevation of Privilege Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83753",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
  }
 ]
