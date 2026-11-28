@@ -1,9 +1,4 @@
 [
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105596",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105597",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105598",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-94506",
- "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105713",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105714",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105716",
  "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105720",
@@ -2998,5 +2993,10 @@
  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVdGRU5fTlZqcENsbEdpXzExUjZpUVlRWDJGVkdreE9ONVo0a0VXWFAwZkZKa2dlQV93WGRKVXo1MFp3Z1FBc0FMSVBGYW9XeEFqRjdxeGlyYmdzZnlrNkNybWE2QXg0VmxsaHFReGJKRHBCQW5YM3F1TmU5R1g4U1k5U2lPckE4VURoZDhGRFA3Z1dQa281ekVsdXRCNU9qWUJ3bFg3bTlPN2RXOTJabjNDWEVxVGExOF8w?oc=5",
  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzhYN3BXNFVkZEZKSVZSZUVXSlRRY3FMWFhLcjhKQkg2Z2d2VnZLa2dWQ2JyY04zNEw3b1FCWFdiNzlTWVBsSFIxWTlETWE5NlhMRkJhVkpXMjlhY1NkeUVFTDBaSlE5QjBZeGJTbkJFNTd3UWtfMkJrZ01zVWtDcFJhSl90MXQyajYwNnJicw?oc=5",
  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEI1TkVEQVhLX0hreEJHYjlwNU1RcUQxZFB5OFNIdG9fejV3TGw0Z2p3bUJTSkwzYzQwX3lQMWktd1VpdkpvZ2JZdlNiT3hHUXdNbHgxNF9WMTlCVnhCZXhQSkF6ODhGRWQyckwxd29oZHczWWg2d2pueG12czNPMkE1dmx3ZTF4b3dIZnNtb2FmdHlGemg2czMwbjRPTDRWaEdfcg?oc=5",
- "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lRFJKNm5aYmNhbi1XTWFfTXpFVElRSmMxYnFHT1JPdGxDNlFFT1R0dDM0cXZRMFhDLURSM3JOaV82SklmeXp0cVJrelVjWWstamtvMW1pWmtQLTlLYjg1eTFNMkxLRTZYUDJHRm5SSjNIdThMS2V6LQ?oc=5"
+ "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lRFJKNm5aYmNhbi1XTWFfTXpFVElRSmMxYnFHT1JPdGxDNlFFT1R0dDM0cXZRMFhDLURSM3JOaV82SklmeXp0cVJrelVjWWstamtvMW1pWmtQLTlLYjg1eTFNMkxLRTZYUDJHRm5SSjNIdThMS2V6LQ?oc=5",
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTFBicE5HTmZQTnJ6MXNIdEhjRFQtTFpvLUswNWF3ZTVLYjR1Ql9VbVJJR2R6SFdjRGlnM1ZlV1YxM2d5SFFqRlI4UDdfakFOQWpVTFE4TVpRbC0zU2hhb001WVdDeVBlU0Nhc1lLb3p4Skw4cFB1c29UUEw2Mks3YW8?oc=5",
+ "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NUmJpZ09QLUZLUUw4R2RqXzBoMWhkTlotUXBva1ZRNW1YNHhSbFNXcjgzR25wNzJ3VzZ5SEJzVXhoMUZxbnpHV1U4YXprUnA0eW9ac1JGSkFIV19iX3J3aGJqUHM1eFpLMlVHNkFOaTZORjVhNFVIblJB?oc=5",
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFJBVmVNOHhYUmNIYzVlUzZrb0syOTh5c09CaXdGdUZBZ2Jhb1NiUmNKSDI2ZF9XYXRadUVYU1k3cHdFM2FsdzBsSzlwOGpkQ3hIWFcyMlhLLUhoekY5UGV0WU56N0x2a3JpV0Z1TzFuM09GVnlhbkx2V1R5NV9HRHkyNUxPdzdqTHVFTjBaUDFsYllwbmFqRUFhWVVNcW5uRmc?oc=5",
+ "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0xISVMycVVvQlNzckpiY2RWNHM2N1VpMGlOTFNqb0xPc0t6OHpFNzVTTHp4QXpDZWtVdDJJTl9BbnUyYTVrRmF4bENYazBWbUlVVXpOQ3IycFprYVF2Rzg3REpoZVNKOFhhck8wa05SemFfa1c5bnBjekduVTlyMXh1dXFQdmhmRjhGUUNxYXNTNk1fMnNPSzl1Tmw?oc=5",
+ "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEZka3I5bVJwaWJzYjhtaHU5a1lvUVhCdHRiazhLeFFSUFhzUnE3MWFKWElhMS1jZ0Zpd3phMWpKUVZBWVBhQ1BnaV9NbGg1el9rbEV0YXdrUklHQkZ5a0hSR3VrZDdxWkxYSjZFUXl0c0RFM29YanVYcmRSVHNmbw?oc=5"
 ]
