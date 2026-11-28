@@ -149,7 +149,7 @@ document.addEventListener("click",e=>{const t=e.target.closest("button");if(!t)r
  else if(t.dataset.save){const l=t.dataset.save;saved=saved.includes(l)?saved.filter(x=>x!==l):[...saved,l];sv("tw-saved",saved);render()}
  else if(t.dataset.theme){cfg.theme=t.dataset.theme;sv("tw-cfg",cfg);applyTheme();render()}
  else if(t.id==="saveurl"){cfg.url=$("#url").value.trim()||"news.json";sv("tw-cfg",cfg);load()}
- else if(t.dataset.delfeed!==undefined){cfg.feeds.splice(+t.dataset.delfeed,1);sv("tw-cfg",cfg);render()}
+ else if(t.dataset.delfeed!==undefined){const gone=(cfg.feeds[+t.dataset.delfeed]||{}).name;cfg.feeds.splice(+t.dataset.delfeed,1);if(gone){items=items.filter(x=>x.source!==gone);off.delete(gone)}sv("tw-cfg",cfg);render()}
  else if(t.id==="addfeed"){const el=$("#newurl"),u=el.value.trim();if(!/^https?:\/\//i.test(u)){el.value="";el.placeholder="ลิงก์ต้องขึ้นต้นด้วย https://";return}let n=$("#newname").value.trim();try{n=n||new URL(u).hostname}catch(e){n=n||u}cfg.feeds.push({name:n,url:u});sv("tw-cfg",cfg);render()}
  else if(t.id==="savekw"){cfg.keywords=$("#kw").value.split(",").map(s=>s.trim()).filter(Boolean);sv("tw-cfg",cfg);render()}
  else if(t.id==="copyfeeds"){const o=$("#out");o.select();try{navigator.clipboard.writeText(o.value)}catch(e){try{document.execCommand("copy")}catch(e2){}}}

@@ -85,6 +85,11 @@ seen_list = read(SEEN_FILE, [])
 seen = set(seen_list)
 news = {i["link"]: i for i in read(NEWS_FILE, [])}
 
+# ลบข่าวของฟีดที่ถูกลบออกจาก feeds.json แล้ว (ป้องกันกรณีไฟล์ feeds.json ว่างจนลบข่าวทั้งหมด)
+names = {f.get("name") or f["url"] for f in cfg.get("feeds", [])}
+if names:
+    news = {k: v for k, v in news.items() if v.get("source") in names}
+
 for feed in cfg.get("feeds", []):
     for e in feedparser.parse(feed["url"]).entries:
         link = e.get("link")
