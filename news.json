@@ -1,5 +1,14 @@
 [
  {
+  "title": "Exodus Wallet ปลอดภัยหรือไม่ จากการโจมตี npm ปี 2025 - FinanceFeeds",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Mld2SDF1aWFLSzN6RmstNmRmMUozQTlSZzVxUnVYR1Zkdng5aGpSelhidFFmclM3NEtNZlAyeEN2RzBacmt5X0dIczZ2OEV2VERSRUZWMVB6ZmFRbUdOM21TSTQ3X2c4bXNPSExCREE0NnR0WE5V?oc=5",
+  "source": "Google News: Security",
+  "published": "2026-11-27T19:40:38+00:00",
+  "summary": "Exodus Wallet ปลอดภัยหรือไม่ จากการโจมตี npm ปี 2025 &nbsp;&nbsp; FinanceFeeds",
+  "severity": "info",
+  "image": ""
+ },
+ {
   "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
   "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
   "source": "The Hacker News",
@@ -1776,15 +1785,6 @@
  {
   "title": "CVE-2026-83753 Windows Camera Frame Server Monitor Elevation of Privilege Vulnerability",
   "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83753",
-  "source": "Microsoft Security Response Center (MSRC)",
-  "published": "2026-11-19T16:00:00+00:00",
-  "summary": "Updated an acknowledgement. This is an informational change only.",
-  "severity": "high",
-  "image": ""
- },
- {
-  "title": "CVE-2026-83760 Microsoft Bluetooth Driver Information Disclosure Vulnerability",
-  "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83760",
   "source": "Microsoft Security Response Center (MSRC)",
   "published": "2026-11-19T16:00:00+00:00",
   "summary": "Updated an acknowledgement. This is an informational change only.",
